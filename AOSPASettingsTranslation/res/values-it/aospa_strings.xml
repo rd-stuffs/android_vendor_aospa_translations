@@ -103,4 +103,6 @@
     <string name="notification_vibration_pattern_title">Pattern vibrazione notifiche</string>
     <string name="ring_vibration_pattern_title">Pattern vibrazione suoneria</string>
     <string name="pattern_default">Predefinito del dispositivo</string>
+    <string name="touch_polling_title">Elevato tasso di polling del touch</string>
+    <string name="touch_polling_summary">Aumenta il tasso di polling del touchscreen per diminuire la latenza</string>
 </resources>

@@ -103,4 +103,6 @@
     <string name="notification_vibration_pattern_title">Benachrichtigungs-Vibrationsmuster</string>
     <string name="ring_vibration_pattern_title">Rufton-Vibrationsmuster</string>
     <string name="pattern_default">Gerätestandard</string>
+    <string name="touch_polling_title">Hohe Touchscreen-Abtastrate</string>
+    <string name="touch_polling_summary">Touchscreen-Abtastrate erhöhen, um die Latenz zu verringern</string>
 </resources>
