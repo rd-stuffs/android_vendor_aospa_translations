@@ -11,3 +11,16 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
+
+# Translation Overlays
+PRODUCT_PACKAGES += \
+    AOSPAFrameworksTranslation \
+    AOSPASettingsTranslation \
+    ParanoidDozeTranslation \
+    ParanoidGlyphTranslation \
+    ParanoidHubTranslation \
+    ParanoidLauncherTranslation \
+    ParanoidPapersTranslation \
+    ParanoidSenseTranslation \
+    ParanoidSystemUITranslation \
+    ParanoidThemePickerTranslation
