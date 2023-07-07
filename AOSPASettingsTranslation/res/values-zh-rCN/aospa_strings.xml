@@ -103,4 +103,6 @@
     <string name="notification_vibration_pattern_title">通知振动模式</string>
     <string name="ring_vibration_pattern_title">铃声振动模式</string>
     <string name="pattern_default">设备默认设置</string>
+    <string name="touch_polling_title">高触控采样率</string>
+    <string name="touch_polling_summary">增加触摸响应以减少延迟</string>
 </resources>

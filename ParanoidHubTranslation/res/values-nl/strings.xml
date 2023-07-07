@@ -2,14 +2,14 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Systeemupdate</string>
     <string name="system_update_update_to_date">Uw systeem is up to date</string>
-    <string name="system_update_update_to_date_desc">Paranoid Android versie: %1$s %2$s &lt;br&gt;Android beveiligingsupdate: %3$s&lt;br&gt;&lt;br&gt;Laatste succesvolle controle op update: %4$s</string>
+    <string name="system_update_update_to_date_desc">Paranoid Android versie: %1$s %2$s &amp;lt;br&amp;gt;Android beveiligingsupdate: %3$s&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;Laatste succesvolle controle op update: %4$s</string>
     <string name="system_update_update_to_date_button">Controleer op update</string>
     <string name="system_update_checking_for_update">Controleren op update...</string>
     <string name="system_update_update_available">Systeemupdate beschikbaar</string>
     <string name="system_update_update_available_security_update">Beveiligingsupdate beschikbaar</string>
     <string name="system_update_update_available_desc">%1$s Omvang update: %2$s</string>
-    <string name="system_update_update_available_with_device_desc">%1$s &lt;br&gt;&lt;br&gt;&lt;b&gt;Belangrijke updates&lt;/b&gt;: &lt;br&gt;- %2$s &lt;br&gt;&lt;br&gt;Omvang update: %3$s</string>
-    <string name="system_update_update_available_device_incremental_desc">&lt;b&gt;%1$s %2$s %3$s&lt;/b&gt; &lt;br&gt;&lt;br&gt;Deze update voegt stabiliteitsverbeteringen toe, lost eveneens kritieke bugs op. Lees meer op &lt;a href=\"https://paranoidandroid.co/\"&gt;paranoidandroid.co&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Belangrijke updates&lt;/b&gt;: &lt;br&gt;- %4$s &lt;br&gt;&lt;br&gt;Omvang update: %5$s</string>
+    <string name="system_update_update_available_with_device_desc">%1$s &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;Belangrijke updates&amp;lt;/b&amp;gt;: &amp;lt;br&amp;gt;- %2$s &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;Omvang update: %3$s</string>
+    <string name="system_update_update_available_device_incremental_desc">&amp;lt;b&amp;gt;%1$s %2$s %3$s&amp;lt;/b&amp;gt; &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;Deze update voegt stabiliteitsverbeteringen toe, lost eveneens kritieke bugs op. Lees meer op &amp;lt;a href="https://paranoidandroid.co/"&amp;gt;paranoidandroid.co&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;Belangrijke updates&amp;lt;/b&amp;gt;: &amp;lt;br&amp;gt;- %4$s &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;Omvang update: %5$s</string>
     <string name="system_update_update_available_button">Downloaden en installeren</string>
     <string name="system_update_update_download_install">Systeemupdate installeren…</string>
     <string name="system_update_update_download_install_security_update">Beveiligingsupdate installeren…</string>

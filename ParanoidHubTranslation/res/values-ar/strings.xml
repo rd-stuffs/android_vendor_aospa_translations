@@ -2,14 +2,14 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">تحديث النظام</string>
     <string name="system_update_update_to_date">لا توجد تحديثات جديدة</string>
-    <string name="system_update_update_to_date_desc">إصدار Paranoid Android: %1$s %2$s &lt;br&gt;تحديث أمان الأندرويد: %3$s&lt;br&gt;&lt;br&gt;التحقق بنجاح من آخر تحديث: %4$s</string>
+    <string name="system_update_update_to_date_desc">إصدار Paranoid Android: %1$s %2$s &amp;lt;br&amp;gt;تحديث أمان الأندرويد: %3$s&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;التحقق بنجاح من آخر تحديث: %4$s</string>
     <string name="system_update_update_to_date_button">البحث عن التحديثات</string>
     <string name="system_update_checking_for_update">البحث عن التحديثات</string>
     <string name="system_update_update_available">يتوفر تحديث للنظام</string>
     <string name="system_update_update_available_security_update">تحديث الأمان متوفر</string>
     <string name="system_update_update_available_desc">%1$s حجم التحديث: %2$s</string>
-    <string name="system_update_update_available_with_device_desc">%1$s &lt;br&gt;&lt;br&gt;&lt;b&gt;تحديثات مهمة&lt;/b&gt;: &lt;br&gt;- %2$s &lt;br&gt;&lt;br&gt;حجم التحديث: %3$s</string>
-    <string name="system_update_update_available_device_incremental_desc">&lt;b&gt;%1$s %2$s %3$s&lt;/b&gt; &lt;br&gt;&lt;br&gt;هذا التحديث يضيف تحسينات للاستقرار، بالإضافة إلى إصلاح الأخطاء الحرجة. تعرف على المزيد في &lt;a href=\"https://paranoidandroid.co/\"&gt;Paranoidandroid. o&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;تحديثات مهمة&lt;/b&gt;: &lt;br&gt;- %4$s &lt;br&gt;&lt;br&gt;حجم التحديث: %5$s</string>
+    <string name="system_update_update_available_with_device_desc">%1$s &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;تحديثات مهمة&amp;lt;/b&amp;gt;: &amp;lt;br&amp;gt;- %2$s &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;حجم التحديث: %3$s</string>
+    <string name="system_update_update_available_device_incremental_desc">&amp;lt;b&amp;gt;%1$s %2$s %3$s&amp;lt;/b&amp;gt; &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;هذا التحديث يضيف تحسينات للاستقرار، بالإضافة إلى إصلاح الأخطاء الحرجة. تعرف على المزيد في &amp;lt;a href="https://paranoidandroid.co/"&amp;gt;Paranoidandroid. o&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;تحديثات مهمة&amp;lt;/b&amp;gt;: &amp;lt;br&amp;gt;- %4$s &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;حجم التحديث: %5$s</string>
     <string name="system_update_update_available_button">تحميل وتثبيت</string>
     <string name="system_update_update_download_install">تثبيت تحديث النظام…</string>
     <string name="system_update_update_download_install_security_update">جارٍ تثبيت تحديث الأمن…</string>

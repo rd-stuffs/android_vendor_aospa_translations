@@ -8,8 +8,8 @@
     <string name="system_update_update_available">प्रणाली अद्यावधिक उपलब्ध छ</string>
     <string name="system_update_update_available_security_update">सुरक्षा अपडेट उपलब्ध छ</string>
     <string name="system_update_update_available_desc">%1$s अद्यावधिक आकार: %2$s</string>
-    <string name="system_update_update_available_with_device_desc">%1$s &lt;br&gt;&lt;br&gt;&lt;b&gt;महत्वपूर्ण अपडेटहरू&lt;/b&gt;: &lt;br&gt;- %2$s &lt;br&gt;&lt;br&gt;अपडेट साइज: %3$s</string>
-    <string name="system_update_update_available_device_incremental_desc">&lt;b&gt;%1$s %2$s %3$s&lt;/b&gt; &lt;br&gt;&lt;br&gt;यो अद्यावधिकले स्थिरता सुधारहरू थप्छ, साथै महत्त्वपूर्ण बगहरू समाधान गर्दछ। &lt;a href=\"https://paranoidandroid.co/\"&gt;paranoidandroid.co&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;महत्त्वपूर्ण अद्यावधिकहरू&lt;/b&gt; मा थप जान्नुहोस्: &lt;br&gt;- %4$ s &lt;br&gt;&lt;br&gt;अपडेट साइज: %5$s</string>
+    <string name="system_update_update_available_with_device_desc">%1$s &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;महत्वपूर्ण अपडेटहरू&amp;lt;/b&amp;gt;: &amp;lt;br&amp;gt;- %2$s &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;अपडेट साइज: %3$s</string>
+    <string name="system_update_update_available_device_incremental_desc">&amp;lt;b&amp;gt;%1$s %2$s %3$s&amp;lt;/b&amp;gt; &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;यो अद्यावधिकले स्थिरता सुधारहरू थप्छ, साथै महत्त्वपूर्ण बगहरू समाधान गर्दछ। &amp;lt;a href="https://paranoidandroid.co/"&amp;gt;paranoidandroid.co&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;महत्त्वपूर्ण अद्यावधिकहरू&amp;lt;/b&amp;gt; मा थप जान्नुहोस्: &amp;lt;br&amp;gt;- %4$ s &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;अपडेट साइज: %5$s</string>
     <string name="system_update_update_available_button">डाउनलोड र स्थापना गर्नुहोस्</string>
     <string name="system_update_update_download_install">प्रणाली अद्यावधिक स्थापना गर्दै...</string>
     <string name="system_update_update_download_install_security_update">सुरक्षा अद्यावधिक स्थापना गर्दै...</string>

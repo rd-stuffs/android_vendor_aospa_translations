@@ -2,14 +2,14 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Actualização do Sistema</string>
     <string name="system_update_update_to_date">O seu sistema está actualizado</string>
-    <string name="system_update_update_to_date_desc">Versão Paranoid do Android: %1$s %2$s &lt;br&gt;Actualização da segurança do Android: %3$s&lt;br&gt;&lt;br&gt;Última actualização com êxito: %4$s</string>
+    <string name="system_update_update_to_date_desc">Versão Paranoid do Android: %1$s %2$s &amp;lt;br&amp;gt;Actualização da segurança do Android: %3$s&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;Última actualização com êxito: %4$s</string>
     <string name="system_update_update_to_date_button">Procurar actualizações</string>
     <string name="system_update_checking_for_update">A procurar por actualizações …</string>
     <string name="system_update_update_available">Actualização disponível</string>
     <string name="system_update_update_available_security_update">Actualização de segurança disponível</string>
     <string name="system_update_update_available_desc">%1$s Tamanho da actualização: %2$s</string>
-    <string name="system_update_update_available_with_device_desc">%1$s &lt;br&gt;&lt;br&gt;&lt;b&gt;Actualizações importantes&lt;/b&gt;: &lt;br&gt;- %2$s &lt;br&gt;&lt;br&gt;Tamanho da actualização: %3$s</string>
-    <string name="system_update_update_available_device_incremental_desc">&lt;b&gt;%1$s %2$s %3$s&lt;/b&gt; &lt;br&gt;&lt;br&gt;Esta actualização adiciona melhorias de estabilidade, além de corrigir erros críticos. Saiba mais em &lt;a href=\"https://paranoidandroid.co/\"&gt;paranoidandroid.co&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Actualizações importantes&lt;/b&gt;: &lt;br&gt;- %4$s &lt;br&gt;&lt;br&gt;Tamanho: %5$s</string>
+    <string name="system_update_update_available_with_device_desc">%1$s &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;Actualizações importantes&amp;lt;/b&amp;gt;: &amp;lt;br&amp;gt;- %2$s &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;Tamanho da actualização: %3$s</string>
+    <string name="system_update_update_available_device_incremental_desc">&amp;lt;b&amp;gt;%1$s %2$s %3$s&amp;lt;/b&amp;gt; &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;Esta actualização adiciona melhorias de estabilidade, além de corrigir erros críticos. Saiba mais em &amp;lt;a href="https://paranoidandroid.co/"&amp;gt;paranoidandroid.co&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;Actualizações importantes&amp;lt;/b&amp;gt;: &amp;lt;br&amp;gt;- %4$s &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;Tamanho: %5$s</string>
     <string name="system_update_update_available_button">Transferir e instalar</string>
     <string name="system_update_update_download_install">A instalar actualização do sistema…</string>
     <string name="system_update_update_download_install_security_update">A instalar actualização de segurança…</string>

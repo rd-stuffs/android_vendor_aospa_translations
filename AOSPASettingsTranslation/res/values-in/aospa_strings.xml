@@ -103,4 +103,6 @@
     <string name="notification_vibration_pattern_title">Pola getaran notifikasi</string>
     <string name="ring_vibration_pattern_title">Pola getaran nada dering</string>
     <string name="pattern_default">Bawaan perangkat</string>
+    <string name="touch_polling_title">Tingkat agresivitas sentuhan</string>
+    <string name="touch_polling_summary">Meningkatkan agresivitas sentuhan layar, untuk menurunkan latency</string>
 </resources>

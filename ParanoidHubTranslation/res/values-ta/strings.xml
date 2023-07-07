@@ -2,14 +2,14 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">அமைப்பு மென்பொருள் மேம்படுத்தல்</string>
     <string name="system_update_update_to_date">அமைப்பு மென்பொருள் புதுப்பிக்கபட்ட நிலையில் உள்ளது</string>
-    <string name="system_update_update_to_date_desc">பேரணாய்ட் அண்ட்ராய்டு பதிப்பு: அண்ட்ராய்டு பாதுகாப்பு புதுப்பித்தல்%3$s&lt;br&gt;&lt;br&gt;புதுப்பித்தலுக்கான கடைசி வெற்றிகரமான சோதனை:%4$s</string>
+    <string name="system_update_update_to_date_desc">பேரணாய்ட் அண்ட்ராய்டு பதிப்பு: அண்ட்ராய்டு பாதுகாப்பு புதுப்பித்தல்%3$s&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;புதுப்பித்தலுக்கான கடைசி வெற்றிகரமான சோதனை:%4$s</string>
     <string name="system_update_update_to_date_button">மேம்படுத்தலுக்கு சோதிக்கவும்</string>
     <string name="system_update_checking_for_update">புதுப்பித்தல்களுக்கு தேடுகிறது...</string>
     <string name="system_update_update_available">மென்பொருள் மேம்படுத்தல் கிடைக்க உள்ளது</string>
     <string name="system_update_update_available_security_update">பாதுகாப்பு மேம்படுத்தல் கிடைக்க உள்ளது</string>
     <string name="system_update_update_available_desc">%1$s புதுப்பித்தல் அளவு: %2$s</string>
-    <string name="system_update_update_available_with_device_desc">%1$s &lt;br&gt;&lt;br&gt;&lt;b&gt;முக்கியமான புதுப்பிப்புகள்&lt;/b&gt;: &lt;br&gt;- %2$s &lt;br&gt;&lt;br&gt;புதுப்பித்தல் அளவு: %3$s</string>
-    <string name="system_update_update_available_device_incremental_desc">&lt;b&gt;%1$s %2$s %3$s&lt;/b&gt; &lt;br&gt;&lt;br&gt;இந்தப் புதுப்பிப்பு நிலைத்தன்மை மேம்பாடுகளைச் சேர்க்கிறது, மேலும் முக்கியமான பிழைகளைச் சரிசெய்கிறது. மேலும் அறிந்துகொள்ள &lt;a href=\"https://paranoidandroid.co/\"&gt;paranoidandroid.co&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;முக்கியமான புதுப்பிப்புகள்&lt;/b&gt;: &lt;br&gt;- %4$s &lt;br&gt;&lt;br&gt;புதுப்பித்தல் அளவு: %5$s</string>
+    <string name="system_update_update_available_with_device_desc">%1$s &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;முக்கியமான புதுப்பிப்புகள்&amp;lt;/b&amp;gt;: &amp;lt;br&amp;gt;- %2$s &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;புதுப்பித்தல் அளவு: %3$s</string>
+    <string name="system_update_update_available_device_incremental_desc">&amp;lt;b&amp;gt;%1$s %2$s %3$s&amp;lt;/b&amp;gt; &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;இந்தப் புதுப்பிப்பு நிலைத்தன்மை மேம்பாடுகளைச் சேர்க்கிறது, மேலும் முக்கியமான பிழைகளைச் சரிசெய்கிறது. மேலும் அறிந்துகொள்ள &amp;lt;a href="https://paranoidandroid.co/"&amp;gt;paranoidandroid.co&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;முக்கியமான புதுப்பிப்புகள்&amp;lt;/b&amp;gt;: &amp;lt;br&amp;gt;- %4$s &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;புதுப்பித்தல் அளவு: %5$s</string>
     <string name="system_update_update_available_button">பதிவிறக்கி நிறுவவும்</string>
     <string name="system_update_update_download_install">அமைப்பு புதுப்பிப்பை நிறுவுகிறது…</string>
     <string name="system_update_update_download_install_security_update">பாதுகாப்பு புதுப்பிப்பை நிறுவுகிறது…</string>

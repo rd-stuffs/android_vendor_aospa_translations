@@ -103,4 +103,6 @@
     <string name="notification_vibration_pattern_title">Wzór wibracji powiadomień</string>
     <string name="ring_vibration_pattern_title">Wzór wibracji dzwonka</string>
     <string name="pattern_default">Domyślnie dla urządzenia</string>
+    <string name="touch_polling_title">Wysoka szybkość próbkowania dotykowego</string>
+    <string name="touch_polling_summary">Zwiększenie częstotliwości próbkowania ekranu dotykowego w celu zmniejszenia opóźnień</string>
 </resources>

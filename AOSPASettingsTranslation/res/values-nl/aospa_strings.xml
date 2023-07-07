@@ -103,4 +103,6 @@
     <string name="notification_vibration_pattern_title">Trilpatroon voor meldingen</string>
     <string name="ring_vibration_pattern_title">Beltoon trillingspatroon</string>
     <string name="pattern_default">Apparaatstandaard</string>
+    <string name="touch_polling_title">Hoge aanraak verversingsfrequentie</string>
+    <string name="touch_polling_summary">Verhoog aanraak verversingsfrequentie om latency te verminderen</string>
 </resources>
