@@ -14,6 +14,32 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="reboot_to_recovery_message">Reiniciando para o recovery\u2026</string>
+    <string name="reboot_to_bootloader_message">Reiniciando para o bootloader\u2026</string>
+    <string name="reboot_title">Reiniciar</string>
+    <string name="reboot_message">Reiniciando o sistema</string>
     <string name="volume_dialog_ringer_guidance_normal">Chamadas e notificações farão o dispositivo tocar</string>
+    <string name="aerr_copy">Copiar o link do registro de falha</string>
+    <string name="url_copy_success">Link copiado com sucesso</string>
+    <string name="url_copy_failed">Ocorreu um erro ao carregar o log para o Memochō</string>
+    <string name="permlab_fakePackageSignature">Falsificação de assinatura de pacotes</string>
+    <string name="permdesc_fakePackageSignature">Permite que o aplicativo finja ser um aplicativo diferente. Aplicativos maliciosos podem usar isso para acessar dados de aplicativos privados. Usos legítimos incluem um emulador fingindo ser o que emula. Conceda esta permissão apenas com cuidado!</string>
+    <string name="permgrouplab_fake_package_signature">Falsificação de assinatura de pacotes</string>
+    <string name="permgroupdesc_fake_package_signature">Permite falsificar a assinatura do pacote</string>
+    <string name="permgrouprequest_fake_package_signature">Permitir
+        &lt;b><xliff:g id="app_name" example="Gmail">%1$s</xliff:g>&lt;/b> falsificar a assinatura do pacote?</string>
+    <string name="gesture_locked_warning">Deslize novamente para desbloquear os gestos</string>
+    <string name="pocket_lock_message_long_press">Pressione e segure o botão liga/desliga para desbloquear</string>
+    <string name="pocket_view_title">O modo de bolso está ativado</string>
+    <string name="pocket_view_title_cancel">Para usar seu telefone:</string>
+    <string name="pocket_view_top_tag_cancel">Verifique se a área azul do seu telefone está livre de obstruções e limpe qualquer sujeira ou poeira.</string>
+    <string name="pocket_view_top_tag_cancel2">Pressione longamente o botão liga/desliga para forçar o encerramento do modo de bolso.</string>
+    <string name="charging_control_notification_channel">Controle de Carregamento</string>
+    <string name="charging_control_notification_title">Controle de Carregamento</string>
+    <string name="charging_control_notification_cancel_once">Cancelar</string>
+    <string name="charging_control_notification_content_limit">A bateria será carregada até %1$d%%</string>
+    <string name="charging_control_notification_content_limit_reached">A bateria está carregada até %1$d%%</string>
+    <string name="charging_control_notification_content_target">A bateria será totalmente carregada às %1$s</string>
+    <string name="charging_control_notification_content_target_reached">A bateria está carregada</string>
 </resources>

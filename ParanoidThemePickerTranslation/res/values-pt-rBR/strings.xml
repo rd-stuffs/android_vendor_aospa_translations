@@ -17,9 +17,8 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Planos de fundo e estilo</string>
     <string name="icon_pack_title">Ícones do sistema</string>
-    <string name="icon_preview_card_content_description">Pré-visualização dos ícones</string>
+    <string name="icon_shape_title">Forma dos ícones</string>
     <string name="font_title">Fonte do sistema</string>
-    <string name="font_preview_card_content_description">Pré-visualização da fonte</string>
     <string name="wallpaper_color_tab">Cores do plano de fundo</string>
     <string name="wallpaper_color_title">Cor do plano de fundo</string>
     <string name="preset_color_tab">Cores básicas</string>
