@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2016-2023 Paranoid Android
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="aospa_version">Paranoid Android-version</string>
+    <string name="dc_dimming_title">Dimring</string>
+    <string name="dc_dimming_info">Minskar ögonpåfrestningar i låga ljusförhållanden genom att minimera skärmflimmer. Kan resultera i minskad bildkvalitet och dålig färgproduktion, eller högre strömförbrukning.</string>
+    <string name="dc_dimming_main_switch_title">Använd DC ljusreglering</string>
+    <string name="keywords_display_dc_dimming">dc dimning, anti, flimmer, öga, stam</string>
+    <string name="adaptive_playback_screen_title">Smart Pause</string>
+    <string name="adaptive_playback_enabled">Använd smart paus</string>
+    <string name="adaptive_playback_disabled_summary">Av</string>
+    <string name="adaptive_playback_intro_text">Pausar automatiskt media när volymen är tystad och återupptas automatiskt när volymen återställs inom den inställda tiden.</string>
+    <string name="adaptive_playback_timeout_title">Använd en tidsgräns på</string>
+    <string name="adaptive_playback_timeout_none">Ingen tidsgräns</string>
+    <string name="adaptive_playback_timeout_none_summary">På (ingen tidsgräns)</string>
+    <string name="adaptive_playback_timeout_30_secs">30 sekunder</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">På (30 sekunder)</string>
+    <string name="adaptive_playback_timeout_1_min">1 minut</string>
+    <string name="adaptive_playback_timeout_1_min_summary">På (1 minut)</string>
+    <string name="adaptive_playback_timeout_2_min">2 minuter</string>
+    <string name="adaptive_playback_timeout_2_min_summary">På (2 minuter)</string>
+    <string name="adaptive_playback_timeout_5_min">5 minuter</string>
+    <string name="adaptive_playback_timeout_5_min_summary">På (5 minuter)</string>
+    <string name="adaptive_playback_timeout_10_min">10 minuter</string>
+    <string name="adaptive_playback_timeout_10_min_summary">På (10 minuter)</string>
+    <string name="three_finger_gesture">Svep för att ta en skärmbild</string>
+    <string name="three_finger_gesture_summary">Svep nedåt med tre fingrar för att ta en skärmbild</string>
+    <string name="prevent_ringing_option_cycle">Cykla genom lägen</string>
+    <string name="prevent_ringing_option_cycle_summary">På (cykel genom lägen)</string>
+    <string name="ambient_display_screen_off_udfps_title">Alltid på fingeravtryck</string>
+    <string name="ambient_display_screen_off_udfps_summary">Tillåter upplåsning med skärmen avstängd.\nAktivering kan orsaka oavsiktliga väckningar.</string>
+    <string name="category_name_refresh_rate_controls">Uppdateringsfrekvens</string>
+    <string name="volume_button_music_control_title">Uppspelningskontroll</string>
+    <string name="volume_button_music_control_summary">När skärmen är avstängd kommer långtryck på volymknapparna att byta musikspår</string>
+    <string name="offscreen_gesture_title">Gester när skärmen är avstängd</string>
+    <string name="offscreen_gesture_summary">Rita mönster eller tryck på skärmen för att utföra åtgärder</string>
+    <string name="keywords_gestures">Skärm Pekskärm Dra Svepfinger</string>
+    <string name="gestures_master">Gester när skärmen är avstängd</string>
+    <string name="gestures_disabled">Inaktiverad</string>
+    <string name="gestures_wake_device">Väck enhet</string>
+    <string name="gestures_pulse_ambient_display">Pulsera till omgivande display</string>
+    <string name="gestures_toggle_flashlight">Sätt igång ficklampan</string>
+    <string name="gestures_toggle_airplane_mode">Sätt på flygplansläge</string>
+    <string name="gestures_play_pause_music">Spela/Pausa musik</string>
+    <string name="gestures_next_music">Nästa musik</string>
+    <string name="gestures_previous_music">Förra musik</string>
+    <string name="gestures_open_camera">Öppna kameran</string>
+    <string name="gestures_open_dialer">Öppna nummerplatta</string>
+    <string name="gestures_double_tap">Dubbeltryck</string>
+    <string name="gestures_single_tap">Enkel tryckning</string>
+    <string name="gestures_draw_v">Rita V</string>
+    <string name="gestures_draw_inverse_v">Rita omvänd V</string>
+    <string name="gestures_draw_o">Rita O</string>
+    <string name="gestures_draw_m">Rita M</string>
+    <string name="gestures_draw_w">Rita W</string>
+    <string name="gestures_draw_s">Rita S</string>
+    <string name="gestures_draw_arrow_left">Rita &lt;</string>
+    <string name="gestures_draw_arrow_right">Rita &gt;</string>
+    <string name="gestures_one_finger_swipe_up">Svep uppåt med ett finger</string>
+    <string name="gestures_one_finger_swipe_right">Svep höger med ett finger</string>
+    <string name="gestures_one_finger_swipe_down">Svep nedåt med ett finger</string>
+    <string name="gestures_one_finger_swipe_left">Svep vänster med ett finger</string>
+    <string name="gestures_two_finger_swipe">Svep med två fingrar</string>
+    <string name="screenshot_shutter_sound_title">Skärmdumpsljud</string>
+    <string name="power_button_torch_title">Snabbficklampa</string>
+    <string name="power_button_torch_summary">När skärmen är avstängd, långtryck på strömknappen kommer aktivera ficklampan</string>
+    <string name="icon_manager_title">Ikonhanterare</string>
+    <string name="icon_manager_summary">Kontrollera synligheten av statusfältets ikoner</string>
+    <string name="navbar_invert_layout_title">Invert navigation bar layout</string>
+    <string name="navbar_invert_info">Växla knapparna \"Tillbaka\" och \"Senaste\" i navigeringsfältet</string>
+    <string name="system_black_theme_title">Använd mörkt tema</string>
+    <string name="system_black_theme_summary">Tvinga svarta bakgrundsfärger</string>
+    <string name="doze_gesture_ambient_title">Visa aktiv låsskärm</string>
+    <string name="doze_gesture_ambient_summary">Visa aktiv låsskärm istället för att väcka skärmen helt</string>
+    <string name="gesture_wake_ambient">Visa aktiv låsskärm</string>
+    <string name="gesture_wake">Fullt uppvaknande</string>
+    <string name="color_mode_balance_category">Färgbalans</string>
+    <string name="color_mode_balance_red">Röd styrka</string>
+    <string name="color_mode_balance_green">Grön styrka</string>
+    <string name="color_mode_balance_blue">Blå styrka</string>
+    <string name="keywords_color_balance">färg, färgbalans, färgkorrigering, röd, grön, blå, LiveDisplay</string>
+    <string name="touch_polling_title">Hög skärm responstid</string>
+    <string name="touch_polling_summary">Öka röstningsgraden på pekskärmen för att minska latens</string>
+</resources>

@@ -24,7 +24,6 @@
     <string name="glyph_settings_flip_toggle_title">Flip to Glyph</string>
     <string name="glyph_settings_flip_toggle_summary">Couper le son et afficher les Glyphs si le téléphone est retourné</string>
     <string name="glyph_settings_brightness">Luminosité</string>
-    <string name="glyph_settings_charging_title">Animation de charge</string>
     <string name="glyph_settings_charging_level_title">Niveau de la batterie</string>
     <string name="glyph_settings_charging_level_summary">Afficher le niveau de la batterie lors de la connexion</string>
     <string name="glyph_settings_charging_powershare_title">Recharge sans fil inversée</string>

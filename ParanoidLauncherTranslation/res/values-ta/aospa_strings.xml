@@ -18,8 +18,6 @@
 -->
 <resources>
     <string name="title_show_google_feed">கூகுள் ஊட்டத்தை அணுக ஸ்வைப் செய்யவும்</string>
-    <string name="msg_minus_one_on_left">முகப்புத் திரையிலிருந்து, கூகுள் ஊட்டத்தைத் திறக்க இடதுபுறமாக ஸ்வைப் செய்யவும்</string>
-    <string name="msg_minus_one_on_right">முகப்புத் திரையில் இருந்து, Google ஊட்டத்தைத் திறக்க இடதுபுறமாக ஸ்வைப் செய்யவும்</string>
     <string name="pref_dt_gesture_title">தூங்குவதற்கு இருமுறை தட்டவும்</string>
     <string name="pref_dt_gesture_summary">உறங்குவதற்கு தொடுதிரையை இருமுறை தட்டவும்</string>
     <string name="suggestion_pref_screen_title">பரிந்துரைகள்</string>
@@ -30,16 +28,13 @@
     <string name="settings_edit_widgets_error">முகப்புத் திரையில் விட்ஜெட்களைச் சேர்த்தல் சாத்தியமில்லை</string>
     <string name="desktop_show_labels">அலமாரியில் படவுரு லேபல்களை காண்பி</string>
     <string name="drawer_show_labels">அலமாரியில் படவுரு முத்திரைகளை காட்டு</string>
-    <string name="category_icon">ஐகான்கள்</string>
-    <string name="category_misc">மற்றவை </string>
     <string name="category_google">கூகுள்</string>
-    <string name="action_lens">லென்ஸ் </string>
+    <string name="category_icon">ஐகான்கள்</string>
     <string name="label_search">தேடு</string>
     <string name="label_lens">கூகுள் லென்ஸ்</string>
     <string name="label_voice_search">குரல் தேடல்</string>
     <string name="dock_search_title">கூகுள் தேடல் </string>
-    <string name="dock_search_summary">கீழே தேடல் பட்டையைக் காண்பி</string>
+    <string name="recents_lens_title">லென்ஸ் </string>
     <string name="smartspace_pref_title">முகப்புத் தகவல்</string>
     <string name="smartspace_pref_summary">ஸ்மார்ட் ஸ்பேஸ் முகப்புத் திரையில் காண்பி</string>
-    <string name="show_top_shadow">மேல் நிழலை காண்பி</string>
 </resources>

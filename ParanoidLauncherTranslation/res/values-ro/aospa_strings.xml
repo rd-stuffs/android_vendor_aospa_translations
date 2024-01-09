@@ -18,8 +18,6 @@
 -->
 <resources>
     <string name="title_show_google_feed">Glisați pentru a accesa Google Now</string>
-    <string name="msg_minus_one_on_left">Din ecranul principal, glisați în stânga pentru a deschide Google Now</string>
-    <string name="msg_minus_one_on_right">Din ecranul principal, glisați în dreapta pentru a deschide Google Now</string>
     <string name="pref_dt_gesture_title">Atingeți de două ori pentru a opri ecranul</string>
     <string name="pref_dt_gesture_summary">Atingeți de două ori într-un spațiu gol pentru a opri ecranul</string>
     <string name="suggestion_pref_screen_title">Sugestii</string>

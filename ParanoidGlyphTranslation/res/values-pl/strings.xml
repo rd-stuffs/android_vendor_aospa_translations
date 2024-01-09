@@ -24,7 +24,7 @@
     <string name="glyph_settings_flip_toggle_title">Odwróć, aby aktywować Glyph</string>
     <string name="glyph_settings_flip_toggle_summary">Wycisz i pokaż Glyph, jeśli telefon jest skierowany w dół</string>
     <string name="glyph_settings_brightness">Jasność</string>
-    <string name="glyph_settings_charging_title">Animacja ładowania</string>
+    <string name="glyph_settings_charging_title">Ładowanie</string>
     <string name="glyph_settings_charging_level_title">Poziom naładowania baterii</string>
     <string name="glyph_settings_charging_level_summary">Pokaż poziom naładowania baterii przy podłączaniu</string>
     <string name="glyph_settings_charging_powershare_title">Bezprzewodowe ładowanie zwrotne</string>
@@ -40,6 +40,9 @@
     <string name="glyph_settings_notifs_sub_title">Aplikacje do zezwolenia</string>
     <string name="glyph_settings_notifs_sub_toggle_title">Włącz animację powiadomień</string>
     <string name="glyph_settings_notifs_sub_animations_title">Wzór</string>
+    <string name="glyph_settings_volume_title">Głośność</string>
+    <string name="glyph_settings_volume_level_toggle_title">Wskaźnik głośności</string>
+    <string name="glyph_settings_volume_level_toggle_summary">Pokaż poziom głośności podczas dostosowywania</string>
     <string name="glyph_settings_misc_title">Różne</string>
     <string name="glyph_settings_music_visualizer_toggle_title">Wizualizer muzyki</string>
     <string name="glyph_settings_music_visualizer_toggle_summary">ŚWIATŁA DISCO!\nto wyłączy wszystkie inne funkcje Glyph, jeśli włączone</string>

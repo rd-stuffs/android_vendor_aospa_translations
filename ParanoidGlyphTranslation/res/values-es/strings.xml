@@ -24,7 +24,6 @@
     <string name="glyph_settings_flip_toggle_title">Girar para Glyph</string>
     <string name="glyph_settings_flip_toggle_summary">Silenciar y mostrar Glyphs si el teléfono está boca abajo</string>
     <string name="glyph_settings_brightness">Brillo</string>
-    <string name="glyph_settings_charging_title">Animación de carga</string>
     <string name="glyph_settings_charging_level_title">Nivel de bateria</string>
     <string name="glyph_settings_charging_level_summary">Mostrar nivel de batería al conectar</string>
     <string name="glyph_settings_charging_powershare_title">Compartir batería</string>

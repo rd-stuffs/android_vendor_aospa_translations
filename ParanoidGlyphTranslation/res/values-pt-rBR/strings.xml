@@ -24,7 +24,7 @@
     <string name="glyph_settings_flip_toggle_title">Virar para ativar o Glyph</string>
     <string name="glyph_settings_flip_toggle_summary">Para ativar o modo silencioso e o Glyph, vire a tela do smartphone para baixo</string>
     <string name="glyph_settings_brightness">Brilho</string>
-    <string name="glyph_settings_charging_title">Animação de carregamento</string>
+    <string name="glyph_settings_charging_title">Carregando</string>
     <string name="glyph_settings_charging_level_title">Nível da bateria</string>
     <string name="glyph_settings_charging_level_summary">Mostrar o nível da bateria quando conectado o carregador</string>
     <string name="glyph_settings_charging_powershare_title">PowerShare</string>
@@ -40,6 +40,9 @@
     <string name="glyph_settings_notifs_sub_title">Aplicativos permitidos</string>
     <string name="glyph_settings_notifs_sub_toggle_title">Habilitar animação de notificação</string>
     <string name="glyph_settings_notifs_sub_animations_title">Padrões</string>
+    <string name="glyph_settings_volume_title">Volume</string>
+    <string name="glyph_settings_volume_level_toggle_title">Indicador de volume</string>
+    <string name="glyph_settings_volume_level_toggle_summary">Mostrar nível do volume ao ajustar</string>
     <string name="glyph_settings_misc_title">Outros</string>
     <string name="glyph_settings_music_visualizer_toggle_title">Visualizador de música</string>
     <string name="glyph_settings_music_visualizer_toggle_summary">DISCOTECA!\nenquanto estiver ativado, todas as outras funções do Glyph serão desativadas</string>

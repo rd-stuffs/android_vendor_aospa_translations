@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">സി‌സ്‌റ്റം അപ്‌ഡേറ്റുകൾ</string>
+    <string name="system_update_update_to_date">നിങ്ങളുടെ സിസ്റ്റം അപ്‌ ടു ഡേറ്റ് ആണ്</string>
+    <string name="system_update_update_to_date_desc">പാരനോയിഡ് ആൻഡ്രോയിഡ് പതിപ്പ്: %1$s %2$s &lt;br&gt;Android സുരക്ഷാ അപ്‌ഡേറ്റ്: %3$s&lt;br&gt;&lt;br&gt;അപ്‌ഡേറ്റിനായുള്ള അവസാനത്തെ വിജയകരമായ പരിശോധന: %4$s</string>
+    <string name="system_update_update_to_date_button">പുതിയ അപ്‌ഡേറ്റുകൾ ഉണ്ടോ എന്ന് നോക്കുക</string>
+    <string name="system_update_checking_for_update">പുതിയ അപ്‌ഡേറ്റുകൾ ഉണ്ടോ എന്ന് നോക്കുന്നു </string>
+    <string name="system_update_update_available">സിസ്റ്റം അപ്ഡേറ്റുകൾ ലഭ്യമാണ്</string>
+    <string name="system_update_update_available_security_update">സിസ്റ്റം അപ്ഡേറ്റുകൾ ലഭ്യമാണ്</string>
+    <string name="system_update_update_available_desc">%1$s അപ്‌ഡേറ്റ് വലുപ്പം: %2$s</string>
+    <string name="system_update_update_available_with_device_desc">%1$s &lt;br&gt;&lt;br&gt;&lt;b&gt;പ്രധാനപ്പെട്ട അപ്‌ഡേറ്റുകൾ&lt;/b&gt;: &lt;br&gt;- %2$s &lt;br&gt;&lt;br&gt;അപ്‌ഡേറ്റ് വലുപ്പം: %3$s</string>
+    <string name="system_update_update_available_device_incremental_desc">&lt;b&gt;%1$s %2$s %3$s&lt;/b&gt; &lt;br&gt;&lt;br&gt;ഈ അപ്‌ഡേറ്റ് സ്ഥിരത മെച്ചപ്പെടുത്തലുകൾ ചേർക്കുകയും ഗുരുതരമായ പ്രശ്നങ്ങൾ പരിഹരിക്കുകയും ചെയ്യുന്നു. &lt;a href=\"https://paranoidandroid.co/\"&gt;paranoidandroid.co&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt; പ്രധാന അപ്‌ഡേറ്റുകൾ&lt;/b&gt;: &lt;br&gt;- %4$s &lt;br&gt;&lt;br&gt;അപ്‌ഡേറ്റ് വലുപ്പം: %5$s</string>
+    <string name="system_update_update_available_button">ഡൗണ്‍ലോട് ചെയ്യത് ഇന്‍സ്റ്റാള്‍ ചെയ്യുക</string>
+</resources>

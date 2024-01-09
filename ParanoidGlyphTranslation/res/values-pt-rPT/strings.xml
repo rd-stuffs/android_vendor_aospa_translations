@@ -24,7 +24,6 @@
     <string name="glyph_settings_flip_toggle_title">Inverter para Glyph</string>
     <string name="glyph_settings_flip_toggle_summary">Silenciar e mostrar Glyphs se o telefone estiver virado para baixo</string>
     <string name="glyph_settings_brightness">Brilho</string>
-    <string name="glyph_settings_charging_title">Animação de carregamento</string>
     <string name="glyph_settings_charging_level_title">Nível da bateria</string>
     <string name="glyph_settings_charging_level_summary">Mostrar o nível da bateria ao conectar</string>
     <string name="glyph_settings_charging_powershare_title">Carregamento sem fios reverso</string>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013-2016 The CyanogenMod Project
+                   2017-2022 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="device_settings_app_name">Дополнительные настройки</string>
+    <string name="screen_gestures_panel_title">Жесты</string>
+    <string name="touchscreen_gesture_extras">Дополнительно</string>
+    <string name="touchscreen_gesture_haptic_feedback">Тактильная обратная связь</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">Тактильная обратная связь при распознавании жеста на сенсорном экране</string>
+    <string name="touchscreen_gesture_settings_title">Жесты сенсорного экрана</string>
+    <string name="touchscreen_gesture_settings_summary">Выполнение жестов на сенсорном экране для выполнения быстрых действий</string>
+    <string name="gesture_display_title">Жесты на выключенном экране</string>
+    <string name="touchscreen_c_gesture_title">Камера</string>
+    <string name="touchscreen_c_gesture_summary">Нарисуйте букву «C», чтобы включить камеру</string>
+    <string name="touchscreen_e_gesture_title">Электронная почта</string>
+    <string name="touchscreen_e_gesture_summary">Нарисуйте букву «е», чтобы открыть приложение электронной почты</string>
+    <string name="touchscreen_m_gesture_title">Сообщения</string>
+    <string name="touchscreen_m_gesture_summary">Нарисуйте букву «M», чтобы открыть приложение для обмена сообщениями</string>
+    <string name="touchscreen_s_gesture_title">Сообщения</string>
+    <string name="touchscreen_s_gesture_summary">Нарисуйте букву «S», чтобы открыть приложение для обмена сообщениями</string>
+    <string name="touchscreen_v_gesture_title">Телефон</string>
+    <string name="touchscreen_v_gesture_summary">Нарисуйте букву «V», чтобы открыть приложение телефона</string>
+    <string name="touchscreen_w_gesture_title">Браузер</string>
+    <string name="touchscreen_w_gesture_summary">Нарисуйте букву «W», чтобы открыть браузер</string>
+    <string name="touchscreen_z_gesture_title">Фонарик</string>
+    <string name="touchscreen_z_gesture_summary">Нарисуйте букву «Z» для включения/выключения фонарика</string>
+    <string name="touchscreen_flashlight_gesture_title">Фонарик</string>
+    <string name="touchscreen_flashlight_gesture_summary">Нарисуйте круг, чтобы включить или выключить фонарик</string>
+    <string name="touchscreen_music_gesture_title">Музыка</string>
+    <string name="touchscreen_music_gesture_summary">Использовать жесты для управления воспроизведением музыки \n
+    • Свайп вниз — воспроизведение/пауза\n
+    • Свайп влево — предыдущий трек\n
+    • Свайп вправо — следующий трек</string>
+    <string name="touchscreen_swipe_up_title">Свайп вверх</string>
+    <string name="touchscreen_swipe_right_title">Свайп вправо</string>
+    <string name="touchscreen_swipe_down_title">Свайп вниз</string>
+    <string name="touchscreen_swipe_left_title">Свайп влево</string>
+    <string name="user_aware_display_title">Интеллектуальное отключение экрана</string>
+    <string name="user_aware_display_summary">Не отключать экран, пока пользователь смотрит на него</string>
+    <string name="ambient_display_title">Ambient display</string>
+    <string name="ambient_display_enable_title">Использовать ambient display</string>
+    <string name="ambient_display_enable_summary">Включать экран, когда приходит уведомление</string>
+    <string name="ambient_display_gestures_title">Жесты Ambient Display</string>
+    <string name="ambient_display_gestures_summary">Дополнительные жесты при пробуждения экрана</string>
+    <string name="ambient_display_summary">Включать экран, когда приходит уведомление</string>
+    <string name="ambient_display_summary_on">Экран включается, когда вы получаете уведомления</string>
+    <string name="ambient_display_summary_off">Экран не будет включаться, когда вы получаете уведомления</string>
+    <string name="ambient_display_always_on_title">Вкл. постоянно</string>
+    <string name="ambient_display_always_on_summary">Показывать время, значки уведомлений и другую информацию. Увеличивает расход батареи.</string>
+    <string name="tilt_sensor_title">Датчик наклона</string>
+    <string name="pickup_sensor_title">Датчик поднятия</string>
+    <string name="proximity_sensor_title">Датчик приближения</string>
+    <string name="hand_wave_gesture_title">Взмах рукой</string>
+    <string name="hand_wave_gesture_summary">Проведите ладонью над экраном для просмотра уведомлений</string>
+    <string name="hand_wave_gesture_flat_title">Определить ориентацию</string>
+    <string name="quick_charge_title">Быстрая зарядка</string>
+    <string name="quick_charge_summary">Быстрая зарядка. Отсоедините и повторно подключите зарядное устройство после изменения данной настройки</string>
+    <string name="camera_focus_fix_title">Исправить фокусировку камеры</string>
+    <string name="camera_focus_fix_summary">Включите, если у вас возникли проблемы с отсутствием фокуса у камеры</string>
+    <string name="wake_on_gesture_title">Пробуждение жестами</string>
+    <string name="wake_on_gesture_summary">Пробуждение устройства вместо уведомлений при использовании жестов</string>
+    <string name="music_headset_scenario_music">Музыка</string>
+    <string name="thermal_browser">Браузер</string>
+    <string name="thermal_camera">Камера</string>
+    <string name="thermal_dialer">Телефон</string>
+</resources>

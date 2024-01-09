@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Paranoid Doze</string>
+    <string name="face_enroll_title">Centrera ditt ansikte i kameran</string>
+    <string name="face_enroll_description">Håll stilla, och se till att du är i en väl upplyst miljö</string>
+    <string name="face_try_again_title">Kunde inte fånga ditt ansikte</string>
+    <string name="face_try_again_description">Tryck nedan för att försöka igen. Nästa gång, se till att du är i en väl upplyst miljö och ingenting är fördunkla ditt ansikte</string>
+    <string name="btn_try_again">Försök igen</string>
+    <string name="attr_light_dark">Det behövs mer ljus på ansiktet</string>
+    <string name="attr_light_high">Ansikte har för mycket ljus</string>
+    <string name="attr_light_shadow">Ansiktet har för många skuggor</string>
+    <string name="unlock_failed_face_blur">Ansiktet är oskarpt</string>
+    <string name="unlock_failed_face_large">Ansiktet är för nära</string>
+    <string name="unlock_failed_face_multi">För många ansikten identifierades</string>
+    <string name="unlock_failed_face_not_complete">Endast en del av ansiktet identifierades</string>
+    <string name="unlock_failed_face_small">Ansiktet är för långt bort</string>
+</resources>

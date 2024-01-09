@@ -30,16 +30,17 @@
     <string name="settings_edit_widgets_error">无法向主屏幕添加小部件</string>
     <string name="desktop_show_labels">在主屏幕上显示图标标签</string>
     <string name="drawer_show_labels">在“所有应用”列表中显示图标标签</string>
-    <string name="category_icon">图标</string>
-    <string name="category_misc">其它</string>
     <string name="category_google">Google</string>
-    <string name="action_lens">智能镜头</string>
+    <string name="category_icon">图标</string>
+    <string name="category_recents">最近任务</string>
     <string name="label_search">搜索</string>
     <string name="label_lens">Google 智能镜头</string>
     <string name="label_voice_search">语音搜索</string>
     <string name="dock_search_title">Google 搜索栏</string>
-    <string name="dock_search_summary">在底部显示搜索框</string>
+    <string name="dock_search_summary">在底部 Dock 栏处显示搜索栏</string>
+    <string name="recents_screenshot_title">截图</string>
+    <string name="recents_clear_all_title">全部清除</string>
+    <string name="recents_lens_title">智能镜头</string>
     <string name="smartspace_pref_title">速览</string>
     <string name="smartspace_pref_summary">在主屏幕顶部显示速览</string>
-    <string name="show_top_shadow">显示顶部阴影</string>
 </resources>

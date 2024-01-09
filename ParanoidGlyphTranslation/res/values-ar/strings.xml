@@ -24,7 +24,6 @@
     <string name="glyph_settings_flip_toggle_title">قلب إلى Glyph</string>
     <string name="glyph_settings_flip_toggle_summary">كتم وعرض Glyphs إذا كان الهاتف يواجه للأسفل</string>
     <string name="glyph_settings_brightness">الإضاءة</string>
-    <string name="glyph_settings_charging_title">الرسوم المتحركة للشحن</string>
     <string name="glyph_settings_charging_level_title">مستوى البطارية</string>
     <string name="glyph_settings_charging_level_summary">إظهار مستوى البطارية عند التوصيل</string>
     <string name="glyph_settings_charging_powershare_title">الشحن اللاسلكي العكسي</string>

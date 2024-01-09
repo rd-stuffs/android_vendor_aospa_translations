@@ -24,7 +24,7 @@
     <string name="glyph_settings_flip_toggle_title">Glyph için çevir</string>
     <string name="glyph_settings_flip_toggle_summary">Telefon ters dururken sessize al ve glyph göster</string>
     <string name="glyph_settings_brightness">Parlaklık</string>
-    <string name="glyph_settings_charging_title">Şarj animasyonu</string>
+    <string name="glyph_settings_charging_title">Şarj oluyor</string>
     <string name="glyph_settings_charging_level_title">Pil seviyesi</string>
     <string name="glyph_settings_charging_level_summary">Şarja takıldığında pil yüzdesini göster</string>
     <string name="glyph_settings_charging_powershare_title">Ters kablosuz şarj</string>
@@ -40,6 +40,9 @@
     <string name="glyph_settings_notifs_sub_title">İzin verilen uygulamalar</string>
     <string name="glyph_settings_notifs_sub_toggle_title">Bildirim animasyonunu etkinleştir</string>
     <string name="glyph_settings_notifs_sub_animations_title">Desen</string>
+    <string name="glyph_settings_volume_title">Ses Düzeyi</string>
+    <string name="glyph_settings_volume_level_toggle_title">Ses göstergesi</string>
+    <string name="glyph_settings_volume_level_toggle_summary">Ayarlama yaparken ses seviyesini göster</string>
     <string name="glyph_settings_misc_title">Çeşitli</string>
     <string name="glyph_settings_music_visualizer_toggle_title">Müzik Görselleştirici</string>
     <string name="glyph_settings_music_visualizer_toggle_summary">DİSKO IŞIKLARI!\nBu etkinken diğer glyph fonksiyonları devre dışı kalacaktır</string>

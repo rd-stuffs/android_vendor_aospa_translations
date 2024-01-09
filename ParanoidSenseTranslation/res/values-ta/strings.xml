@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">பேரணாய்ட் உணர்வுஉணர்வு</string>
+    <string name="face_enroll_title">வட்டத்தின் மையத்தில் முகத்தைக் காட்டவும்</string>
+    <string name="face_enroll_description">நிலையாக இருங்கள், நீங்கள் நன்கு ஒளிரும் சூழலில் இருப்பதை உறுதிப்படுத்திக் கொள்ளுங்கள்</string>
+    <string name="face_try_again_title">உங்கள் முகத்தைப் படம்பிடிக்க முடியவில்லை</string>
+    <string name="face_try_again_description">மீண்டும் முயற்சிக்க கீழே தட்டவும். அடுத்த முறை, நீங்கள் வெளிச்சம் இல்லாத சூழலில் இருப்பதையும், உங்கள் முகத்தை எதுவும் மறைக்கவில்லை என்பதையும் உறுதிப்படுத்திக் கொள்ளுங்கள்</string>
+    <string name="btn_try_again">மீண்டும் முயற்சிக்கவும்</string>
+    <string name="attr_light_dark">முகத்திற்கு மேலும் ஒளி தேவை</string>
+    <string name="attr_light_high">முகத்தில் அதிக வெளிச்சம் உள்ளது</string>
+    <string name="attr_light_shadow">முகத்தில் பல நிழல்கள் உள்ளன</string>
+    <string name="unlock_failed_face_blur">முகம் மிகவும் மங்கலாக உள்ளது</string>
+    <string name="unlock_failed_face_large">முகம் மிகவும் அருகில் உள்ளது</string>
+    <string name="unlock_failed_face_multi">பல முகங்கள் கண்டறியப்பட்டுள்ளன</string>
+    <string name="unlock_failed_face_not_complete">பகுதி முகம் மட்டுமே கண்டறியப்பட்டுள்ளது</string>
+    <string name="unlock_failed_face_small">முகம் மிகவும் தொலைவில் உள்ளது</string>
+</resources>

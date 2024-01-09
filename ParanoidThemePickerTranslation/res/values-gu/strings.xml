@@ -15,13 +15,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">વૉલપેપર અને શૈલી</string>
     <string name="icon_pack_title">સિસ્ટમ આઈકોન પેક</string>
-    <string name="icon_preview_card_content_description">આઈકોન પૂર્વાવલોકન</string>
     <string name="font_title">સિસ્ટમ ફોન્ટ</string>
-    <string name="font_preview_card_content_description">ફોન્ટ પૂર્વાવલોકન</string>
-    <string name="wallpaper_color_tab">વોલપેપર નાં રંગો </string>
-    <string name="wallpaper_color_title">વોલપેપર નો રંગ</string>
-    <string name="preset_color_tab">મુળભુત રંગો</string>
-    <string name="color_changed">રંગ બદલવા માં આવ્યો </string>
 </resources>

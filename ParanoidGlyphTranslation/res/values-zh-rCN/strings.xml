@@ -24,7 +24,7 @@
     <string name="glyph_settings_flip_toggle_title">翻转设备来开关 Glyph 灯效</string>
     <string name="glyph_settings_flip_toggle_summary">屏幕朝下时静音并显示 Glyph 灯效</string>
     <string name="glyph_settings_brightness">亮度</string>
-    <string name="glyph_settings_charging_title">充电动画</string>
+    <string name="glyph_settings_charging_title">充电中</string>
     <string name="glyph_settings_charging_level_title">电池电量</string>
     <string name="glyph_settings_charging_level_summary">充电时显示电量</string>
     <string name="glyph_settings_charging_powershare_title">无线反向充电</string>
@@ -40,6 +40,9 @@
     <string name="glyph_settings_notifs_sub_title">允许的应用程序</string>
     <string name="glyph_settings_notifs_sub_toggle_title">启用通知动画</string>
     <string name="glyph_settings_notifs_sub_animations_title">样式</string>
+    <string name="glyph_settings_volume_title">音量</string>
+    <string name="glyph_settings_volume_level_toggle_title">音量指示器</string>
+    <string name="glyph_settings_volume_level_toggle_summary">调节音量时显示音量大小</string>
     <string name="glyph_settings_misc_title">杂项</string>
     <string name="glyph_settings_music_visualizer_toggle_title">音乐可视化</string>
     <string name="glyph_settings_music_visualizer_toggle_summary">DISCO LIGHTS!\n启用后将禁用其它 Glyph 灯光效果</string>

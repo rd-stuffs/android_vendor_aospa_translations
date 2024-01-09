@@ -15,13 +15,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">壁纸和样式</string>
     <string name="icon_pack_title">系统图标包</string>
-    <string name="icon_preview_card_content_description">图标预览</string>
     <string name="font_title">系统字体</string>
-    <string name="font_preview_card_content_description">字体预览</string>
-    <string name="wallpaper_color_tab">壁纸颜色</string>
-    <string name="wallpaper_color_title">壁纸颜色</string>
-    <string name="preset_color_tab">基本颜色</string>
-    <string name="color_changed">颜色已更改</string>
 </resources>

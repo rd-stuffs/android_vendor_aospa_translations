@@ -24,7 +24,6 @@
     <string name="glyph_settings_flip_toggle_title">ગ્લિફ પર ફ્લિપ કરો</string>
     <string name="glyph_settings_flip_toggle_summary">જો ફોન નીચે હોય તો મ્યૂટ કરો અને ગ્લિફ બતાવો</string>
     <string name="glyph_settings_brightness">બ્રાઇત્નેસ  </string>
-    <string name="glyph_settings_charging_title">ચાર્જિંગ એનિમેશન</string>
     <string name="glyph_settings_charging_level_title">બૅટરી સ્તર</string>
     <string name="glyph_settings_charging_level_summary">પ્લગ ઇન કરતી વખતે બેટરી લેવલ બતાવો</string>
     <string name="glyph_settings_charging_powershare_title">રિવર્સ વાયરલેસ ચાર્જિંગ</string>

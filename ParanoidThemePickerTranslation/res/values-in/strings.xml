@@ -15,13 +15,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">Wallpaper &amp; gaya</string>
     <string name="icon_pack_title">Sistem icon pack</string>
-    <string name="icon_preview_card_content_description">Tampilan ikon</string>
     <string name="font_title">Font sistem</string>
-    <string name="font_preview_card_content_description">Tampilan font</string>
-    <string name="wallpaper_color_tab">Warna wallpaper</string>
-    <string name="wallpaper_color_title">Warna wallpaper</string>
-    <string name="preset_color_tab">Warna dasar</string>
-    <string name="color_changed">Warna diubah</string>
 </resources>

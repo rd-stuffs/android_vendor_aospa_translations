@@ -18,8 +18,6 @@
 -->
 <resources>
     <string name="title_show_google_feed">ગૂગલ ફીડ વાપરવા સ્વાઈપ કરો </string>
-    <string name="msg_minus_one_on_left">ગૂગલ ફીડ ચાલુ કરવા મુખ્ય સ્ક્રીન પરથી ડાબી બાજુ સ્વાઇપ કરો </string>
-    <string name="msg_minus_one_on_right">ગૂગલ ફીડ ચાલુ કરવા મુખ્ય સ્ક્રીન પરથી જમણી બાજુ સ્વાઇપ કરો </string>
     <string name="pref_dt_gesture_title">સ્લીપ માટે ડબલ-ટૅપ કરો</string>
     <string name="pref_dt_gesture_summary">સ્ક્રીન ને બંધ કરવા માટે સ્ક્રિન નો ખાલી ભાગ દબાવો </string>
     <string name="suggestion_pref_screen_title">સૂચનો</string>
@@ -30,16 +28,13 @@
     <string name="settings_edit_widgets_error">હોમ સ્ક્રીન પર વિજેટ્સ ઉમેરવાનું શક્ય નથી</string>
     <string name="desktop_show_labels">ડેસ્કટૉપ પર આઇકન લેબલ બતાવો</string>
     <string name="drawer_show_labels">ડ્રોઅરમાં આઇકન લેબલ બતાવો</string>
-    <string name="category_icon">આયકન્સ</string>
-    <string name="category_misc">વિવિધ</string>
     <string name="category_google">ગુગલ </string>
-    <string name="action_lens">લેન્સ</string>
+    <string name="category_icon">આયકન્સ</string>
     <string name="label_search">શોધો</string>
     <string name="label_lens">ગૂગલ લેન્સ </string>
     <string name="label_voice_search">ધ્વનિ શોધ</string>
     <string name="dock_search_title">ગૂગલ સર્ચ બાર</string>
-    <string name="dock_search_summary">નીચેના ડોકમાં શોધ બાર બતાવો</string>
+    <string name="recents_lens_title">લેન્સ</string>
     <string name="smartspace_pref_title">એટ અ ગ્લાન્સ </string>
     <string name="smartspace_pref_summary">હોમ સ્ક્રીનની ટોચ પર સ્માર્ટસ્પેસ બતાવો</string>
-    <string name="show_top_shadow">ટોચની છાયા બતાવો</string>
 </resources>

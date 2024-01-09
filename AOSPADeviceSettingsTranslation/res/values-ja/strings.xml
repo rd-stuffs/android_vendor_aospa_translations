@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013-2016 The CyanogenMod Project
+                   2017-2022 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="device_settings_app_name">高度な設定</string>
+    <string name="screen_gestures_panel_title">ジェスチャー</string>
+    <string name="touchscreen_gesture_extras">エクストラ</string>
+    <string name="touchscreen_gesture_haptic_feedback">触覚フィードバック</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">タッチスクリーンのジェスチャーを検出時に振動をさせます</string>
+    <string name="touchscreen_gesture_settings_title">タッチスクリーンジェスチャー</string>
+    <string name="touchscreen_gesture_settings_summary">タッチスクリーンジェスチャーで、様々なクイックアクションを実現します</string>
+    <string name="gesture_display_title">画面消灯時のジェスチャー</string>
+    <string name="touchscreen_c_gesture_title">カメラ</string>
+    <string name="touchscreen_c_gesture_summary">\"C\" を描いてカメラを起動します</string>
+    <string name="touchscreen_e_gesture_title">メール</string>
+    <string name="touchscreen_e_gesture_summary">\"e\" を描いてメールを起動します</string>
+    <string name="touchscreen_m_gesture_title">メッセージ</string>
+    <string name="touchscreen_m_gesture_summary"> \"M\" を描いてメッセージを起動します</string>
+    <string name="touchscreen_s_gesture_title">メッセージ</string>
+    <string name="touchscreen_s_gesture_summary"> \"S\" を描いてメッセージを起動します</string>
+    <string name="touchscreen_v_gesture_title">電話</string>
+    <string name="touchscreen_v_gesture_summary"> \"V\" を描いて電話を起動します</string>
+    <string name="touchscreen_w_gesture_title">ブラウザ</string>
+    <string name="touchscreen_w_gesture_summary"> \"W\" を描いてブラウザを起動します</string>
+    <string name="touchscreen_z_gesture_title">懐中電灯</string>
+    <string name="touchscreen_z_gesture_summary"> \"Z\" を描いて懐中電灯を切り替えます</string>
+    <string name="touchscreen_flashlight_gesture_title">懐中電灯</string>
+    <string name="touchscreen_flashlight_gesture_summary">円を描いて懐中電灯を切り替えます</string>
+    <string name="touchscreen_music_gesture_title">音楽</string>
+    <string name="touchscreen_music_gesture_summary">ジェスチャーでの音楽再生の操作を使用します\n
+    • 下にスワイプで再生と一時停止\n
+    • 左にスワイプで前のトラック\n
+    • 右にスワイプで次のトラック</string>
+    <string name="touchscreen_swipe_up_title">上にスワイプ</string>
+    <string name="touchscreen_swipe_right_title">右にスワイプ</string>
+    <string name="touchscreen_swipe_down_title">下にスワイプ</string>
+    <string name="touchscreen_swipe_left_title">左にスワイプ</string>
+    <string name="user_aware_display_title">画面のユーザーを感知</string>
+    <string name="user_aware_display_summary">ユーザーが画面の前にいる間は、画面を点灯させたままにします</string>
+    <string name="ambient_display_title">アンビエント表示</string>
+    <string name="ambient_display_enable_title">アンビエント表示を使用する</string>
+    <string name="ambient_display_enable_summary">通知の受信時に画面を起動します</string>
+    <string name="ambient_display_gestures_title">アンビエント表示のジェスチャー</string>
+    <string name="ambient_display_gestures_summary">画面を起動させるためのジェスチャーを追加します</string>
+    <string name="ambient_display_summary">通知の受信時に画面を起動します</string>
+    <string name="ambient_display_summary_on">通知を受信した時に画面を起動します</string>
+    <string name="ambient_display_summary_off">通知を受信した時に画面を起動しません</string>
+    <string name="ambient_display_always_on_title">常に ON</string>
+    <string name="ambient_display_always_on_summary">時刻や通知アイコン、その他の情報を表示します。バッテリーの消費量が増加します。</string>
+    <string name="tilt_sensor_title">傾斜センサー</string>
+    <string name="pickup_sensor_title">ピックアップセンサー</string>
+    <string name="proximity_sensor_title">近接センサー</string>
+    <string name="hand_wave_gesture_title">手を振る</string>
+    <string name="hand_wave_gesture_summary">手を振った時に通知を点滅させます</string>
+    <string name="hand_wave_gesture_flat_title">方向を検出する</string>
+    <string name="hand_wave_gesture_flat_summary">デバイスが平らな面で上向きに置かれている場合のみ、点滅させます</string>
+    <string name="pick_up_gesture_title">ピックアップ</string>
+    <string name="pick_up_gesture_summary">デバイスを持ち上げた時に通知を点滅させます</string>
+    <string name="pick_up_wake_gesture_summary">デバイスを持ち上げた時にデバイスを起動します</string>
+    <string name="pocket_gesture_title">ポケット</string>
+    <string name="pocket_gesture_summary">ポケットから取り出した時に通知を点滅させます</string>
+    <string name="proximity_wake_title">近接センサーで起動</string>
+    <string name="proximity_wake_enable_title">近接センサーで起動</string>
+    <string name="proximity_wake_enable_summary">手を振るとデバイスが起動します</string>
+    <string name="actions_title">アクション</string>
+    <string name="device_gestures_panel_summary">特別なデバイスジェスチャーです</string>
+    <string name="moto_gestures_panel_title">moto/ジェスチャー</string>
+    <string name="camera_gesture_title">ダブルツイスト</string>
+    <string name="camera_gesture_summary">ダブルツイストジェスチャーを使用した時にカメラを起動します</string>
+    <string name="chop_chop_gesture_title">Chop-chop</string>
+    <string name="chop_chop_gesture_summary">Chop-chop ジェスチャーを使用した時に懐中電灯を起動します</string>
+    <string name="hand_wave_silencer_title">手を振ってサイレントにする</string>
+    <string name="hand_wave_silencer_summary">画面上で手を振って着信モードをサイレントにします</string>
+    <string name="flip_to_mute_title">裏返してサイレントモードにする</string>
+    <string name="flip_to_mute_summary">デバイスの画面を下にして置くと通知や着信音がサイレントになります</string>
+    <string name="dnd_access">この機能を使用するには、CM アクションにサイレントモードのアクセス権を与えてください。</string>
+    <string name="lift_to_silence_title">持ち上げて着信音を停止</string>
+    <string name="lift_to_silence_summary">デバイスを持ち上げると着信がサイレントになります。デバイスが平面にあった場合のみ動作します</string>
+    <string name="action_none">無効</string>
+    <string name="action_launch_camera">カメラを起動</string>
+    <string name="action_torch">トーチの切り替え</string>
+    <string name="feedback_intensity_title">触覚フィードバックの強さ</string>
+    <string name="feedback_intensity_summary">ダブルツイストと Chop-chop アクションの触覚フィードバックの強さを設定します</string>
+    <string name="feedback_intensity_none">無効</string>
+    <string name="feedback_intensity_low">低</string>
+    <string name="feedback_intensity_medium">中</string>
+    <string name="feedback_intensity_high">高</string>
+    <string name="dialog_ok">OK</string>
+    <string name="disabled">無効</string>
+    <string name="doze_settings_help_title">ヘルプ</string>
+    <string name="doze_settings_help_text">これらの機能はセンサーイベントを使用して Doze 通知の点滅を起動します。選択をしたセンサーは、デバイスが通知を受信した場合のみ有効になり、これによってバッテリーの消費を抑える事に役立ちます。画面が消灯するとすぐに選択をしたセンサーを有効にするオプションもありますが、バッテリーの消費が増加する場合があります。</string>
+    <string name="button_panel_title">追加のボタン</string>
+    <string name="button_swap_title">ボタンの入れ替え</string>
+    <string name="button_swap_summary">戻ると履歴のボタンを入れ替えます</string>
+    <string name="fingerprint_title">指紋認証</string>
+    <string name="fingerprint_as_home_title">指紋認証をホームボタンにする</string>
+    <string name="fingerprint_as_home_summary">指紋センサーをホームボタンとして使用します</string>
+    <string name="fingerprint_wakeup_title">指紋認証で画面を起動</string>
+    <string name="fingerprint_wakeup_summary">画面が消灯している間、指紋センサーによるデバイスの起動を許可します</string>
+    <string name="fingerprint_pocketmode_title">誤った起動を抑制</string>
+    <string name="fingerprint_pocketmode_summary">指紋センサーでの起動をする前に近接センサーで確認をします</string>
+    <string name="fingerprint_sleep_title">指紋認証でスリープ</string>
+    <string name="fingerprint_sleep_summary">指紋センサーを押して画面を消灯します</string>
+    <string name="high_touch_sensitivity_title">高感度タッチ</string>
+    <string name="high_touch_sensitivity_summary">タッチスクリーンの感度を上げて手袋をしたままでも使えるようにします</string>
+    <string name="quick_charge_title">急速充電</string>
+    <string name="quick_charge_summary">急速充電を切り替えます。この設定を変更後は、充電器を抜き差ししてください。</string>
+    <string name="camera_focus_fix_title">カメラフォーカスの修正</string>
+    <string name="camera_focus_fix_summary">カメラのフォーカスに問題がある場合に有効化してください</string>
+    <string name="wake_on_gesture_title">ジェスチャーで起動</string>
+    <string name="wake_on_gesture_summary">ジェスチャーイベントで通知の点滅の代わりにデバイスを起動します</string>
+    <string name="music_headset_scenario_music">音楽</string>
+    <string name="thermal_browser">ブラウザ</string>
+    <string name="thermal_camera">カメラ</string>
+    <string name="thermal_dialer">電話</string>
+    <string name="lcd_hbm_title_disabled">無効</string>
+</resources>

@@ -24,7 +24,6 @@
     <string name="glyph_settings_flip_toggle_title">Glyph a telefon megfordításakor</string>
     <string name="glyph_settings_flip_toggle_summary">Glyph némítása és mutatása ha a telefon lefelé néz</string>
     <string name="glyph_settings_brightness">Fényerő</string>
-    <string name="glyph_settings_charging_title">Töltési animáció</string>
     <string name="glyph_settings_charging_level_title">Akkumulátorszint</string>
     <string name="glyph_settings_charging_level_summary">Akkumulátorszint mutatása töltés közben</string>
     <string name="glyph_settings_charging_powershare_title">Fordított vezeték nélküli töltés</string>

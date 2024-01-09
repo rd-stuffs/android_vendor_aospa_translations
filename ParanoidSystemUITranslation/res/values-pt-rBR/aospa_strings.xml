@@ -38,5 +38,5 @@
     <string name="quick_settings_powershare_enabled_label">PowerShare ativado</string>
     <string name="turn_on_bluetooth">Bluetooth</string>
     <string name="bluetooth_is_off">Bluetooth desligado</string>
-    <string name="tap_a_device_to_connect">Toque em um dispositivo para se conectar/desconectar</string>
+    <string name="tap_a_device_to_connect">Toque em um dispositivo para se conectar</string>
 </resources>

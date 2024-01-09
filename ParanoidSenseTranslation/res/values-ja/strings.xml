@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Paranoid Sense</string>
+    <string name="face_enroll_title">顔の中心をカメラに合わせてください</string>
+    <string name="face_enroll_description">静止をして明るい環境にいる事を確認してください</string>
+    <string name="face_try_again_title">顔のキャプチャができませんでした</string>
+    <string name="face_try_again_description">下をタップしてもう一度やり直してください。次回行なう時は、明るい環境と顔を隠す物がない事を確認してください。</string>
+    <string name="btn_try_again">再試行</string>
+    <string name="attr_light_dark">顔をもっと明るくしてください</string>
+    <string name="attr_light_high">顔が明るすぎます</string>
+    <string name="attr_light_shadow">顔に影がかかっています</string>
+    <string name="unlock_failed_face_blur">顔がぼやけています</string>
+    <string name="unlock_failed_face_large">顔が近すぎます</string>
+    <string name="unlock_failed_face_multi">複数の顔が検出されました</string>
+    <string name="unlock_failed_face_not_complete">顔の一部のみを検出しました</string>
+    <string name="unlock_failed_face_small">顔が遠すぎます</string>
+</resources>

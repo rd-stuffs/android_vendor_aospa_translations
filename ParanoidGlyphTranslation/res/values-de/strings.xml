@@ -24,7 +24,7 @@
     <string name="glyph_settings_flip_toggle_title">Umdrehen für Glyph</string>
     <string name="glyph_settings_flip_toggle_summary">Stummschalten und Glyphen anzeigen, wenn das Telefon auf dem Display liegt.</string>
     <string name="glyph_settings_brightness">Helligkeit</string>
-    <string name="glyph_settings_charging_title">Ladeanimation</string>
+    <string name="glyph_settings_charging_title">Wird aufgeladen</string>
     <string name="glyph_settings_charging_level_title">Akkustand</string>
     <string name="glyph_settings_charging_level_summary">Akkustand beim Einstecken anzeigen</string>
     <string name="glyph_settings_charging_powershare_title">Umgekehrtes kabelloses Laden</string>
@@ -40,6 +40,9 @@
     <string name="glyph_settings_notifs_sub_title">Zugelassene Apps</string>
     <string name="glyph_settings_notifs_sub_toggle_title">Benachrichtigungsanimation aktivieren</string>
     <string name="glyph_settings_notifs_sub_animations_title">Muster</string>
+    <string name="glyph_settings_volume_title">Lautstärke</string>
+    <string name="glyph_settings_volume_level_toggle_title">Lautstärkeanzeige</string>
+    <string name="glyph_settings_volume_level_toggle_summary">Lautstärkepegel beim Einstellen anzeigen</string>
     <string name="glyph_settings_misc_title">Sonstige</string>
     <string name="glyph_settings_music_visualizer_toggle_title">Musikvisualisierer</string>
     <string name="glyph_settings_music_visualizer_toggle_summary">DISCO LIGHTS!\ndies wird alle anderen Glyph-Funktionen deaktivieren, wenn aktiviert</string>

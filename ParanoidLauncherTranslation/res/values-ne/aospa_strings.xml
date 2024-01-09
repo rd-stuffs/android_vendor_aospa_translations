@@ -18,8 +18,6 @@
 -->
 <resources>
     <string name="title_show_google_feed">गुगल फिड पहुँच गर्न स्वाइप गर्नुहोस्</string>
-    <string name="msg_minus_one_on_left">गृह स्क्रिनबाट, गूगल फिड खोल्न बायाँ स्वाइप गर्नुहोस्</string>
-    <string name="msg_minus_one_on_right">गृह स्क्रिनबाट, गूगल फिड खोल्न दायाँ स्वाइप गर्नुहोस्</string>
     <string name="pref_dt_gesture_title">सुत्नको लागि डबल ट्याप गर्नुहोस्</string>
     <string name="pref_dt_gesture_summary">स्क्रिन बन्द गर्न खाली ठाउँमा डबल ट्याप गर्नुहोस्</string>
     <string name="suggestion_pref_screen_title">सुझावहरू</string>
@@ -30,16 +28,13 @@
     <string name="settings_edit_widgets_error">गृह स्क्रिनमा विजेटहरू थप्न सम्भव छैन</string>
     <string name="desktop_show_labels">डेस्कटपमा आइकन लेबलहरू देखाउनुहोस्</string>
     <string name="drawer_show_labels">दराजमा आइकन लेबलहरू देखाउनुहोस्</string>
-    <string name="category_icon">आइकनहरू</string>
-    <string name="category_misc">विविध</string>
     <string name="category_google">गुगल</string>
-    <string name="action_lens">लेन्स</string>
+    <string name="category_icon">आइकनहरू</string>
     <string name="label_search">खोज्नुहोस्</string>
     <string name="label_lens">गुगल लेन्स</string>
     <string name="label_voice_search">आवाज खोज</string>
     <string name="dock_search_title">गुगल खोज पट्टी</string>
-    <string name="dock_search_summary">तलको डकमा खोज पट्टी देखाउनुहोस्</string>
+    <string name="recents_lens_title">लेन्स</string>
     <string name="smartspace_pref_title">एकै नजरमा</string>
     <string name="smartspace_pref_summary">गृह स्क्रिनको शीर्षमा स्मार्टस्पेस देखाउनुहोस्</string>
-    <string name="show_top_shadow">शीर्ष छाया देखाउनुहोस्</string>
 </resources>

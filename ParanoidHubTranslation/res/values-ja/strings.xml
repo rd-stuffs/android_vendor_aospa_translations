@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">システムアップデート</string>
+    <string name="system_update_update_to_date">システムは最新の状態です</string>
+    <string name="system_update_update_to_date_desc">Paranoid Android バージョン: %1$s %2$s &lt;br&gt; Android セキュリティアップデート: %3$s&lt;br&gt;&lt;br&gt;アップデートの最終確認: %4$s</string>
+    <string name="system_update_update_to_date_button">アップデートを確認</string>
+    <string name="system_update_checking_for_update">アップデートを確認中です…</string>
+    <string name="system_update_update_available">システムアップデートが利用可能です</string>
+    <string name="system_update_update_available_security_update">セキュリティアップデートが利用可能です</string>
+    <string name="system_update_update_available_desc">%1$s アップデートのサイズ: %2$s</string>
+    <string name="system_update_update_available_with_device_desc">%1$s &lt;br&gt;&lt;br&gt;&lt;b&gt;重要なアップデート&lt;/b&gt;: &lt;br&gt;- %2$s &lt;br&gt;&lt;br&gt;アップデートのサイズ: %3$s</string>
+    <string name="system_update_update_available_device_incremental_desc">&lt;b&gt;%1$s %2$s %3$s&lt;/b&gt; &lt;br&gt;&lt;br&gt;このアップデートは、安定性の向上と重要なバグの修正が行われます。詳細は &lt;a href=\"https://paranoidandroid.co/\"&gt;paranoidandroid.co&lt;/a&gt; を参照してください。&lt;br&gt;&lt;br&gt;&lt;b&gt;重要なアップデート&lt;/b&gt;: &lt;br&gt;- %4$s &lt;br&gt;&lt;br&gt;アップデートのサイズ: %5$s</string>
+    <string name="system_update_update_available_button">ダウンロードとインストール</string>
+    <string name="system_update_update_download_install">システムアップデートをインストール中です…</string>
+    <string name="system_update_update_download_install_security_update">セキュリティアップデートをインストール中です…</string>
+    <string name="system_update_update_download_install_step">アップデートのダウンロードとインストール</string>
+    <string name="system_update_update_download_install_verify">アップデートを検証中です…</string>
+    <string name="system_update_update_download_install_complete">アップデートが完了しました</string>
+    <string name="system_update_update_download_install_complete_desc">再起動のボタンをタップして、デバイスの再起動を行うとアップデートを適用します</string>
+    <string name="system_update_update_download_install_complete_restart_button">再起動</string>
+    <string name="system_update_update_download_install_paused">ダウンロードを一時停止しました</string>
+    <string name="system_update_update_download_install_pause_button">一時停止</string>
+    <string name="system_update_update_download_install_resume_button">再開</string>
+    <string name="system_update_update_download_install_cancel_button">キャンセル</string>
+    <string name="system_update_update_download_install_error">アップデートができませんでした</string>
+    <string name="system_update_update_download_install_step_download">アップデートをダウンロード中です</string>
+    <string name="system_update_update_download_install_step_download_verify">ダウンロードを検証中です...</string>
+    <string name="system_update_update_download_install_step_install">アップデートをインストール中です</string>
+    <string name="system_update_update_download_install_step_finalize">アプリを最適化中です。しばらくお待ちください...</string>
+    <string name="system_update_update_download_install_error_step_download_issue">ダウンロードの問題</string>
+    <string name="system_update_update_download_install_error_step_verify_issue">検証の問題</string>
+    <string name="system_update_update_download_install_error_step_install_issue">インストールの問題</string>
+    <string name="system_update_update_download_install_error_button">再試行</string>
+    <string name="system_update_notification_channel">システムアップデート</string>
+    <string name="system_update_notification_update_available">Paranoid Android %1$s %2$s</string>
+    <string name="system_update_notification_update_available_default">Paranoid Android システムアップデート</string>
+    <string name="system_update_notification_update_available_desc">このアップデートの詳細はタップをしてください</string>
+    <string name="system_update_notification_update_finished_reboot">デバイスを再起動</string>
+    <string name="system_update_notification_update_finished_reboot_desc">タップをしてアップデートの適用を完了します</string>
+    <string name="system_update_notification_update_completed">アップデートが完了しました</string>
+    <string name="system_update_notification_update_completed_desc">アップデートが完了しました! デバイスを引き続き使用する事ができます</string>
+    <plurals name="eta_seconds">
+        <item quantity="other">残り <xliff:g id="count">%d</xliff:g> 秒</item>
+    </plurals>
+    <plurals name="eta_minutes">
+        <item quantity="other">残り <xliff:g id="count">%d</xliff:g> 分</item>
+    </plurals>
+    <plurals name="eta_hours">
+        <item quantity="other">残り <xliff:g id="count">%d</xliff:g> 時間</item>
+    </plurals>
+</resources>

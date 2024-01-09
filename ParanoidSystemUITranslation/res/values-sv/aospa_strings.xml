@@ -31,4 +31,12 @@
     <string name="accessibility_quick_settings_heads_up_changed_off">Popup är avstängd </string>
     <string name="accessibility_quick_settings_heads_up_changed_on">Popup är påslaget.</string>
     <string name="quick_settings_dc_dimming_label">DC ljusreglering</string>
+    <string name="quick_settings_aod_label">Skärm alltid på</string>
+    <string name="quick_settings_powershare_label">Batteridelning</string>
+    <string name="quick_settings_powershare_off_powersave_label">Batteridelning av\nBatterisparläge</string>
+    <string name="quick_settings_powershare_off_low_battery_label">Batteridelning av\nLåg batterinivå</string>
+    <string name="quick_settings_powershare_enabled_label">Batteridelning aktiverad</string>
+    <string name="turn_on_bluetooth">Bluetooth</string>
+    <string name="bluetooth_is_off">Bluetooth är inaktiverat</string>
+    <string name="tap_a_device_to_connect">Tryck på en enhet för att ansluta/koppla från</string>
 </resources>

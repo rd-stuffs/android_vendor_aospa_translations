@@ -24,7 +24,6 @@
     <string name="glyph_settings_flip_toggle_title">ग्लिफमा फ्लिप गर्नुहोस्</string>
     <string name="glyph_settings_flip_toggle_summary">यदि फोन डाउन फेस गरिएको छ भने म्युट गर्नुहोस् र ग्लिफहरू देखाउनुहोस्</string>
     <string name="glyph_settings_brightness">उज्यालोपन</string>
-    <string name="glyph_settings_charging_title">चार्जिङ एनिमेसन</string>
     <string name="glyph_settings_charging_level_title">ब्याट्री स्तर</string>
     <string name="glyph_settings_charging_level_summary">प्लग इन गर्दा ब्याट्री स्तर देखाउनुहोस्</string>
     <string name="glyph_settings_charging_powershare_title">रिभर्स वायरलेस चार्जिङ</string>

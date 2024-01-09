@@ -24,7 +24,6 @@
     <string name="glyph_settings_flip_toggle_title">Flip voor Glyph</string>
     <string name="glyph_settings_flip_toggle_summary">Stil en toon Glyph als telefoon op scherm ligt</string>
     <string name="glyph_settings_brightness">Helderheid</string>
-    <string name="glyph_settings_charging_title">Animatie bij opladen</string>
     <string name="glyph_settings_charging_level_title">Batterij niveau</string>
     <string name="glyph_settings_charging_level_summary">Batterijniveau weergeven tijdens het aansluiten van de oplader</string>
     <string name="glyph_settings_charging_powershare_title">Omgekeerd draadloos opladen</string>

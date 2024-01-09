@@ -24,7 +24,6 @@
     <string name="glyph_settings_flip_toggle_title">Flip to Glyph</string>
     <string name="glyph_settings_flip_toggle_summary">Ztlumit a zobrazit Glyph, pokud leží telefon displejem dolů</string>
     <string name="glyph_settings_brightness">Jas</string>
-    <string name="glyph_settings_charging_title">Animace při nabíjení</string>
     <string name="glyph_settings_charging_level_title">Úroveň baterie</string>
     <string name="glyph_settings_charging_level_summary">Zobrazit úroveň nabití baterie při připojení</string>
     <string name="glyph_settings_charging_powershare_title">Reverzní bezdrátové nabíjení</string>

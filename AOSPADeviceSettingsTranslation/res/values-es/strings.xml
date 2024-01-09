@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013-2016 The CyanogenMod Project
+                   2017-2022 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="device_settings_app_name">Ajustes avanzados</string>
+    <string name="screen_gestures_panel_title">Gestos</string>
+    <string name="touchscreen_gesture_extras">Extras</string>
+    <string name="touchscreen_gesture_haptic_feedback">Respuesta háptica</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">Vibrar cuando se detecta un gesto de pantalla</string>
+    <string name="touchscreen_gesture_settings_title">Gestos en pantalla</string>
+    <string name="touchscreen_gesture_settings_summary">Realizar varios gestos en pantalla táctil para acciones rápidas</string>
+    <string name="gesture_display_title">Gestos con la pantalla apagada</string>
+    <string name="touchscreen_c_gesture_title">Cámara</string>
+    <string name="touchscreen_c_gesture_summary">Dibuja una «C» para activar la cámara</string>
+    <string name="touchscreen_e_gesture_title">Correo electrónico</string>
+    <string name="touchscreen_e_gesture_summary">Dibuja una «e» para abrir la aplicación de correo electrónico</string>
+    <string name="touchscreen_m_gesture_title">Mensajería</string>
+    <string name="touchscreen_m_gesture_summary">Dibuja una \"M\" para abrir la aplicación de mensajería</string>
+    <string name="touchscreen_s_gesture_title">Mensajes</string>
+    <string name="touchscreen_s_gesture_summary">Dibuja una «S» para abrir la aplicación de mensajería</string>
+    <string name="touchscreen_v_gesture_title">Marcador</string>
+    <string name="touchscreen_v_gesture_summary">Dibuja una\"V\" para abrir la aplicación de marcador</string>
+    <string name="touchscreen_w_gesture_title">Navegador</string>
+    <string name="touchscreen_w_gesture_summary">Dibuja una «W» para abrir la aplicación del navegador</string>
+    <string name="touchscreen_z_gesture_title">Linterna</string>
+    <string name="touchscreen_z_gesture_summary">Dibuja una \"Z\" para encender/apagar la linterna</string>
+    <string name="touchscreen_flashlight_gesture_title">Linterna</string>
+    <string name="touchscreen_flashlight_gesture_summary">Dibuja un círculo para activar la linterna</string>
+    <string name="touchscreen_music_gesture_title">Música</string>
+    <string name="touchscreen_music_gesture_summary">Utilizar gestos para controlar la reproducción de música \n
+    • Desliza hacia abajo para iniciar/pausar\n
+    • Desliza a la izquierda para la pista anterior\n
+    • Desliza a la derecha para la pista siguiente</string>
+    <string name="touchscreen_swipe_up_title">Deslizar hacia arriba</string>
+    <string name="touchscreen_swipe_right_title">Deslizar hacia la derecha</string>
+    <string name="touchscreen_swipe_down_title">Deslizar hacia abajo</string>
+    <string name="touchscreen_swipe_left_title">Deslizar a la izquierda</string>
+    <string name="user_aware_display_title">Visualización adaptada al usuario</string>
+    <string name="user_aware_display_summary">Mantener la pantalla encendida mientras el usuario esté mirando</string>
+    <string name="ambient_display_title">Pantalla ambiente</string>
+    <string name="ambient_display_enable_title">Usar pantalla ambiente</string>
+    <string name="ambient_display_enable_summary">Encender pantalla al recibir notificaciones</string>
+    <string name="ambient_display_gestures_title">Gestos de la pantalla ambiente</string>
+    <string name="ambient_display_gestures_summary">Gestos adicionales para activar la pantalla</string>
+    <string name="ambient_display_summary">Encender pantalla al recibir notificaciones</string>
+    <string name="ambient_display_summary_on">La pantalla se activará cuando reciba las notificaciones</string>
+    <string name="ambient_display_summary_off">La pantalla no se activará cuando reciba notificaciones</string>
+    <string name="ambient_display_always_on_title">Siempre activa</string>
+    <string name="ambient_display_always_on_summary">Mostrar hora, iconos de notificaciones, y otra info. Incrementa el uso de batería.</string>
+    <string name="tilt_sensor_title">Sensor de inclinación</string>
+    <string name="pickup_sensor_title">Sensor al levantar</string>
+    <string name="proximity_sensor_title">Sensor de proximidad</string>
+    <string name="hand_wave_gesture_title">Pasar la mano</string>
+    <string name="hand_wave_gesture_summary">Notificaciones de pulso en la mano</string>
+    <string name="hand_wave_gesture_flat_title">Detectar orientación</string>
+    <string name="hand_wave_gesture_flat_summary">Pulsa solo si el teléfono está boca arriba sobre una superficie plana</string>
+    <string name="pick_up_gesture_title">Levantar</string>
+    <string name="pick_up_wake_gesture_summary">Despertar dispositivo al levantar</string>
+    <string name="pocket_gesture_title">Bolsillo</string>
+    <string name="proximity_wake_title">Despertar por proximidad</string>
+    <string name="proximity_wake_enable_title">Despertar por proximidad</string>
+    <string name="proximity_wake_enable_summary">Despertar el dispositivo al pasar la mano</string>
+    <string name="actions_title">Acciones</string>
+    <string name="device_gestures_panel_summary">Gestos especiales del dispositivo</string>
+    <string name="moto_gestures_panel_title">Gestos Motorola</string>
+    <string name="camera_gesture_title">Doble giro</string>
+    <string name="camera_gesture_summary">Abrir cámara al usar el gesto de doble giro</string>
+    <string name="hand_wave_silencer_title">Pasar la mano para silenciar</string>
+    <string name="music_headset_scenario_music">Música</string>
+    <string name="thermal_browser">Navegador</string>
+    <string name="thermal_camera">Cámara</string>
+    <string name="thermal_dialer">Marcador</string>
+</resources>

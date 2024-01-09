@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013-2016 The CyanogenMod Project
+                   2017 The LineageOS Project
+                   2020-2023 Paranoid Android
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="glyph_settings_app_name">Glyph gränssnitt</string>
+    <string name="glyph_settings_enable">Glyph belysning</string>
+    <string name="glyph_settings_title">Glyph gränssnitt</string>
+    <string name="glyph_settings_summary">Alternativ för Glyph belysning</string>
+    <string name="glyph_settings_flip_toggle_title">Vänd för Glyph</string>
+    <string name="glyph_settings_flip_toggle_summary">Stäng av och visa Glyphs om telefonen är nedåt</string>
+    <string name="glyph_settings_brightness">Ljusstyrka</string>
+    <string name="glyph_settings_charging_level_title">Batterinivå</string>
+    <string name="glyph_settings_charging_level_summary">Visa batterinivå när du är ansluten</string>
+    <string name="glyph_settings_charging_powershare_title">Omvänd trådlös laddning</string>
+    <string name="glyph_settings_charging_powershare_summary">Visa en animation när omvänd trådlös laddning upptäcks</string>
+    <string name="glyph_settings_call_title">Samtal</string>
+    <string name="glyph_settings_call_toggle_title">Animering för samtal</string>
+    <string name="glyph_settings_call_toggle_summary">Pulsera vid inkommande samtal</string>
+    <string name="glyph_settings_call_sub_toggle_title">Aktivera animering</string>
+    <string name="glyph_settings_call_sub_animations_title">Mönster</string>
+    <string name="glyph_settings_notifs_title">Notifikationer</string>
+    <string name="glyph_settings_notifs_toggle_title">Animering av aviseringar</string>
+    <string name="glyph_settings_notifs_toggle_summary">Blixt blinkar på nya aviseringar</string>
+    <string name="glyph_settings_notifs_sub_title">Appar för att tillåta</string>
+    <string name="glyph_settings_notifs_sub_toggle_title">Animering av aviseringar</string>
+    <string name="glyph_settings_notifs_sub_animations_title">Mönster</string>
+    <string name="glyph_settings_misc_title">Övrigt</string>
+    <string name="glyph_settings_music_visualizer_toggle_title">Musik Visualisering</string>
+    <string name="glyph_settings_music_visualizer_toggle_summary">DISCO LIGHTS!\ndetta kommer att inaktivera alla andra glyffunktioner medan aktiverat</string>
+    <string name="glyph_accessibility_quick_settings">Glyph</string>
+    <string name="glyph_accessibility_quick_settings_torch">Glyph fackla</string>
+    <string name="glyph_accessibility_quick_settings_off">Av</string>
+    <string name="glyph_accessibility_quick_settings_on">På</string>
+</resources>

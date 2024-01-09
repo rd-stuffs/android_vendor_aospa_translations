@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013-2016 The CyanogenMod Project
+                   2017-2022 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="allow_proximity_sensor_title">ప్రాక్సిమిటీ సెన్సర్ ని అనుమతి చేయి</string>
+    <string name="allow_proximity_sensor_summary">చర్య తీసుకునేముందు ప్రాక్సిమిటీ సెన్సర్ ని తనిఖీ చేయ్</string>
+    <string name="raise_to_wake_gesture_title">ఆన్ చేయడానికి లేపండి</string>
+    <string name="raise_to_wake_gesture_summary">పల్సింగ్ నోటిఫికేషన్ బదులు పరికరాణిని లేపండి</string>
+    <string name="dirac_enable">MI Sound Enhancer నీ వాడండి</string>
+    <string name="dirac_title">MI Sound Enhancer</string>
+    <string name="dirac_summary">ఆడియో క్వాలిటీనీ మెరుగుపర్చడం</string>
+    <string name="dirac_headset_title">హెడ్ఫోన్స్ రాకాని ఎంచుకో</string>
+    <string name="dirac_preset_title">ముందుగా నిర్ణయించబడిన ఎంపికని ఎంచుకోండి</string>
+    <string name="dirac_hifi_title">Hi-Fi ఆడియో</string>
+    <string name="dirac_hifi_summary">ధ్వనిని మరియు వక్రీకరణని తగ్గించి సౌండ్ నాణ్యతను పెంచు</string>
+    <string name="dirac_hifi_enable_title">Hi-FI ఆడియో ని ఆన్ చేయ్</string>
+    <string name="dirac_headset_default">డిఫాల్ట్</string>
+    <string name="dirac_headset_earbuds">Mi ఇయర్ బడ్స్</string>
+    <string name="dirac_headset_in_ear_2013">Mi ఇన్-ఇయర్ (2013)</string>
+    <string name="dirac_headset_piston_1">Mi పిస్టన్-1</string>
+    <string name="dirac_headset_general">జనరల్</string>
+    <string name="dirac_headset_general_inear">సాధారణ ఇన్-ఇయర్</string>
+    <string name="dirac_headset_piston_basic">బేసిక్ ఎడిషన్</string>
+    <string name="dirac_headset_piston_2">Mi పిస్టన్-2</string>
+    <string name="dirac_headset_piston_standard">సాధారణ ఎడిషన్</string>
+    <string name="dirac_headset_headphone">Mi హెడ్‌ఫోన్స్</string>
+    <string name="dirac_headset_piston_youth">యూత్ ఎడిషన్</string>
+    <string name="dirac_headset_piston_color">కలర్ ఎడిషన్</string>
+    <string name="dirac_headset_in_ear">Mi ఇన్-ఇయర్</string>
+    <string name="dirac_headset_capsule">Mi క్యాప్స్యూల్</string>
+    <string name="dirac_headset_in_ear_pro">Mi ఇన్-ఇయర్ ప్రో</string>
+    <string name="dirac_headset_comfort">Mi కంఫర్ట్</string>
+    <string name="dirac_headset_reduction_noise">Mi నాయిస్ కాన్సిలింగ్ టైప్-సి</string>
+    <string name="dirac_headset_cancelling">Mi నాయిస్ కాన్సిలింగ్ 3.5mm</string>
+    <string name="dirac_headset_half_in_ear">Mi హాఫ్ ఇన్ ఇయర్</string>
+    <string name="dirac_headset_in_ear2">Mi ఇన్-ఇయర్ 2</string>
+    <string name="dirac_headset_earphone_basic">Mi ఇయర్‌ఫోన్స్ బేసిక్</string>
+    <string name="dirac_headset_earphone">Mi ఇయర్‌ఫోన్స్</string>
+    <string name="dirac_headset_ear_four">Mi క్వాడ్రపుల్ డ్రైవర్ ఇయర్‌ఫోన్స్</string>
+    <string name="dirac_headset_piston_typec">Mi ఇన్-ఇయర్ హెడ్‌ఫోన్స్ (టైప్-C)</string>
+    <string name="dirac_headset_bluetooth_collar">Mi బ్లూటూత్ నెక్బాండ్</string>
+    <string name="dirac_headset_bluetooth_linefree">Mi బ్లూటూత్ ఇయర్‌ఫోన్‌లు</string>
+    <string name="dirac_headset_redmi_earphones">Redmi ఇయర్‌ఫోన్స్</string>
+    <string name="dirac_preset_default">డిఫాల్ట్</string>
+    <string name="dirac_preset_rock">రాక్</string>
+    <string name="dirac_preset_jazz">జాజ్</string>
+    <string name="dirac_preset_pop">పాప్</string>
+    <string name="dirac_preset_classical">క్లాసికల్</string>
+    <string name="dirac_preset_hiphop">హిప్ హాప్</string>
+    <string name="dirac_preset_blues">బ్లూస్</string>
+    <string name="dirac_preset_electronic">ఎలక్ట్రానిక్</string>
+    <string name="dirac_preset_country">కంట్రీ</string>
+    <string name="dirac_preset_dance">డాన్స్</string>
+    <string name="dirac_preset_metal">మెటల్</string>
+    <string name="dirac_preset_bass_booster">బాస్ బూస్టర్</string>
+    <string name="dirac_preset_live">లైవ్</string>
+    <string name="dirac_preset_balanced">బ్యాలెన్స్</string>
+    <string name="dirac_preset_bass_reduction">బాస్ తగ్గింపు</string>
+    <string name="dirac_preset_treble_reduction">ట్రిబుల్ తగ్గింపు</string>
+    <string name="dirac_preset_soft_bass">సాఫ్ట్ బాస్</string>
+    <string name="dirac_preset_soft_treble">సాఫ్ట్ ట్రెబుల్</string>
+    <string name="music_headset_scenario_select">సన్నివేశాన్ని ఎంచుకోండి</string>
+    <string name="music_headset_scenario_intelligent">స్మార్ట్</string>
+    <string name="music_headset_scenario_video">వీడియో</string>
+    <string name="music_headset_scenario_vocal">వాయిస్</string>
+    <string name="popup_settings_title">పాప్-అప్ కెమెరా సెట్టింగ్‌లు</string>
+    <string name="popup_led_title">కెమెరా LED</string>
+    <string name="popup_led_summary">ముందు కెమెరా పైకి వచ్చినప్పుడు మరియు  వెనక్కి వెళ్లినప్పుడు LED లైట్‌ని చూపిస్తుంది</string>
+    <string name="popup_sound_title">సౌండ్ ఎఫెక్ట్స్</string>
+    <string name="popup_camera_tip">గమనిక</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">పలుమార్లు ముందు కెమెరాని మూసివేయలేకపోయాము. కెమెరాని క్యాలీబ్రేట్ చెయ్యడానికి ప్రయత్నించండి.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">పలుమార్లు ముందు కెమెరాని తెరవలేకపోయినము. కెమెరాని క్యాలీబ్రేట్ చెయ్యడానికి ప్రయత్నించండి.</string>
+    <string name="popup_camera_calibrate_running">క్యాలీబ్రేషన్ సమయంలో ముందు కెమెరా ఉపయోగించబడలేదు.</string>
+    <string name="popup_camera_calibrate_now">క్యాలిబ్రేట్</string>
+    <string name="popup_camera_calibrate_failed">క్యాలిబ్రేట్ చెయ్యలేకపోయాము</string>
+    <string name="popup_camera_calibrate_success">విజయవంతంగా క్యాలిబ్రేట్ చేయబడింది. మీరు ఇప్పుడు ముందు కెమెరాని తెరవవచ్చు.</string>
+    <string name="stop_operate_camera_frequently">మీరు చాలా తరచుగా ముందు కెమెరాని తెరుస్తున్నారు.</string>
+    <string name="takeback_camera_front_failed">ముందు కెమెరాని మూసివేయలేకపోయాము. మళ్లీ ప్రయత్నించండి.</string>
+    <string name="popup_camera_front_failed">ముందు కెమెరాని తెరవలేకపోయాము. మళ్లీ ప్రయత్నించండి.</string>
+    <string name="popup_camera_proximity_obstructed">ముందు కెమెరా తెరవడానికి ప్రాక్సిమిటీ సెన్సర్ పైన చెయ్యి తొలగించండి.</string>
+    <string name="clear_speaker_title">స్పీకర్ క్లియర్ చేయి</string>
+    <string name="clear_speaker_summary">స్పీకర్‌ని క్లియర్ చేసేందుకు 30 సెకన్ల ఆడియోని ప్లే చేస్తుంది</string>
+    <string name="clear_speaker_description">ఈ ఫీచర్ నీ ఒక్కటికి రెండుసార్లు వాడండి ఒకవేళ మీ స్పీకర్ లో తక్కువ దుమ్ము ఉన్నటైతే.
+బాగా దుమ్ము ఉన్నటైతే వాల్యూమ్ హై లో పెట్టి 2-5 సార్లు పరికరాన్ని ఊపుతూ వాడండి</string>
+    <string name="thermal_title">ఆప్టిమైజేషన్ ప్రొఫైల్స్</string>
+    <string name="thermal_summary">వాంఛనీయ పనితీరు కోసం ఒక్కో యాప్ ప్రొఫైల్‌లను సర్దుబాటు చేయండి</string>
+    <string name="thermal_default">ఆప్టిమైజేషన్ లేదు</string>
+    <string name="thermal_benchmark">అధిక పనితీరు</string>
+    <string name="thermal_gaming">గేమ్స్</string>
+    <string name="thermal_streaming">స్ట్రీమింగ్ అప్లికేషన్స్</string>
+    <string name="stylus_title">స్టైలస్ పెన్</string>
+    <string name="lcd_features_title">మర్రాన్ని డిస్ప్లే ఫీచర్స్</string>
+    <string name="lcd_features_summary">హై బ్రైట్నెస్ మోడ్ (HBM), కంటెంట్ అడాప్టివ్ బ్యాక్లైట్ కంట్రోల్ (CABC)</string>
+    <string name="lcd_features_info">హై బ్రైట్‌నెస్ మోడ్ (HBM) సూర్యకాంతి కింద దృశ్యమానతను మెరుగుపరచడానికి డిస్‌ప్లే యొక్క గరిష్ట ప్రకాశాన్ని పెంచుతుంది. విద్యుత్ వినియోగాన్ని పెంచుతుంది.\n\nకంటెంట్ అడాప్టివ్ బ్యాక్‌లైట్ కంట్రోల్ (CABC) క్షీణత లేకుండా విద్యుత్ వినియోగాన్ని తగ్గించడానికి, ప్రస్తుతం చూపిన కంటెంట్ ఆధారంగా డిస్‌ప్లే మరియు బ్యాక్‌లైట్ ప్రకాశాన్ని సర్దుబాటు చేస్తుంది.</string>
+    <string name="kernel_not_supported">కెర్నల్ ఈ ఫీచర్నీ సపోర్ట్ చెయ్యదు</string>
+    <string name="lcd_hbm_title">హై బ్రైట్నెస్ మోడ్</string>
+    <string name="lcd_hbm_summary">సూర్యకాంతి కింద స్క్రీన్ ప్రకాశాన్ని పెంచండి</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_hbm_title_enabled">ప్రారంభించబడింది</string>
+    <string name="lcd_cabc_title">కంటెంట్ అడాప్టివ్ బ్యాక్లైట్ కంట్రోల్</string>
+    <string name="lcd_cabc_tile_title">CABC</string>
+    <string name="lcd_cabc_off">ఆఫ్‌లో ఉంది</string>
+    <string name="lcd_cabc_low">లో (UI)</string>
+    <string name="lcd_cabc_medium">మీడియం (Videos)</string>
+    <string name="lcd_cabc_high">హై (Images)</string>
+    <string name="touch_control_title">టచ్ స్క్రీన్ ఆప్టిమైజేషన్స్</string>
+    <string name="touch_game_mode_title">గేమ్ మోడ్ ని ప్రారంభించు</string>
+    <string name="touch_game_mode_summary">టచ్ స్క్రీన్‌ను ఆప్టిమైజ్ చేయడం ద్వారా గేమింగ్ అనుభవాన్ని మెరుగుపరచడంలో సహాయపడుతుంది</string>
+    <string name="touch_response_title">టచ్ స్పందన</string>
+    <string name="touch_response_summary">టచ్ స్పందనని కంట్రోల్ చేస్తుంది</string>
+    <string name="touch_sensitivity_title">టచ్ సెన్సిటివిటీ</string>
+    <string name="touch_sensitivity_summary">పదే పదే చేసే ట్యాప్స్ యొక్క సెన్సిటివిటీ ని కంట్రోల్ చేస్తుంది</string>
+    <string name="touch_resistant_title">టచ్-నిరోధక ప్రదేశం</string>
+    <string name="touch_resistant_summary">అనుకోకుండా చెయ్యి తగిలే అంచులదగ్గర ఉన్న చోటు సెన్సిటివిటీనీ తగ్గిస్తుంది</string>
+    <string name="device_min_refresh_rate">కనీస రిఫ్రెష్ రేటు</string>
+    <string name="device_power_save_refresh_rate">బాటరీ ని ఆటోమెటిక్గా పొదుపుచేయి</string>
+    <string name="device_power_save_refresh_rate_switch">బాటరీ సేవర్ ఆన్ లో ఉన్నపుడు రిఫ్రెష్ రేట్ ని ఆటోమెటిక్గా తగ్గించు</string>
+    <string name="refresh_rate_settings_title">స్క్రీన్ రిఫ్రెష్ రేట్</string>
+    <string name="refresh_rate_settings_summary">స్క్రీన్ రిఫ్రెష్ రేట్ ని మార్చు</string>
+    <string name="refresh_rate_tile_title">రిఫ్రెష్ రేట్</string>
+    <string name="refresh_rate_tile_disabled">బాటరీ షేర్ ఆన్ చేయబడింది</string>
+    <string name="refresh_title">యాప్ కి యాప్ కు రిఫ్రెష్ రేట్</string>
+    <string name="refresh_summary">ఒక్కో యాప్ కు నిర్దిష్టమైన రిఫ్రెష్ రేట్ ని ఎంచుకో</string>
+    <string name="refresh_default">డిఫాల్ట్</string>
+    <string name="refresh_low">లో (30Hz)</string>
+    <string name="refresh_medium">మీడియం (60Hz)</string>
+    <string name="refresh_high">హై (90Hz)</string>
+    <string name="refresh_extreme">ఎక్స్ట్రీమ్ (120Hz)</string>
+</resources>

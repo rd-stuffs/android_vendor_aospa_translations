@@ -24,7 +24,6 @@
     <string name="glyph_settings_flip_toggle_title">翻轉裝置來開關 Glyph</string>
     <string name="glyph_settings_flip_toggle_summary">螢幕朝下時靜音並顯示 Glyph 燈效</string>
     <string name="glyph_settings_brightness">亮度</string>
-    <string name="glyph_settings_charging_title">充電動畫</string>
     <string name="glyph_settings_charging_level_title">電量</string>
     <string name="glyph_settings_charging_level_summary">充電時顯示電量</string>
     <string name="glyph_settings_charging_powershare_title">反向無線充電</string>

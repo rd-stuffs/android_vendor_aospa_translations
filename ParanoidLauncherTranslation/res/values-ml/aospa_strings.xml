@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+* Copyright (C) 2022 Paranoid Android
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*      http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+-->
+<resources>
+    <string name="title_show_google_feed">ഗൂഗിൾ ഫീഡ് എടുക്കാൻ സ്വൈപ് ചെയ്യുക.</string>
+    <string name="pref_dt_gesture_title">നിഷ്ക്രിയമാക്കുന്നതിന് രണ്ടു വെട്ടം അമർത്തുക</string>
+    <string name="pref_dt_gesture_summary">സ്‌ക്രീൻ ഓഫിനായി ശൂന്യമായ സ്ഥലത്ത് രണ്ടു വെട്ടം ടാപ്പ് ചെയ്യുക</string>
+    <string name="suggestion_pref_screen_title">നിര്‍ദ്ദേശങ്ങൾ</string>
+    <string name="suggestion_pref_screen_desc">എല്ലാ ആപ്പുകൾക്കും &amp; ഹോം സ്‌ക്രീൻ നിർദ്ദേശങ്ങൾക്കും</string>
+    <string name="settings_lock_layout_title">ലോക്ക് രേഖാചിത്രം</string>
+    <string name="settings_lock_layout_summary_on">ഐക്കണുകളും വിഡ്ജറ്റുകളും ഹോംസ്‌ക്രീനിലേക്ക് ചേർക്കാനോ, മായ്ക്കാനോ, നീക്കാനോ പറ്റില്ല</string>
+    <string name="settings_lock_layout_summary_off">ഐക്കണുകളും വിഡ്ജറ്റുകളും ഹോംസ്‌ക്രീനിലേക്ക് ചേർക്കാനോ, മായ്ക്കാനോ, നീക്കാനോ പറ്റും</string>
+    <string name="settings_edit_widgets_error">ഹോംസ്‌ക്രീനിലേക്ക് വിഡ്ജറ്റുകൾ ചേർക്കാൻ സാധിക്കില്ല</string>
+    <string name="desktop_show_labels">ഡെസ്ക്ടോപ്പിൽ ഐക്കൺ പടം കാണിക്കുക</string>
+    <string name="drawer_show_labels">ഡ്രായറിൽ ഐക്കൺ പടം കാണിക്കുക</string>
+    <string name="category_google">ഗൂഗിൾ</string>
+    <string name="category_icon">ഐക്കണുകൾ</string>
+    <string name="label_search">തിരയുക</string>
+    <string name="label_lens">ഗൂഗിൾ ലെൻസ്</string>
+    <string name="label_voice_search">ശബ്‌ദം ഉപയോഗിച്ചുള്ള തിരയൽ</string>
+    <string name="dock_search_title">ഗൂഗിൾ സെർച്ച് ബാർ</string>
+    <string name="recents_lens_title">ലെൻസ്</string>
+    <string name="smartspace_pref_title">ഒറ്റനോട്ടത്തിൽ</string>
+    <string name="smartspace_pref_summary">ഹോം സ്ക്രീനിൻ്റെ മുകളിൽ സ്മാർട്ട്സ്പേസ് കാണിക്കുക</string>
+</resources>

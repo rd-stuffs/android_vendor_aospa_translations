@@ -24,7 +24,6 @@
     <string name="glyph_settings_flip_toggle_title">Flip to Glyph</string>
     <string name="glyph_settings_flip_toggle_summary">Уведомления Glyph без звука, лёжа экраном вниз</string>
     <string name="glyph_settings_brightness">Яркость</string>
-    <string name="glyph_settings_charging_title">Анимация зарядки</string>
     <string name="glyph_settings_charging_level_title">Уровень батареи</string>
     <string name="glyph_settings_charging_level_summary">Показывать уровень батареи при подключенной зарядке</string>
     <string name="glyph_settings_charging_powershare_title">Реверсивная зарядка</string>

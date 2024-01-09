@@ -24,7 +24,6 @@
     <string name="glyph_settings_flip_toggle_title">Balik untuk mengaktifkan Glyph</string>
     <string name="glyph_settings_flip_toggle_summary">Bisukan dan tampilkan Glyphs jika ponsel dibalik</string>
     <string name="glyph_settings_brightness">Kecerahan</string>
-    <string name="glyph_settings_charging_title">Animasi pengisian daya</string>
     <string name="glyph_settings_charging_level_title">Level baterai</string>
     <string name="glyph_settings_charging_level_summary">Tampilkan level baterai ketika pengisian daya</string>
     <string name="glyph_settings_charging_powershare_title">Pengisian daya Reverse wireless charging</string>

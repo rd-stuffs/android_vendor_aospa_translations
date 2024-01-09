@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013-2016 The CyanogenMod Project
+                   2017-2022 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="device_settings_app_name">Haladó beállítások</string>
+    <string name="screen_gestures_panel_title">Gesztusok</string>
+    <string name="touchscreen_gesture_extras">Extrák</string>
+    <string name="touchscreen_gesture_haptic_feedback">Rezgő visszajelzés</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">Rezegjen a képernyő mozdulatvezérlés észlelésekor</string>
+    <string name="touchscreen_gesture_settings_title">Érintőképernyős mozdulatvezérlés</string>
+    <string name="touchscreen_gesture_settings_summary">Különböző képernyő-mozdulatvezérlések végrehajtása a gyorsműveletekhez</string>
+    <string name="gesture_display_title">Gesztusok kikapcsolt képernyőnél</string>
+    <string name="touchscreen_c_gesture_title">Kamera</string>
+    <string name="touchscreen_c_gesture_summary">Rajzoljon \"C\" betűt a kamera indításához</string>
+    <string name="touchscreen_e_gesture_title">Email</string>
+    <string name="touchscreen_e_gesture_summary">Rajzoljon \"e\" betűt az email alkalmazás indításához</string>
+    <string name="touchscreen_m_gesture_title">Üzenetküldés</string>
+    <string name="touchscreen_m_gesture_summary">Rajzoljon \"M\" betűt az üzenetváltás indításához</string>
+    <string name="touchscreen_s_gesture_title">Üzenetküldés</string>
+    <string name="touchscreen_s_gesture_summary">Rajzoljon \"S\" betűt az üzenetváltás indításához</string>
+    <string name="touchscreen_v_gesture_title">Tárcsázó</string>
+    <string name="touchscreen_v_gesture_summary">Rajzoljon \"V\" betűt a tárcsázó indításához</string>
+    <string name="touchscreen_w_gesture_title">Böngésző</string>
+    <string name="touchscreen_w_gesture_summary">Rajzoljon \"W\" betűt a böngésző indításához</string>
+    <string name="touchscreen_z_gesture_title">Zseblámpa</string>
+    <string name="touchscreen_z_gesture_summary">Rajzoljon \"Z\" betűt a zseblámpa kapcsolásához</string>
+    <string name="touchscreen_flashlight_gesture_title">Zseblámpa</string>
+    <string name="touchscreen_flashlight_gesture_summary">Rajzoljon kört a zseblámpa kapcsolásához</string>
+    <string name="touchscreen_music_gesture_title">Zene</string>
+    <string name="touchscreen_music_gesture_summary">Használjon gesztusokat a zene vezérléséhez\n
+    • Függőleges csúsztatás lefelé --&gt; lejátszás/szünet\n
+    • Balra csúsztatás --&gt; előző szám\n
+    • Jobbra csúsztatás --&gt; következő szám</string>
+    <string name="touchscreen_swipe_up_title">Csúsztatás felfelé</string>
+    <string name="touchscreen_swipe_right_title">Csúsztatás jobbra</string>
+    <string name="touchscreen_swipe_down_title">Csúsztatás lefelé</string>
+    <string name="touchscreen_swipe_left_title">Csúsztatás balra</string>
+    <string name="user_aware_display_title">Felhasználó-érzékelő kijelző</string>
+    <string name="user_aware_display_summary">Amíg egy felhasználó a képernyő előtt van, az nem fog kikapcsolódni</string>
+    <string name="ambient_display_title">Környezeti kijelző</string>
+    <string name="ambient_display_enable_title">A Környezeti kijelző használata</string>
+    <string name="ambient_display_enable_summary">Képernyő felébresztése értesítés érkezésekor</string>
+    <string name="ambient_display_gestures_title">Környezeti kijelző gesztusok</string>
+    <string name="ambient_display_gestures_summary">További gesztusok a kijelző felébresztéséhez</string>
+    <string name="ambient_display_summary">Képernyő felébresztése értesítés érkezésekor</string>
+    <string name="ambient_display_summary_on">Képernyő ébresztése értesítések fogadásakor</string>
+    <string name="ambient_display_summary_off">A képernyő nem fog felébredni értesítések érkezésekor</string>
+    <string name="ambient_display_always_on_title">Mindig be</string>
+    <string name="ambient_display_always_on_summary">Az idő, az értesítési ikonok és egyéb információk megjelenítése. Növeli az akkuhasználatot.</string>
+    <string name="tilt_sensor_title">Dőlés érzékelő</string>
+    <string name="pickup_sensor_title">Felemelés érzékelő</string>
+    <string name="proximity_sensor_title">Közelségérzékelő</string>
+    <string name="hand_wave_gesture_title">Lebegő simítás</string>
+    <string name="hand_wave_gesture_summary">Értesítések pulzálása lebegő simításnál</string>
+    <string name="hand_wave_gesture_flat_title">Tájolás érzékelése</string>
+    <string name="hand_wave_gesture_flat_summary">Értesítések felvillantása csak akkor, ha a telefon sima felületen fekszik kijelzővel felfelé</string>
+    <string name="pick_up_gesture_title">Felemelés</string>
+    <string name="pick_up_gesture_summary">Értesítések felvillantása felemeléskor</string>
+    <string name="pick_up_wake_gesture_summary">Készülékébresztés felemeléskor</string>
+    <string name="pocket_gesture_title">Zseb</string>
+    <string name="pocket_gesture_summary">Értesítések felvillantása zsebből kivételkor</string>
+    <string name="proximity_wake_title">Felébresztés a közelségérzékelő segítségével</string>
+    <string name="proximity_wake_enable_title">Felébresztés a közelségérzékelő segítségével</string>
+    <string name="proximity_wake_enable_summary">Készülék ébresztése lebegő simításra</string>
+    <string name="actions_title">Műveletek</string>
+    <string name="device_gestures_panel_summary">Speciális eszközgesztusok</string>
+    <string name="moto_gestures_panel_title">Moto gesztusok</string>
+    <string name="camera_gesture_title">Dupla megforgatás</string>
+    <string name="camera_gesture_summary">Kamera megnyitása dupla megforgatási mozdulatra</string>
+    <string name="chop_chop_gesture_title">Dupla-rázás</string>
+    <string name="chop_chop_gesture_summary">A Zseblámpa ki és bekapcsolása a készülék kétszeres megrázásával</string>
+    <string name="hand_wave_silencer_title">Némítás simítással</string>
+    <string name="hand_wave_silencer_summary">Bejövő hívás némítása a képernyőn való végigsimítással</string>
+    <string name="flip_to_mute_title">\"Ne zavarjanak\" mód (DND) lefordítással</string>
+    <string name="flip_to_mute_summary">Bejövő híváskor fordítsa a képernyőjére a telefont, az értesítések és a csengés elnémításához</string>
+    <string name="dnd_access">A funkció használatához adjon \"Ne zavarjon\" hozzáférést a CMActions részére.</string>
+    <string name="lift_to_silence_title">Némítás felemeléssel</string>
+    <string name="lift_to_silence_summary">Emelje fel a telefont a bejövő hívások némításához. Csak akkor működik, ha a telefon vízszintes helyzetben volt</string>
+    <string name="action_none">Kikapcsolva</string>
+    <string name="action_launch_camera">Kamera indítása</string>
+    <string name="action_torch">Zseblámpa kapcsolása</string>
+    <string name="feedback_intensity_title">A rezgő visszajelzés erőssége</string>
+    <string name="feedback_intensity_summary">Különböző erősségű rezgő visszajelzés állítható be a különböző műveletekhez</string>
+    <string name="feedback_intensity_none">Kikapcsolva</string>
+    <string name="feedback_intensity_low">Gyenge</string>
+    <string name="feedback_intensity_medium">Közepes</string>
+    <string name="feedback_intensity_high">Erős</string>
+    <string name="dialog_ok">OK</string>
+    <string name="disabled">Kikapcsolva</string>
+    <string name="doze_settings_help_title">Súgó</string>
+    <string name="doze_settings_help_text">Ezek a funkciók az érzékelőket használják a Doze értesítések villantására, ez segít csökkenteni az akkumulátorhasználatot. Lehetőség van arra is, hogy a kiválasztott érzékelőt azonnal engedélyezze, amint a képernyő kikapcsol, de ez nagyobb akkuhasználatot eredményez.</string>
+    <string name="button_panel_title">További gombok</string>
+    <string name="button_swap_title">A gombok felcserélése</string>
+    <string name="button_swap_summary">Felcseréli az Előzmények és a Vissza gombok sorrendjét</string>
+    <string name="fingerprint_title">Ujjlenyomat</string>
+    <string name="fingerprint_as_home_title">Ujjlenyomat kezdőlap gombként</string>
+    <string name="fingerprint_as_home_summary">Ujjlenyomat érzékelő használata kezdőlap gombként</string>
+    <string name="fingerprint_wakeup_title">Ébresztés ujjlenyomattal</string>
+    <string name="fingerprint_wakeup_summary">Lehetővé teszi az ujjlenyomat érzékelőnek hogy felébressze az eszközt, amkor a képernyő ki van kapcsolva</string>
+    <string name="fingerprint_pocketmode_title">Véletlen ébresztés megakadályozása</string>
+    <string name="fingerprint_pocketmode_summary">Ellenőrizze a közelségérzékelőt az ujjlenyomatszenzor által kiváltott ébresztések előtt</string>
+    <string name="fingerprint_sleep_title">Zárolás ujjlenyomat érintéssel</string>
+    <string name="fingerprint_sleep_summary">Nyomja meg az ujjlenyomat érzékelőt a képernyő kikapcsolásához</string>
+    <string name="high_touch_sensitivity_title">Magas érintési érzékenység</string>
+    <string name="high_touch_sensitivity_summary">Érintőképernyő érzékenységének növelése, így kesztyű viselése esetén is használható</string>
+    <string name="quick_charge_title">Gyorstöltés</string>
+    <string name="quick_charge_summary">A gyorstöltés kapcsolása. Ha megváltoztatta ezt a beállítást, utána csatlakoztassa le, majd újra fel a készüléket</string>
+    <string name="camera_focus_fix_title">Fókuszrögzítő</string>
+    <string name="camera_focus_fix_summary">Akkor engedélyezze ezt, ha a készülék kamerája nem képes fókuszálni</string>
+    <string name="wake_on_gesture_title">Készülékébresztés kézmozdulatokra</string>
+    <string name="wake_on_gesture_summary">A mozdulatérzékelő pulzáló értesítés helyett ébressze fel a készüléket</string>
+    <string name="music_headset_scenario_music">Zene</string>
+    <string name="thermal_browser">Böngésző</string>
+    <string name="thermal_camera">Kamera</string>
+    <string name="thermal_dialer">Tárcsázó</string>
+    <string name="lcd_hbm_title_disabled">Kikapcsolva</string>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Systemuppdatering</string>
+    <string name="system_update_update_to_date">Ditt system är uppdaterat</string>
+    <string name="system_update_update_to_date_desc">Paranoid Android-version: %1$s %2$s &lt;br&gt;Android säkerhetsuppdatering: %3$s&lt;br&gt;&lt;br&gt;Senast lyckad sökning efter uppdatering: %4$s</string>
+    <string name="system_update_update_to_date_button">Leta efter uppdateringar</string>
+    <string name="system_update_checking_for_update">Söker efter uppdatering...</string>
+    <string name="system_update_update_available">Systemuppdatering tillgänglig</string>
+    <string name="system_update_update_available_security_update">Systemuppdatering tillgänglig</string>
+    <string name="system_update_update_available_desc">%1$s Uppdateringsstorlek: %2$s</string>
+    <string name="system_update_update_available_with_device_desc">%1$s &lt;br&gt;&lt;br&gt;&lt;b&gt;Viktiga uppdateringar&lt;/b&gt;: &lt;br&gt;- %2$s &lt;br&gt;&lt;br&gt;Uppdateringsstorlek: %3$s</string>
+    <string name="system_update_update_available_device_incremental_desc">&lt;b&gt;%1$s %2$s %3$s&lt;/b&gt; &lt;br&gt;&lt;br&gt;Denna uppdatering lägger till stabilitetsförbättringar, samt rättar kritiska fel. Läs mer på &lt;a href=\"https://paranoidandroid.co/\"&gt;paranoidandroid. o&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Viktiga uppdateringar&lt;/b&gt;: &lt;br&gt;- %4$s &lt;br&gt;&lt;br&gt;Uppdateringsstorlek: %5$s</string>
+    <string name="system_update_update_available_button">Ladda ner och installera</string>
+    <string name="system_update_update_download_install">Installerar uppdatering…</string>
+    <string name="system_update_update_download_install_security_update">Installerar säkerhetsuppdatering…</string>
+    <string name="system_update_update_download_install_step">Hämtar och installerar uppdatering</string>
+    <string name="system_update_update_download_install_verify">Verifierar systemuppdatering…</string>
+    <string name="system_update_update_download_install_complete">Systemuppdateringen är klar</string>
+    <string name="system_update_update_download_install_complete_desc">Tryck på omstart-knappen för att starta om enheten och tillämpa uppdateringen</string>
+    <string name="system_update_update_download_install_complete_restart_button">Starta om</string>
+    <string name="system_update_update_download_install_paused">Nedladdning pausad</string>
+    <string name="system_update_update_download_install_pause_button">Pausa</string>
+    <string name="system_update_update_download_install_resume_button">Återuppta</string>
+    <string name="system_update_update_download_install_cancel_button">Avbryt</string>
+    <string name="system_update_update_download_install_error">Kunde inte uppdatera</string>
+    <string name="system_update_update_download_install_step_download">Hämtar uppdatering</string>
+    <string name="system_update_update_download_install_step_download_verify">Verifierar nedladdning</string>
+    <string name="system_update_update_download_install_step_install">Installerar uppdatering</string>
+    <string name="system_update_update_download_install_step_finalize">Optimera appar, detta kan ta ett tag</string>
+    <string name="system_update_update_download_install_error_step_download_issue">Problem med nedladdning</string>
+    <string name="system_update_update_download_install_error_step_verify_issue">Fel vid verifiering</string>
+    <string name="system_update_update_download_install_error_step_install_issue">Fel vid installation</string>
+    <string name="system_update_update_download_install_error_button">Försök igen</string>
+    <string name="system_update_notification_channel">Systemuppdateringar</string>
+    <string name="system_update_notification_update_available">Paranoid Android %1$s %2$s</string>
+    <string name="system_update_notification_update_available_default">Paranoid Android-systemuppdatering</string>
+    <string name="system_update_notification_update_available_desc">Tryck för att läsa mer om den här uppdateringen</string>
+    <string name="system_update_notification_update_finished_reboot">Starta om enheten.</string>
+    <string name="system_update_notification_update_finished_reboot_desc">Tryck för att slutföra uppdateringen</string>
+    <string name="system_update_notification_update_completed">Systemuppdatering slutförd</string>
+    <string name="system_update_notification_update_completed_desc">Du är redo att uppdatera! Du kan fortsätta använda din enhet</string>
+    <plurals name="eta_seconds">
+        <item quantity="one">1 sekund kvar</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g></item>
+    </plurals>
+    <plurals name="eta_minutes">
+        <item quantity="one">1 minut kvar</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> minuter kvar</item>
+    </plurals>
+    <plurals name="eta_hours">
+        <item quantity="one">%@ timmar kvar</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> timmar kvar</item>
+    </plurals>
+</resources>
