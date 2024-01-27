@@ -16,4 +16,11 @@
 -->
 <resources>
     <string name="volume_dialog_ringer_guidance_normal">벨소리 및 알림음이 울립니다</string>
+    <string name="charging_control_notification_channel">충전 제어</string>
+    <string name="charging_control_notification_title">충전 제어</string>
+    <string name="charging_control_notification_cancel_once">취소</string>
+    <string name="charging_control_notification_content_limit">배터리는 %1$d%% 까지 충전될 것입니다</string>
+    <string name="charging_control_notification_content_limit_reached">배터리는 %1$d%% 까지 충전되었습니다</string>
+    <string name="charging_control_notification_content_target">배터리는 %1$s에 완전히 충전될 것입니다</string>
+    <string name="charging_control_notification_content_target_reached">배터리가 충전됩니다</string>
 </resources>

@@ -17,10 +17,30 @@
 */
 -->
 <resources>
+    <string name="title_show_google_feed">గూగుల్ ఫీడ్ పొందడానికి స్వైప్ చెయ్యండి</string>
     <string name="msg_minus_one_on_left">హోమ్ స్క్రీన్ నుంచి ,ఎడమ చేతి వైపుకు వెళ్లండి గూగుల్ఫీడ్ కోసం</string>
     <string name="msg_minus_one_on_right">హోమ్ స్క్రీన్ నుంచి ,కుడి చేతి వైపుకు వెళ్లండి గూగుల్ఫీడ్ కోసం</string>
+    <string name="pref_dt_gesture_title">స్లీప్ కొరకు డబల్ టాప్ చెయ్యండి</string>
+    <string name="pref_dt_gesture_summary">కాలి ప్రదేశం లో డబల్ టాప్ చెయ్యండి స్క్రీన్ ఆఫ్ చెయ్యడానికి</string>
+    <string name="suggestion_pref_screen_title">సూచన</string>
+    <string name="suggestion_pref_screen_desc">అన్ని ఆప్స్ మరియు హోం స్క్రీన్ సూచనలు</string>
+    <string name="settings_lock_layout_title">లాక్ లేఔట్</string>
+    <string name="settings_lock_layout_summary_on">హోం స్క్రీన్ లో ఐకాన్స్ మరియు విడ్జెట్స్ , జరపడడానికి కానీ తీసివేయడానికి కాని కొత్తవి పెట్టడానికి కానీ కుదరదు</string>
+    <string name="settings_lock_layout_summary_off">హోం స్క్రీన్ లో ఐకాన్స్ మరియు విడ్జెట్స్ , కొత్తవి పెట్టడానికి కానీ తీసివేయడానికి కానీ జరపడానికి కుదురుతుంది</string>
+    <string name="settings_edit_widgets_error">హోం స్క్రీన్ కి విడ్జెట్స్ ని పెట్టడానికి కుదరదు</string>
+    <string name="desktop_show_labels">డెస్క్టాప్ పైన ఐకాన్ పేర్లను చూపించు</string>
+    <string name="drawer_show_labels">డ్రాయర్ లో ఐకాన్ పేర్లను చూపించు</string>
+    <string name="category_google">గూగుల్</string>
+    <string name="category_icon">ఐకాన్స్</string>
     <string name="category_recents">ఇటీవలివి</string>
+    <string name="label_search">వెతుకు</string>
+    <string name="label_lens">గూగుల్ లెన్స్</string>
+    <string name="label_voice_search">వాయిస్ సెర్చ్</string>
+    <string name="dock_search_title">గూగుల్ సెర్చ్ బార్</string>
     <string name="dock_search_summary">కింద ఉన్న డాక్ లోని సెర్చ్ బార్</string>
     <string name="recents_screenshot_title">స్క్రీన్‌షాట్</string>
     <string name="recents_clear_all_title">అన్ని తొలగించు</string>
+    <string name="recents_lens_title">లెన్స్</string>
+    <string name="smartspace_pref_title">గ్లాన్స్ లో</string>
+    <string name="smartspace_pref_summary">హోం స్క్రీన్ పైన స్మార్ట్ స్పేస్ చూపించు</string>
 </resources>

@@ -86,6 +86,22 @@
     <string name="hide_navbar_gesture_bar_summary">Ocultar a barra de gestos na parte inferior da tela</string>
     <string name="system_black_theme_title">Preto puro</string>
     <string name="system_black_theme_summary">Usar preto puro como cor de fundo</string>
+    <string name="charging_control_title">Carregamento inteligente</string>
+    <string name="charging_control_summary">Programar o período de carregamento ou definir limites de carga</string>
+    <string name="charging_control_enable_title">Ativar carregamento inteligente</string>
+    <string name="charging_control_mode_title">Programação </string>
+    <string name="charging_control_mode_auto_title">Automático</string>
+    <string name="charging_control_mode_auto_summary">Determinar automaticamente quando iniciar o carregamento conforme os alarmes definidos</string>
+    <string name="charging_control_mode_custom_title">Nos horários definidos</string>
+    <string name="charging_control_mode_custom_summary">Defina um horário para atingir a carga completa</string>
+    <string name="charging_control_mode_limit_title">Limitar carga</string>
+    <string name="charging_control_mode_limit_summary">Interromper o carregamento ao atingir uma determinada porcentagem</string>
+    <string name="charging_control_start_time_title">Horário de início</string>
+    <string name="charging_control_start_time_summary">O carregamento inteligente será ativado quando você iniciar o carregamento após as %s</string>
+    <string name="charging_control_target_time_title">Horário de término</string>
+    <string name="charging_control_target_time_summary">A bateria estará totalmente carregada às %s</string>
+    <string name="charging_control_limit_title">Limitar</string>
+    <string name="reset">Redefinir</string>
     <string name="doze_gesture_ambient_title">Pulsar exibição ambiente</string>
     <string name="doze_gesture_ambient_summary">Pulsar exibição ambiente ao invés de ligar completamente a tela</string>
     <string name="gesture_wake_ambient">Pulsar exibição ambiente</string>
@@ -98,4 +114,6 @@
     <string name="touch_polling_title">Aumentar a sensibilidade ao toque</string>
     <string name="touch_polling_summary">Melhora o toque ao usar uma película</string>
     <string name="lock_screen_auto_pin_confirm_summary_custom">Desbloquear automaticamente se você inserir um PIN correto. Isso é um pouco menos seguro do que tocar em Enter para confirmar.</string>
+    <string name="quick_settings_quick_pull_down_title">Mostrar QS ao deslizar rápido para baixo</string>
+    <string name="quick_settings_quick_pull_down_summary">Puxe a barra de status do lado direito para expandir as configurações rápidas</string>
 </resources>

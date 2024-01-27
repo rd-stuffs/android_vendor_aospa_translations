@@ -86,6 +86,22 @@
     <string name="hide_navbar_gesture_bar_summary">Ekranın alt kısmındaki navigasyon çubuğunu gizle</string>
     <string name="system_black_theme_title">Siyah temayı kullan</string>
     <string name="system_black_theme_summary">Siyah arka plan renklerine zorla</string>
+    <string name="charging_control_title">Şarj kontrolü</string>
+    <string name="charging_control_summary">Cihazınız için şarj programını ve sınırlarını özelleştirin</string>
+    <string name="charging_control_enable_title">Şarj kontrolünü etkinleştir</string>
+    <string name="charging_control_mode_title">Şarj modu</string>
+    <string name="charging_control_mode_auto_title">Otomatik planlama</string>
+    <string name="charging_control_mode_auto_summary">Alarm kurulmuş saatlere göre şarjın ne zaman başlayacağını otomatik belirle</string>
+    <string name="charging_control_mode_custom_title">Özel planlama</string>
+    <string name="charging_control_mode_custom_summary">Tam şarj için bir hedef zaman belirleyin</string>
+    <string name="charging_control_mode_limit_title">Şarjı kısıtla</string>
+    <string name="charging_control_mode_limit_summary">Şarjı belirli bir yüzdeye kısıtla</string>
+    <string name="charging_control_start_time_title">Başlama zamanı</string>
+    <string name="charging_control_start_time_summary">Şarj kontrolü %s saatinden sonra şarj etmeye başladığında aktive edilir</string>
+    <string name="charging_control_target_time_title">Tam şarj için hedef zaman</string>
+    <string name="charging_control_target_time_summary">Pil şu saatte tamamen şarj olmuş olacak: %s</string>
+    <string name="charging_control_limit_title">Sınır</string>
+    <string name="reset">Sıfırla</string>
     <string name="doze_gesture_ambient_title">Ortam ekranını göster</string>
     <string name="doze_gesture_ambient_summary">Ekranı tamamen uyandırmak yerine ortam ekranını göster</string>
     <string name="gesture_wake_ambient">Ortam ekranını göster</string>
@@ -98,4 +114,6 @@
     <string name="touch_polling_title">Yüksek dokunma örnekleme oranı</string>
     <string name="touch_polling_summary">Gecikmeyi azaltmak için dokunmatik ekran örnekleme oranını artırın</string>
     <string name="lock_screen_auto_pin_confirm_summary_custom">Doğru PIN\'i girerseniz kilidi otomatik olarak açılır. Bu, onaylamak için Enter tuşuna basmaktan biraz daha az güvenlidir.</string>
+    <string name="quick_settings_quick_pull_down_title">Hızlı aşağı çekme</string>
+    <string name="quick_settings_quick_pull_down_summary">Hızlı ayarları genişletmek için durum çubuğunu sağ taraftan aşağı çekin</string>
 </resources>

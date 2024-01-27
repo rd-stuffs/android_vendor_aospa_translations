@@ -18,6 +18,8 @@
 -->
 <resources>
     <string name="title_show_google_feed">Google alkalmazás csúsztatással</string>
+    <string name="msg_minus_one_on_left">Ha a főoldalon áll, húzza balra a Google feed eléréséhez</string>
+    <string name="msg_minus_one_on_right">Ha a főoldalon áll, húzza jobbra a Google feed eléréséhez</string>
     <string name="pref_dt_gesture_title">Dupla érintésre alvómód</string>
     <string name="pref_dt_gesture_summary">Képernyő kikapcsoláshoz dupla érintés egy üres területen</string>
     <string name="suggestion_pref_screen_title">Javaslatok</string>
@@ -30,10 +32,14 @@
     <string name="drawer_show_labels">Ikonfeliratok megjelenítése az alkalmazásfiókban</string>
     <string name="category_google">Google</string>
     <string name="category_icon">Ikonok</string>
+    <string name="category_recents">Alkalmazáselőzmények</string>
     <string name="label_search">Keresés</string>
     <string name="label_lens">Google Lens</string>
     <string name="label_voice_search">Hangalapú keresés</string>
     <string name="dock_search_title">Google keresősáv</string>
+    <string name="dock_search_summary">Keresősáv megjelenítése az alsó dokkon</string>
+    <string name="recents_screenshot_title">Képernyőkép</string>
+    <string name="recents_clear_all_title">Összes törlése</string>
     <string name="recents_lens_title">Lens</string>
     <string name="smartspace_pref_title">Betekintés</string>
     <string name="smartspace_pref_summary">Betekintő megjelenítése a kezdőképernyő tetején</string>

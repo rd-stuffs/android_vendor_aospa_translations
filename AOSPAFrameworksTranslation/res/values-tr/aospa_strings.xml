@@ -16,4 +16,11 @@
 -->
 <resources>
     <string name="volume_dialog_ringer_guidance_normal">Çağrılar ve bildirimlerde çalacak</string>
+    <string name="charging_control_notification_channel">Şarj kontrolü</string>
+    <string name="charging_control_notification_title">Şarj kontrolü</string>
+    <string name="charging_control_notification_cancel_once">İptal</string>
+    <string name="charging_control_notification_content_limit">Pil %1$d%% seviyesine kadar şarj edilecek</string>
+    <string name="charging_control_notification_content_limit_reached">Pil %1$d%% seviyesine kadar şarj edildi</string>
+    <string name="charging_control_notification_content_target">Pil şu saatte tamamen şarj olmuş olacak: %1$s</string>
+    <string name="charging_control_notification_content_target_reached">Pil şarj oldu</string>
 </resources>

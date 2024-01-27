@@ -86,6 +86,22 @@
     <string name="hide_navbar_gesture_bar_summary">Ukryj pasek gestów w dolnej części ekranu</string>
     <string name="system_black_theme_title">Używaj czarnego motywu</string>
     <string name="system_black_theme_summary">Wymuś czarne kolory tła</string>
+    <string name="charging_control_title">Kontrola ładowania</string>
+    <string name="charging_control_summary">Dostosuj harmonogram ładowania i limity dla baterii</string>
+    <string name="charging_control_enable_title">Włącz kontrolę ładowania</string>
+    <string name="charging_control_mode_title">Tryb ładowania</string>
+    <string name="charging_control_mode_auto_title">Automatyczny harmonogram</string>
+    <string name="charging_control_mode_auto_summary">Automatycznie określaj, kiedy rozpocząć ładowanie na podstawie nastawionych alarmów</string>
+    <string name="charging_control_mode_custom_title">Własny harmonogram</string>
+    <string name="charging_control_mode_custom_summary">Ustaw docelowy czas naładowania</string>
+    <string name="charging_control_mode_limit_title">Ogranicz ładowanie</string>
+    <string name="charging_control_mode_limit_summary">Ogranicz ładowanie do określonej wartości procentowej</string>
+    <string name="charging_control_start_time_title">Czas rozpoczęcia</string>
+    <string name="charging_control_start_time_summary">Kontrola ładowania aktywuje się, gdy rozpoczniesz ładowanie po %s</string>
+    <string name="charging_control_target_time_title">Docelowy czas naładowania</string>
+    <string name="charging_control_target_time_summary">Bateria zostanie naładowana za %s</string>
+    <string name="charging_control_limit_title">Limit</string>
+    <string name="reset">Zresetuj</string>
     <string name="doze_gesture_ambient_title">Pokaż aktywny wyświetlacz</string>
     <string name="doze_gesture_ambient_summary">Pokaż aktywny wyświetlacz, zamiast wybudzać ekran</string>
     <string name="gesture_wake_ambient">Pokaż aktywny wyświetlacz</string>
@@ -98,4 +114,6 @@
     <string name="touch_polling_title">Wysoka szybkość próbkowania dotykowego</string>
     <string name="touch_polling_summary">Zwiększenie częstotliwości próbkowania ekranu dotykowego w celu zmniejszenia opóźnień</string>
     <string name="lock_screen_auto_pin_confirm_summary_custom">Odblokuj automatycznie po wprowadzeniu poprawnego kodu PIN. Jest to nieco mniej bezpieczne niż dotknięcie przycisku Enter w celu potwierdzenia.</string>
+    <string name="quick_settings_quick_pull_down_title">Szybkie rozwijanie Szybkich ustawień</string>
+    <string name="quick_settings_quick_pull_down_summary">Przeciągnij pasek stanu w dół z prawej strony ekranu, aby rozwinąć Szybkie ustawienia</string>
 </resources>

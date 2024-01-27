@@ -18,6 +18,8 @@
 -->
 <resources>
     <string name="title_show_google_feed">Проведите для доступа к ленте Google</string>
+    <string name="msg_minus_one_on_left">На главном экране проведите пальцем влево, чтобы открыть ленту Google</string>
+    <string name="msg_minus_one_on_right">На главном экране проведите пальцем вправо, чтобы открыть ленту Google</string>
     <string name="pref_dt_gesture_title">Двойное нажатие для отключения экрана</string>
     <string name="pref_dt_gesture_summary">Дважды нажмите на пустом месте для отключения экрана</string>
     <string name="suggestion_pref_screen_title">Рекомендации</string>
@@ -30,10 +32,14 @@
     <string name="drawer_show_labels">Отображать названия в меню приложений</string>
     <string name="category_google">Google</string>
     <string name="category_icon">Значки</string>
+    <string name="category_recents">Недавние</string>
     <string name="label_search">Поиск</string>
     <string name="label_lens">Google Lens</string>
     <string name="label_voice_search">Голосовой поиск</string>
     <string name="dock_search_title">Панель поиска Google</string>
+    <string name="dock_search_summary">Поисковая строка снизу док-бара</string>
+    <string name="recents_screenshot_title">Снимок экрана</string>
+    <string name="recents_clear_all_title">Очистить все</string>
     <string name="recents_lens_title">Lens</string>
     <string name="smartspace_pref_title">Виджет \"At a Glance\"</string>
     <string name="smartspace_pref_summary">Отображать актуальную информацию в верхней части главного экрана</string>

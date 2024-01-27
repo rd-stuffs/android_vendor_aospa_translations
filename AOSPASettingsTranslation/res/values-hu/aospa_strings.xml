@@ -79,10 +79,29 @@
     <string name="power_button_torch_summary">Kikapcsolt képernyőnél a bekapcsológomb hosszan nyomására a zseblámpa bekapcsol</string>
     <string name="icon_manager_title">Ikon kezelő</string>
     <string name="icon_manager_summary">Az állapotsori ikonoláthatóság beállítása</string>
+    <string name="navbar_category">Navigációs sáv</string>
     <string name="navbar_invert_layout_title">Fordított navigációs sáv elrendezés</string>
     <string name="navbar_invert_info">A \'Vissza\' és az \'Előzmények\' gomb cseréje a navigációs sávon</string>
+    <string name="hide_navbar_gesture_bar_title">Gesztussáv elrejtése</string>
+    <string name="hide_navbar_gesture_bar_summary">A gesztussáv elrejtése a képernyő alján</string>
     <string name="system_black_theme_title">Fekete téma használata</string>
     <string name="system_black_theme_summary">Fekete háttérszín kényszerítése</string>
+    <string name="charging_control_title">Kontrollált töltés</string>
+    <string name="charging_control_summary">Testreszabhatja akkumulátora töltési ütemezését és korlátait</string>
+    <string name="charging_control_enable_title">A kontrollált töltés bekapcsolása</string>
+    <string name="charging_control_mode_title">A töltés módja</string>
+    <string name="charging_control_mode_auto_title">Automatikus ütemezés</string>
+    <string name="charging_control_mode_auto_summary">A beállított ébresztések alapján automatikusan határozza meg, hogy mikor kezdődjön a töltés</string>
+    <string name="charging_control_mode_custom_title">Egyéni ütemezés</string>
+    <string name="charging_control_mode_custom_summary">Ön állíthat be célidőt a teljes feltöltéshez</string>
+    <string name="charging_control_mode_limit_title">Töltés korlátozása</string>
+    <string name="charging_control_mode_limit_summary">Töltés korlátozása bizonyos százalékig</string>
+    <string name="charging_control_start_time_title">Kezdési idő</string>
+    <string name="charging_control_start_time_summary">A töltés kontroll aktiválódik %s után</string>
+    <string name="charging_control_target_time_title">Ön állíthat be célidőt a teljes feltöltéshez</string>
+    <string name="charging_control_target_time_summary">Az akkumulátor teljesen fel lesz töltve ekkor: %s</string>
+    <string name="charging_control_limit_title">Limit</string>
+    <string name="reset">Visszaállítás</string>
     <string name="doze_gesture_ambient_title">Környezeti kijelző</string>
     <string name="doze_gesture_ambient_summary">A képernyő teljes felébresztése helyett a \'Környezeti kijelző\' megjelenítése</string>
     <string name="gesture_wake_ambient">Környezeti kijelző mutatása</string>
@@ -94,4 +113,7 @@
     <string name="keywords_color_balance">szín, színegyensúly, színkorrekció, vörös, zöld, kék, LiveDisplay</string>
     <string name="touch_polling_title">Magas értékű képernyő-lekérdezés</string>
     <string name="touch_polling_summary">Képernyő-lekérdezés (polling-rate) növelése a kisebb késleltetés érdekében</string>
+    <string name="lock_screen_auto_pin_confirm_summary_custom">Helyes PIN beírásakor automatikusan feleldódik. Ez kevésbé biztonságos mint a megerősítéses belépés.</string>
+    <string name="quick_settings_quick_pull_down_title">Gyors legördítés</string>
+    <string name="quick_settings_quick_pull_down_summary">A gyorsbeállítások megnyitásához húzza le az állapotsort jobb oldalról</string>
 </resources>

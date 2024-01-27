@@ -17,6 +17,24 @@
     <string name="navbar_category">నావిగేషన్ బార్</string>
     <string name="hide_navbar_gesture_bar_title">జెస్చర్ బారుని మాయంచేయి</string>
     <string name="hide_navbar_gesture_bar_summary">స్క్రీన్ కింద ఉన్న జెస్చర్ బార్ ని మాయంచేయి</string>
+    <string name="charging_control_title">చార్జింగ్ కంట్రోల్</string>
+    <string name="charging_control_summary">బాటరీ చార్జింగ్ యొక్క పరిమితులు షెడ్యూల్ ని మార్చుకోండి</string>
+    <string name="charging_control_enable_title">చార్జింగ్ కంట్రోల్ ని ప్రారంభించండి</string>
+    <string name="charging_control_mode_title">చార్గంగ్ మోడ్</string>
+    <string name="charging_control_mode_auto_title">ఆటోమేటిక్ షెడ్యూల్</string>
+    <string name="charging_control_mode_auto_summary">అలార్మ్స్ ఆధారంగా చార్జింగ్ ని స్టార్ట్ చెయ్యండి</string>
+    <string name="charging_control_mode_custom_title">కస్టమ్ షెడ్యూల్</string>
+    <string name="charging_control_mode_custom_summary">మొత్తం ఛార్జ్ చెయ్యడానికి టైం సెట్ చెయ్యండి</string>
+    <string name="charging_control_mode_limit_title">చార్జింగ్ ని పరిమితి చెయ్యి</string>
+    <string name="charging_control_mode_limit_summary">కొంత శాతం వరకు చార్జింగ్ ని పరిమితి చెయ్యి</string>
+    <string name="charging_control_start_time_title">సమయాని ని మొదలపెట్టు</string>
+    <string name="charging_control_start_time_summary">చార్జింగ్ కంట్రోల్ %s ఛార్జ్ అయ్యాక మొదలు అవుతుంది</string>
+    <string name="charging_control_target_time_title">పూర్తి ఛార్జ్ కొరకు సమయని పెట్టండి</string>
+    <string name="charging_control_target_time_summary">%s కి బాటరీ పూర్తి ఛార్జ్ అవుతుంది</string>
+    <string name="charging_control_limit_title">పరిమితి</string>
+    <string name="reset">రీసెట్ చేయండి</string>
     <string name="lock_screen_auto_pin_confirm_summary_custom">సరియిన పిన్ నొక్కినవేంటనే తెర్చుకో.
 ఈ ఆప్షన్ ఎంటర్ బటన్ నొక్కడం కన్న భద్రమైనదికాదు</string>
+    <string name="quick_settings_quick_pull_down_title">క్విక్ QS పుల్ డౌన్</string>
+    <string name="quick_settings_quick_pull_down_summary">స్టేటస్ బార్ ని కుడివైపు నుంచి లాగండి క్విక్ సెట్టింగ్స్ కొరకు</string>
 </resources>

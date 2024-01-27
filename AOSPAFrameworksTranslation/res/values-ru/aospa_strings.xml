@@ -16,4 +16,11 @@
 -->
 <resources>
     <string name="volume_dialog_ringer_guidance_normal">Сигнал для звонков и уведомлений будет активен</string>
+    <string name="charging_control_notification_channel">Контроль заряда</string>
+    <string name="charging_control_notification_title">Контроль заряда</string>
+    <string name="charging_control_notification_cancel_once">Отмена</string>
+    <string name="charging_control_notification_content_limit">Батарея будет заряжена до %1$d%%</string>
+    <string name="charging_control_notification_content_limit_reached">Батарея заряжена до %1$d%%</string>
+    <string name="charging_control_notification_content_target">Батарея будет полностью заряжена через %1$s</string>
+    <string name="charging_control_notification_content_target_reached">Батарея заряжена</string>
 </resources>

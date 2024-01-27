@@ -86,6 +86,22 @@
     <string name="hide_navbar_gesture_bar_summary">隐藏屏幕底部的导航栏</string>
     <string name="system_black_theme_title">使用纯黑色主题</string>
     <string name="system_black_theme_summary">强制使用纯黑色背景</string>
+    <string name="charging_control_title">充电控制</string>
+    <string name="charging_control_summary">自定义您设备的充电计划和限制</string>
+    <string name="charging_control_enable_title">启用充电控制</string>
+    <string name="charging_control_mode_title">充电模式</string>
+    <string name="charging_control_mode_auto_title">自动计划</string>
+    <string name="charging_control_mode_auto_summary">自动基于闹钟设置决定何时开始充电</string>
+    <string name="charging_control_mode_custom_title">自定义时间表</string>
+    <string name="charging_control_mode_custom_summary">设定需要完全充满的时间</string>
+    <string name="charging_control_mode_limit_title">充电限制</string>
+    <string name="charging_control_mode_limit_summary">充电限制自定义百分比</string>
+    <string name="charging_control_start_time_title">开始时间</string>
+    <string name="charging_control_start_time_summary">当您在充电 %s 后激活充电控制</string>
+    <string name="charging_control_target_time_title">完全充满所需的时间</string>
+    <string name="charging_control_target_time_summary">电池将在 %s 完全充满</string>
+    <string name="charging_control_limit_title">限制</string>
+    <string name="reset">重置</string>
     <string name="doze_gesture_ambient_title">环境显示</string>
     <string name="doze_gesture_ambient_summary">在不完全唤醒屏幕的状态下显示时间和部分信息</string>
     <string name="gesture_wake_ambient">环境显示</string>
@@ -98,4 +114,6 @@
     <string name="touch_polling_title">高触控采样率</string>
     <string name="touch_polling_summary">增加触摸响应以减少延迟</string>
     <string name="lock_screen_auto_pin_confirm_summary_custom">输入正确的 PIN 码时自动解锁。这会比点击 Enter 确认的安全性小一些。</string>
+    <string name="quick_settings_quick_pull_down_title">快速设置下拉</string>
+    <string name="quick_settings_quick_pull_down_summary">从状态栏右侧下拉以快速展开快捷设置面板</string>
 </resources>

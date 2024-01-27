@@ -86,6 +86,22 @@
     <string name="hide_navbar_gesture_bar_summary">Скрыть панель жестов в нижней части экрана</string>
     <string name="system_black_theme_title">Использовать черную тему</string>
     <string name="system_black_theme_summary">Принудительный черный цвет для фона</string>
+    <string name="charging_control_title">Контроль заряда</string>
+    <string name="charging_control_summary">Настройка расписания и лимитов заряда</string>
+    <string name="charging_control_enable_title">Включить контроль заряда</string>
+    <string name="charging_control_mode_title">Режим зарядки</string>
+    <string name="charging_control_mode_auto_title">Автоматическое расписание</string>
+    <string name="charging_control_mode_auto_summary">Автоматически определять, когда начать зарядку, на основе установленных сигналов будильника</string>
+    <string name="charging_control_mode_custom_title">Пользовательское расписание</string>
+    <string name="charging_control_mode_custom_summary">Задать целевое время полной зарядки</string>
+    <string name="charging_control_mode_limit_title">Лимит зарядки</string>
+    <string name="charging_control_mode_limit_summary">Ограничить зарядку по достижении определенного процента</string>
+    <string name="charging_control_start_time_title">Время начала</string>
+    <string name="charging_control_start_time_summary">Контроль заряда активируется при начале зарядки после %s</string>
+    <string name="charging_control_target_time_title">Целевое время полной зарядки</string>
+    <string name="charging_control_target_time_summary">Батарея будет полностью заряжена через %s</string>
+    <string name="charging_control_limit_title">Лимит</string>
+    <string name="reset">Сброс</string>
     <string name="doze_gesture_ambient_title">Индикация событий</string>
     <string name="doze_gesture_ambient_summary">Отобразит события на выключенном экране, вместо отображения экрана блокировки</string>
     <string name="gesture_wake_ambient">Индикация событий</string>
@@ -98,4 +114,6 @@
     <string name="touch_polling_title">Высокая частота опроса касаний</string>
     <string name="touch_polling_summary">Увеличить частоту опроса касаний для уменьшения задержки</string>
     <string name="lock_screen_auto_pin_confirm_summary_custom">Разблокировать автоматически, если вы введете правильный PIN-код. Это немного менее безопасно, чем нажатие Enter, чтобы подтвердить.</string>
+    <string name="quick_settings_quick_pull_down_title">Быстрое раскрытие QS</string>
+    <string name="quick_settings_quick_pull_down_summary">Потяните вниз строку состояния с правой стороны, чтобы развернуть быстрые настройки</string>
 </resources>

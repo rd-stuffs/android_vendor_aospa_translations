@@ -16,4 +16,11 @@
 -->
 <resources>
     <string name="volume_dialog_ringer_guidance_normal">కాల్స్‌ మరియు నోటిఫికేషన్‌లు రింగ్ అవుతాయి</string>
+    <string name="charging_control_notification_channel">ఛార్జ్ కంట్రోల్</string>
+    <string name="charging_control_notification_title">చార్జింగ్ కంట్రోల్</string>
+    <string name="charging_control_notification_cancel_once">ఆపివేయు</string>
+    <string name="charging_control_notification_content_limit">బాటరీ %1$d%% వరకు ఛార్జ్ చేయబడుతుంది</string>
+    <string name="charging_control_notification_content_limit_reached">బాటరీ %1$d%% వరకు ఛార్జ్ చేయబడింది</string>
+    <string name="charging_control_notification_content_target">బాటరీ %1$s కు ఫుల్ ఛార్జ్ చేయబడుతుంది</string>
+    <string name="charging_control_notification_content_target_reached">బాటరీ ఛార్జ్ అయ్యిపోయింది</string>
 </resources>
