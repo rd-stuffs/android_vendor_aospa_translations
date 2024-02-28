@@ -2,7 +2,7 @@
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
                    2017 The LineageOS Project
-                   2020-2023 Paranoid Android
+                   2020-2024 Paranoid Android
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -40,6 +40,8 @@
     <string name="glyph_settings_notifs_sub_title">Разрешенные приложения</string>
     <string name="glyph_settings_notifs_sub_toggle_title">Включить анимацию уведомлений</string>
     <string name="glyph_settings_notifs_sub_animations_title">Варианты</string>
+    <string name="glyph_settings_notifs_sub_essential_title">Основные Уведомления</string>
+    <string name="glyph_settings_notifs_sub_essential_summary">Основной Glyph будет отображаться до тех пор, пока основные уведомления не будут прочитаны или отклонены.</string>
     <string name="glyph_settings_volume_title">Громкость</string>
     <string name="glyph_settings_volume_level_toggle_title">Индикатор громкости</string>
     <string name="glyph_settings_volume_level_toggle_summary">Показывать уровень громкости при регулировке</string>

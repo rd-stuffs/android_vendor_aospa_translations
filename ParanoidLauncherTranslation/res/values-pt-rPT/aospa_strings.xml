@@ -18,6 +18,8 @@
 -->
 <resources>
     <string name="title_show_google_feed">Deslizar para aceder ao Google Feed</string>
+    <string name="msg_minus_one_on_left">No ecrã inicial, deslize para a esquerda para abrir o Google Feed</string>
+    <string name="msg_minus_one_on_right">No ecrã inicial, deslize para a direita para abrir o Google Feed</string>
     <string name="pref_dt_gesture_title">Toque duplo para desligar o ecrã</string>
     <string name="pref_dt_gesture_summary">Toque duas vezes num espaço vazio para desligar o ecrã</string>
     <string name="suggestion_pref_screen_title">Sugestões</string>
@@ -30,10 +32,14 @@
     <string name="drawer_show_labels">Mostrar as legendas dos ícones na gaveta de aplicações</string>
     <string name="category_google">Google</string>
     <string name="category_icon">Ícones</string>
+    <string name="category_recents">Aplicações recentes</string>
     <string name="label_search">Pesquisar</string>
     <string name="label_lens">Google Lens</string>
     <string name="label_voice_search">Pesquisa por voz</string>
     <string name="dock_search_title">Barra de pesquisa do Google</string>
+    <string name="dock_search_summary">Barra de pesquisa na doca inferior</string>
+    <string name="recents_screenshot_title">Captura de ecrã</string>
+    <string name="recents_clear_all_title">Limpar tudo</string>
     <string name="recents_lens_title">Lens</string>
     <string name="smartspace_pref_title">At a Glance</string>
     <string name="smartspace_pref_summary">Mostrar o smartspace no topo do ecrã inicial</string>

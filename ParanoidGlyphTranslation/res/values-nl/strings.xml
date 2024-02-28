@@ -2,7 +2,7 @@
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
                    2017 The LineageOS Project
-                   2020-2023 Paranoid Android
+                   2020-2024 Paranoid Android
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -24,6 +24,7 @@
     <string name="glyph_settings_flip_toggle_title">Flip voor Glyph</string>
     <string name="glyph_settings_flip_toggle_summary">Stil en toon Glyph als telefoon op scherm ligt</string>
     <string name="glyph_settings_brightness">Helderheid</string>
+    <string name="glyph_settings_charging_title">Opladen</string>
     <string name="glyph_settings_charging_level_title">Batterij niveau</string>
     <string name="glyph_settings_charging_level_summary">Batterijniveau weergeven tijdens het aansluiten van de oplader</string>
     <string name="glyph_settings_charging_powershare_title">Omgekeerd draadloos opladen</string>
@@ -39,6 +40,11 @@
     <string name="glyph_settings_notifs_sub_title">Toestaan van apps</string>
     <string name="glyph_settings_notifs_sub_toggle_title">Meldingsanimatie inschakelen</string>
     <string name="glyph_settings_notifs_sub_animations_title">Patroon</string>
+    <string name="glyph_settings_notifs_sub_essential_title">Noodzakelijke meldingen</string>
+    <string name="glyph_settings_notifs_sub_essential_summary">Essentieel Glyph wordt getoond totdat Essentiële meldingen worden gelezen of afgewezen</string>
+    <string name="glyph_settings_volume_title">Volume</string>
+    <string name="glyph_settings_volume_level_toggle_title">Volume-indicator</string>
+    <string name="glyph_settings_volume_level_toggle_summary">Volumeniveau bij aanpassen weergeven</string>
     <string name="glyph_settings_misc_title">Diversen</string>
     <string name="glyph_settings_music_visualizer_toggle_title">Muziek Visualizer</string>
     <string name="glyph_settings_music_visualizer_toggle_summary">DISCOLAMPEN!\nDit zal alle andere Glyph functies uitschakelen wanneer ingeschakeld</string>

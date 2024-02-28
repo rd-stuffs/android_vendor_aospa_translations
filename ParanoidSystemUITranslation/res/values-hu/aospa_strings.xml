@@ -39,4 +39,9 @@
     <string name="turn_on_bluetooth">Bluetooth</string>
     <string name="bluetooth_is_off">Bluetooth kikapcsolva</string>
     <string name="tap_a_device_to_connect">Érints meg egy eszközt a csatlakozáshoz/kapcsolat bontásához</string>
+    <string name="quick_settings_usb_tether_label">USB internetmegosztás</string>
+    <string name="quick_settings_sound_label">Hang</string>
+    <string name="quick_settings_sound_ring">Csengés</string>
+    <string name="quick_settings_sound_vibrate">Rezgés</string>
+    <string name="quick_settings_sound_silent">Néma</string>
 </resources>

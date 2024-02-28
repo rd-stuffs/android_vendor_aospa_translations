@@ -94,4 +94,8 @@
     <string name="keywords_color_balance">färg, färgbalans, färgkorrigering, röd, grön, blå, LiveDisplay</string>
     <string name="touch_polling_title">Hög skärm responstid</string>
     <string name="touch_polling_summary">Öka röstningsgraden på pekskärmen för att minska latens</string>
+    <string name="display_cutout_force_fullscreen_title">Fullskärmsappar</string>
+    <string name="display_cutout_force_fullscreen_summary">Tvinga appar att ignorera notch-utrymme</string>
+    <string name="display_cutout_force_fullscreen_search">Sök</string>
+    <string name="display_cutout_force_fullscreen_search_apps">Sök efter appar</string>
 </resources>

@@ -16,4 +16,16 @@
 -->
 <resources>
     <string name="volume_dialog_ringer_guidance_normal">Chamadas e notificações irão tocar</string>
+    <string name="charging_control_notification_channel">Controlo de carregamento</string>
+    <string name="charging_control_notification_title">Controlo de carregamento</string>
+    <string name="charging_control_notification_cancel_once">Cancelar</string>
+    <string name="charging_control_notification_content_limit">A bateria será carregada até aos %1$d%%</string>
+    <string name="charging_control_notification_content_limit_reached">A bateria foi carregada até aos %1$d%%</string>
+    <string name="charging_control_notification_content_target">A bateria estará totalmente carregada aos %1$s</string>
+    <string name="charging_control_notification_content_target_reached">A bateria está carregada</string>
+    <string name="pocket_lock_message_long_press">Pressione e segure o botão ligar/desligar para desbloquear</string>
+    <string name="pocket_view_title">O modo de bolso está ativado</string>
+    <string name="pocket_view_title_cancel">Para utilizar o seu telefone:</string>
+    <string name="pocket_view_top_tag_cancel">Verifique se a área azul do seu telefone está livre de obstruções e limpe qualquer sujidade ou pó.</string>
+    <string name="pocket_view_top_tag_cancel2">Pressione e segure o botão de ligar/desligar para forçar a saída do modo de bolso.</string>
 </resources>

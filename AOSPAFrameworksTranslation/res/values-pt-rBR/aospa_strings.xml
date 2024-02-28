@@ -23,4 +23,9 @@
     <string name="charging_control_notification_content_limit_reached">Bateria carregada até %1$d%%</string>
     <string name="charging_control_notification_content_target">A bateria estará totalmente carregada às %1$s</string>
     <string name="charging_control_notification_content_target_reached">Bateria carregada</string>
+    <string name="pocket_lock_message_long_press">Pressione e segure o botão liga/desliga para desbloquear</string>
+    <string name="pocket_view_title">Modo bolso está ativado</string>
+    <string name="pocket_view_title_cancel">Para usar seu telefone:</string>
+    <string name="pocket_view_top_tag_cancel">Verifique se a área azul do seu telefone está livre de obstruções e limpe qualquer sujeira ou poeira.</string>
+    <string name="pocket_view_top_tag_cancel2">Pressione longamente o botão liga/desliga para forçar o encerramento do modo bolso.</string>
 </resources>

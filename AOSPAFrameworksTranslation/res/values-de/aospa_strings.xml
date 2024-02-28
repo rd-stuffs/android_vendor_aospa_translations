@@ -16,4 +16,16 @@
 -->
 <resources>
     <string name="volume_dialog_ringer_guidance_normal">Anrufe und Benachrichtigungen werden klingeln</string>
+    <string name="charging_control_notification_channel">Ladekontrolle</string>
+    <string name="charging_control_notification_title">Ladekontrolle</string>
+    <string name="charging_control_notification_cancel_once">Abbrechen</string>
+    <string name="charging_control_notification_content_limit">Akku wird bis %1$d%% geladen</string>
+    <string name="charging_control_notification_content_limit_reached">Akku ist bis %1$d%% geladen</string>
+    <string name="charging_control_notification_content_target">Akku wird bis %1$s vollständig geladen sein</string>
+    <string name="charging_control_notification_content_target_reached">Akku ist geladen</string>
+    <string name="pocket_lock_message_long_press">Zum Entsperren Ein-/Aus-Taste gedrückt halten</string>
+    <string name="pocket_view_title">Taschenmodus aktiviert</string>
+    <string name="pocket_view_title_cancel">Um Ihr Telefon zu verwenden:</string>
+    <string name="pocket_view_top_tag_cancel">Überprüfen Sie, ob der blaue Bereich Ihres Telefons von jeglichen Hindernissen befreit ist und entfernen Sie jeden Schmutz oder Staub.</string>
+    <string name="pocket_view_top_tag_cancel2">Halten Sie die Ein-/Aus-Taste länger gedrückt, um das Beenden des Taschen-Modus zu erzwingen.</string>
 </resources>

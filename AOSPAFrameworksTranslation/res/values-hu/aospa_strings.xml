@@ -23,4 +23,9 @@
     <string name="charging_control_notification_content_limit_reached">Az akkumulátor feltöltődött %1$d%% -ig</string>
     <string name="charging_control_notification_content_target">Az akkumulátor %1$d%% -ig lesz feltöltve</string>
     <string name="charging_control_notification_content_target_reached">Az akku feltöltve</string>
+    <string name="pocket_lock_message_long_press">Tartsa lenyomva a bekapcsológombot a feloldáshoz</string>
+    <string name="pocket_view_title">Zsebmód bekapcsolva</string>
+    <string name="pocket_view_title_cancel">A telefon használatához:</string>
+    <string name="pocket_view_top_tag_cancel">Ellenőrizze, hogy a kék területen nincs-e valami, és távolítsa el a szennyeződéseket és a port.</string>
+    <string name="pocket_view_top_tag_cancel2">Nyomja hosszan a bekapcsológombot a zseb módból való kilépéshez.</string>
 </resources>

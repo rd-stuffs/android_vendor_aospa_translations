@@ -92,4 +92,8 @@
     <string name="color_mode_balance_green">हरियो शक्ति</string>
     <string name="color_mode_balance_blue">नीलो बल</string>
     <string name="keywords_color_balance">रंग, रंग सन्तुलन, रंग सुधार, रातो, हरियो, नीलो, LiveDisplay</string>
+    <string name="display_cutout_force_fullscreen_title">पूर्ण स्क्रिन अनुप्रयोगहरू</string>
+    <string name="display_cutout_force_fullscreen_summary">एपहरूलाई नोच स्पेस बेवास्ता गर्न बाध्य पार्नुहोस्</string>
+    <string name="display_cutout_force_fullscreen_search">खोज्नुहोस्</string>
+    <string name="display_cutout_force_fullscreen_search_apps">एप्स खोज्नुहोस्</string>
 </resources>

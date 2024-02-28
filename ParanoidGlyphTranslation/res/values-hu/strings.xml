@@ -2,7 +2,7 @@
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
                    2017 The LineageOS Project
-                   2020-2023 Paranoid Android
+                   2020-2024 Paranoid Android
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -40,6 +40,8 @@
     <string name="glyph_settings_notifs_sub_title">Engedélyezett alkalmazások</string>
     <string name="glyph_settings_notifs_sub_toggle_title">Értesítési animáció bekapcsolása</string>
     <string name="glyph_settings_notifs_sub_animations_title">Minta</string>
+    <string name="glyph_settings_notifs_sub_essential_title">Alapvető értesítések</string>
+    <string name="glyph_settings_notifs_sub_essential_summary">Az Alapvető Glyph mindaddig látható lesz, amíg az alapvető értesítéseket el nem olvassa vagy el nem veti</string>
     <string name="glyph_settings_volume_title">Hangerő</string>
     <string name="glyph_settings_volume_level_toggle_title">Hangerő jelző</string>
     <string name="glyph_settings_volume_level_toggle_summary">Jelenítse meg beállítás közben a hangerőt</string>

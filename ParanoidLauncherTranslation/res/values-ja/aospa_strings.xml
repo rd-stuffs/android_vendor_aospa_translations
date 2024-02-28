@@ -18,6 +18,8 @@
 -->
 <resources>
     <string name="title_show_google_feed">スワイプで Google フィードにアクセス</string>
+    <string name="msg_minus_one_on_left">ホーム画面から左にスワイプして Google フィードを開きます</string>
+    <string name="msg_minus_one_on_right">ホーム画面から右にスワイプして Google フィードを開きます</string>
     <string name="pref_dt_gesture_title">ダブルタップでスリープ</string>
     <string name="pref_dt_gesture_summary">空いているスペースをダブルタップで画面を消灯します</string>
     <string name="suggestion_pref_screen_title">候補</string>
@@ -30,10 +32,14 @@
     <string name="drawer_show_labels">ドロワーでアイコンラベルを表示する</string>
     <string name="category_google">Google</string>
     <string name="category_icon">アイコン</string>
+    <string name="category_recents">最近</string>
     <string name="label_search">検索</string>
     <string name="label_lens">Google レンズ</string>
     <string name="label_voice_search">音声検索</string>
     <string name="dock_search_title">Google 検索バー</string>
+    <string name="dock_search_summary">ドック下部の検索バー</string>
+    <string name="recents_screenshot_title">スクリーンショット</string>
+    <string name="recents_clear_all_title">すべてクリア</string>
     <string name="recents_lens_title">レンズ</string>
     <string name="smartspace_pref_title">At A Glance</string>
     <string name="smartspace_pref_summary">ホーム画面上部にスマートスペースを表示します</string>

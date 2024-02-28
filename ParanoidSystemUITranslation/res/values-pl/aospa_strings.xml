@@ -39,4 +39,9 @@
     <string name="turn_on_bluetooth">Bluetooth</string>
     <string name="bluetooth_is_off">Bluetooth jest wyłączony</string>
     <string name="tap_a_device_to_connect">Dotknij urządzenia, aby się połączyć/rozłączyć</string>
+    <string name="quick_settings_usb_tether_label">Tethering przez USB</string>
+    <string name="quick_settings_sound_label">Dźwięk</string>
+    <string name="quick_settings_sound_ring">Dzwonek</string>
+    <string name="quick_settings_sound_vibrate">Wibracje</string>
+    <string name="quick_settings_sound_silent">Tryb cichy</string>
 </resources>

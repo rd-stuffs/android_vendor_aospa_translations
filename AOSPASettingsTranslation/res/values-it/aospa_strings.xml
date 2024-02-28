@@ -98,4 +98,8 @@
     <string name="touch_polling_title">Elevato tasso di polling del touch</string>
     <string name="touch_polling_summary">Aumenta il tasso di polling del touchscreen per diminuire la latenza</string>
     <string name="lock_screen_auto_pin_confirm_summary_custom">Sblocca automaticamente se inserisci un PIN corretto. Questo è leggermente meno sicuro di toccare Invio per confermare.</string>
+    <string name="display_cutout_force_fullscreen_title">App a schermo intero</string>
+    <string name="display_cutout_force_fullscreen_summary">Forza le applicazioni a ignorare lo spazio del notch</string>
+    <string name="display_cutout_force_fullscreen_search">Cerca</string>
+    <string name="display_cutout_force_fullscreen_search_apps">Cerca app</string>
 </resources>

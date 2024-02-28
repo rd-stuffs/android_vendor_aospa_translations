@@ -94,4 +94,8 @@
     <string name="keywords_color_balance">barvy, vyvážení barev, korekce barev, červená, zelená, modrá, LiveDisplay</string>
     <string name="touch_polling_title">Vysoká vzorkovací frekvence pro dotyk</string>
     <string name="touch_polling_summary">Zvýšení rychlosti odezvy dotykové obrazovky pro snížení latence</string>
+    <string name="display_cutout_force_fullscreen_title">Aplikace přes celou obrazovku</string>
+    <string name="display_cutout_force_fullscreen_summary">Vynutit, aby aplikace ignorovaly výřez v displeji</string>
+    <string name="display_cutout_force_fullscreen_search">Vyhledat</string>
+    <string name="display_cutout_force_fullscreen_search_apps">Hledat v aplikacích</string>
 </resources>

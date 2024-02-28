@@ -23,4 +23,9 @@
     <string name="charging_control_notification_content_limit_reached">Bateria jest naładowana w %1$d%%</string>
     <string name="charging_control_notification_content_target">Bateria zostanie naładowana o %1$s</string>
     <string name="charging_control_notification_content_target_reached">Bateria jest naładowana</string>
+    <string name="pocket_lock_message_long_press">Naciśnij i przytrzymaj przycisk zasilania, aby odblokować</string>
+    <string name="pocket_view_title">Tryb kieszonkowy jest włączony</string>
+    <string name="pocket_view_title_cancel">Aby korzystać z telefonu:</string>
+    <string name="pocket_view_top_tag_cancel">Sprawdź, czy niebieska część telefonu jest czysta i usuń ewentualny kurz lub brud.</string>
+    <string name="pocket_view_top_tag_cancel2">Przytrzymaj przycisk zasilania, aby wymusić wyjście z trybu kieszonkowego.</string>
 </resources>

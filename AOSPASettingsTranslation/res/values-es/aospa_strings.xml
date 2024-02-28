@@ -94,4 +94,8 @@
     <string name="keywords_color_balance">color, balance de color, corrección de color, rojo, verde, azul, LiveDisplay</string>
     <string name="touch_polling_title">Tasa de muestreo táctil alta</string>
     <string name="touch_polling_summary">Aumenta la tasa de respuesta táctil para disminuir la latencia</string>
+    <string name="display_cutout_force_fullscreen_title">Aplicaciones a pantalla completa</string>
+    <string name="display_cutout_force_fullscreen_summary">Forzar que las apps ignoren el espacio del notch</string>
+    <string name="display_cutout_force_fullscreen_search">Buscar</string>
+    <string name="display_cutout_force_fullscreen_search_apps">Buscar aplicaciones</string>
 </resources>

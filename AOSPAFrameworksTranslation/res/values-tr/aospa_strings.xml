@@ -23,4 +23,9 @@
     <string name="charging_control_notification_content_limit_reached">Pil %1$d%% seviyesine kadar şarj edildi</string>
     <string name="charging_control_notification_content_target">Pil şu saatte tamamen şarj olmuş olacak: %1$s</string>
     <string name="charging_control_notification_content_target_reached">Pil şarj oldu</string>
+    <string name="pocket_lock_message_long_press">Kilidi açmak için güç tuşuna basılı tutun</string>
+    <string name="pocket_view_title">Cep modu açık</string>
+    <string name="pocket_view_title_cancel">Telefonunuzu kullanmak için:</string>
+    <string name="pocket_view_top_tag_cancel">Telefonunuzun mavi alanında herhangi bir engel olup olmadığını kontrol edin ve kir veya tozu temizleyin.</string>
+    <string name="pocket_view_top_tag_cancel2">Cep modundan çıkmak için güç tuşuna basılı tutun.</string>
 </resources>

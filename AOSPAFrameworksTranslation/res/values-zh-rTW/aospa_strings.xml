@@ -16,4 +16,16 @@
 -->
 <resources>
     <string name="volume_dialog_ringer_guidance_normal">有來電和通知時會響鈴</string>
+    <string name="charging_control_notification_channel">充電控制</string>
+    <string name="charging_control_notification_title">充電控制</string>
+    <string name="charging_control_notification_cancel_once">取消</string>
+    <string name="charging_control_notification_content_limit">電池將會充電至 %1$d%%</string>
+    <string name="charging_control_notification_content_limit_reached">電池已充電至 %1$d%%</string>
+    <string name="charging_control_notification_content_target">電池已在 %1$s 完全充飽</string>
+    <string name="charging_control_notification_content_target_reached">電池已完成充電</string>
+    <string name="pocket_lock_message_long_press">長按電源鍵以解鎖</string>
+    <string name="pocket_view_title">口袋防誤觸模式已開啟</string>
+    <string name="pocket_view_title_cancel">若要繼續使用你的裝置：</string>
+    <string name="pocket_view_top_tag_cancel">請檢查手機的藍色區域是否被遮擋，並清除所有污垢或灰塵。</string>
+    <string name="pocket_view_top_tag_cancel2">長按電源鍵強制退出口袋防誤觸模式</string>
 </resources>

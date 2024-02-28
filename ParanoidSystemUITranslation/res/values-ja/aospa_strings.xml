@@ -39,4 +39,9 @@
     <string name="turn_on_bluetooth">Bluetooth</string>
     <string name="bluetooth_is_off">Bluetooth は OFF です</string>
     <string name="tap_a_device_to_connect">デバイスをタップして接続または切断をします</string>
+    <string name="quick_settings_usb_tether_label">USB テザリング</string>
+    <string name="quick_settings_sound_label">サウンド</string>
+    <string name="quick_settings_sound_ring">着信音</string>
+    <string name="quick_settings_sound_vibrate">バイブレーション</string>
+    <string name="quick_settings_sound_silent">サイレント</string>
 </resources>

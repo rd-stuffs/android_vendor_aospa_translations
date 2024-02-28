@@ -92,4 +92,8 @@
     <string name="color_mode_balance_green">લીલા તાકાત</string>
     <string name="color_mode_balance_blue">વાદળી તાકાત</string>
     <string name="keywords_color_balance">રંગ, રંગ સંતુલન, રંગ સુધારણા, લાલ, લીલો, વાદળી, લાઇવ ડિસ્પ્લે</string>
+    <string name="display_cutout_force_fullscreen_title">પૂર્ણ સ્ક્રીન એપ્લિકેશનો</string>
+    <string name="display_cutout_force_fullscreen_summary">એપ્લિકેશન્સને નોચ સ્પેસ અવગણવા દબાણ કરો</string>
+    <string name="display_cutout_force_fullscreen_search">શોધો</string>
+    <string name="display_cutout_force_fullscreen_search_apps">ઍપ્લિકેશનો શોધો</string>
 </resources>

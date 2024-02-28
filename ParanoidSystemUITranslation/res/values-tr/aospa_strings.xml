@@ -39,4 +39,9 @@
     <string name="turn_on_bluetooth">Bluetooth</string>
     <string name="bluetooth_is_off">Bluetooth kapalı</string>
     <string name="tap_a_device_to_connect">Bağlanmak/bağlantıyı kesmek için bir cihaza dokunun</string>
+    <string name="quick_settings_usb_tether_label">USB tethering</string>
+    <string name="quick_settings_sound_label">Ses</string>
+    <string name="quick_settings_sound_ring">Zil sesi</string>
+    <string name="quick_settings_sound_vibrate">Titreşim</string>
+    <string name="quick_settings_sound_silent">Sessiz</string>
 </resources>

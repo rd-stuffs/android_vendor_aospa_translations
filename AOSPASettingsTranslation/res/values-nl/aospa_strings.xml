@@ -79,10 +79,24 @@
     <string name="power_button_torch_summary">Wanneer het scherm uit is, zal lang drukken op de aan/uit-knop de zaklamp inschakelen</string>
     <string name="icon_manager_title">Pictogram beheerder</string>
     <string name="icon_manager_summary">Beheer de zichtbaarheid van de statusbalkpictogrammen</string>
+    <string name="navbar_category">Navigatiebalk</string>
     <string name="navbar_invert_layout_title">Omkeren navigatiebalk lay-out</string>
     <string name="navbar_invert_info">Wissel de knoppen \"Terug\" en \"Recents\" op de navigatiebalk</string>
+    <string name="hide_navbar_gesture_bar_title">Verberg gebaren balk</string>
+    <string name="hide_navbar_gesture_bar_summary">Toon gebarenbalk aan de onderkant van het scherm</string>
     <string name="system_black_theme_title">Use black theme</string>
     <string name="system_black_theme_summary">Zwarte achtergrondkleuren forceren</string>
+    <string name="charging_control_title">Oplaad controle</string>
+    <string name="charging_control_summary">Laadschema en limieten voor batterij aanpassen</string>
+    <string name="charging_control_enable_title">Oplaadbeheer inschakelen</string>
+    <string name="charging_control_mode_title">Oplaadmodus</string>
+    <string name="charging_control_mode_auto_title">Automatisch schema</string>
+    <string name="charging_control_mode_auto_summary">Bepaal automatisch wanneer moet worden opgeladen op basis van alarmen</string>
+    <string name="charging_control_mode_custom_title">Aangepaste planning</string>
+    <string name="charging_control_mode_custom_summary">Stel een doeltijd in voor volledige lading</string>
+    <string name="charging_control_mode_limit_title">Beperk opladen</string>
+    <string name="charging_control_mode_limit_summary">Beperk de lading tot een bepaald percentage</string>
+    <string name="charging_control_start_time_title">Starttijd</string>
     <string name="doze_gesture_ambient_title">Toon Ambient</string>
     <string name="doze_gesture_ambient_summary">Ambient Display weergeven in plaats van het scherm  volledig aan te zetten</string>
     <string name="gesture_wake_ambient">Toon Ambient</string>
@@ -94,4 +108,8 @@
     <string name="keywords_color_balance">kleur, kleurbalans, kleurcorrectie, rood, groen, blauw, LiveDisplay</string>
     <string name="touch_polling_title">Hoge aanraak verversingsfrequentie</string>
     <string name="touch_polling_summary">Verhoog aanraak verversingsfrequentie om latency te verminderen</string>
+    <string name="display_cutout_force_fullscreen_title">Apps in volledig scherm</string>
+    <string name="display_cutout_force_fullscreen_summary">Forceer apps om notch ruimte te negeren</string>
+    <string name="display_cutout_force_fullscreen_search">Zoeken</string>
+    <string name="display_cutout_force_fullscreen_search_apps">Apps zoeken</string>
 </resources>

@@ -2,7 +2,7 @@
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
                    2017 The LineageOS Project
-                   2020-2023 Paranoid Android
+                   2020-2024 Paranoid Android
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -24,6 +24,7 @@
     <string name="glyph_settings_flip_toggle_title">翻轉裝置來開關 Glyph</string>
     <string name="glyph_settings_flip_toggle_summary">螢幕朝下時靜音並顯示 Glyph 燈效</string>
     <string name="glyph_settings_brightness">亮度</string>
+    <string name="glyph_settings_charging_title">正在充電</string>
     <string name="glyph_settings_charging_level_title">電量</string>
     <string name="glyph_settings_charging_level_summary">充電時顯示電量</string>
     <string name="glyph_settings_charging_powershare_title">反向無線充電</string>
@@ -39,6 +40,9 @@
     <string name="glyph_settings_notifs_sub_title">篩選應用程式</string>
     <string name="glyph_settings_notifs_sub_toggle_title">啟用通知動畫</string>
     <string name="glyph_settings_notifs_sub_animations_title">樣式</string>
+    <string name="glyph_settings_volume_title">音量</string>
+    <string name="glyph_settings_volume_level_toggle_title">音量指示器</string>
+    <string name="glyph_settings_volume_level_toggle_summary">調整時顯示音量</string>
     <string name="glyph_settings_misc_title">雜項</string>
     <string name="glyph_settings_music_visualizer_toggle_title">音樂視覺化效果</string>
     <string name="glyph_settings_music_visualizer_toggle_summary">迪斯可模式！\n啟用後將停用其他 Glyph 燈光效果動畫</string>

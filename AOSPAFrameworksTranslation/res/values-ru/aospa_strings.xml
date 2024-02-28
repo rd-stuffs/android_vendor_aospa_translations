@@ -23,4 +23,9 @@
     <string name="charging_control_notification_content_limit_reached">Батарея заряжена до %1$d%%</string>
     <string name="charging_control_notification_content_target">Батарея будет полностью заряжена через %1$s</string>
     <string name="charging_control_notification_content_target_reached">Батарея заряжена</string>
+    <string name="pocket_lock_message_long_press">Нажмите и удерживайте кнопку питания для разблокировки</string>
+    <string name="pocket_view_title">Режим \"В кармане\" включен</string>
+    <string name="pocket_view_title_cancel">Для использования телефона:</string>
+    <string name="pocket_view_top_tag_cancel">Проверьте, не закрыта ли синяя область вашего телефона какими-либо предметами, так же очистите её от грязи или пыли.</string>
+    <string name="pocket_view_top_tag_cancel2">Нажмите и удерживайте кнопку питания, чтобы принудительно выйти из карманного режима.</string>
 </resources>

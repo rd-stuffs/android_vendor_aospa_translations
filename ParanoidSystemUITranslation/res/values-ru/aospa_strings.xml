@@ -39,4 +39,9 @@
     <string name="turn_on_bluetooth">Bluetooth</string>
     <string name="bluetooth_is_off">Bluetooth выключен</string>
     <string name="tap_a_device_to_connect">Нажмите на устройство для подключения/отключения</string>
+    <string name="quick_settings_usb_tether_label">Режим USB-модема</string>
+    <string name="quick_settings_sound_label">Звук</string>
+    <string name="quick_settings_sound_ring">Звонок</string>
+    <string name="quick_settings_sound_vibrate">Вибрация</string>
+    <string name="quick_settings_sound_silent">Без звука</string>
 </resources>

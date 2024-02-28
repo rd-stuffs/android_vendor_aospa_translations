@@ -18,6 +18,8 @@
 -->
 <resources>
     <string name="title_show_google_feed">滑動顯示 Google 即時資訊</string>
+    <string name="msg_minus_one_on_left">在主畫面上向左滑動來顯示 Google 即時資訊</string>
+    <string name="msg_minus_one_on_right">在主畫面上向右滑動來顯示 Google 即時資訊</string>
     <string name="pref_dt_gesture_title">輕觸兩下休眠</string>
     <string name="pref_dt_gesture_summary">在空白處輕觸兩下以關閉螢幕</string>
     <string name="suggestion_pref_screen_title">建議</string>
@@ -30,10 +32,14 @@
     <string name="drawer_show_labels">在應用程式清單中顯示應用程式名稱</string>
     <string name="category_google">Google</string>
     <string name="category_icon">圖示</string>
+    <string name="category_recents">最近的應用程式</string>
     <string name="label_search">搜尋</string>
     <string name="label_lens">智慧鏡頭</string>
     <string name="label_voice_search">語音搜尋</string>
     <string name="dock_search_title">Google 搜尋列</string>
+    <string name="dock_search_summary">在底部顯示搜尋列</string>
+    <string name="recents_screenshot_title">螢幕擷取</string>
+    <string name="recents_clear_all_title">清除全部</string>
     <string name="recents_lens_title">智慧鏡頭</string>
     <string name="smartspace_pref_title">快速查看</string>
     <string name="smartspace_pref_summary">在主畫面頂部顯示快速查看小工具</string>

@@ -16,4 +16,16 @@
 -->
 <resources>
     <string name="volume_dialog_ringer_guidance_normal">着信音と通知を鳴らす</string>
+    <string name="charging_control_notification_channel">充電コントロール</string>
+    <string name="charging_control_notification_title">充電コントロール</string>
+    <string name="charging_control_notification_cancel_once">キャンセル</string>
+    <string name="charging_control_notification_content_limit">バッテリーは、%1$d%% まで充電されます</string>
+    <string name="charging_control_notification_content_limit_reached">バッテリーは、%1$d%% まで充電されています</string>
+    <string name="charging_control_notification_content_target">バッテリーは、%1$s で完全に充電されます</string>
+    <string name="charging_control_notification_content_target_reached">バッテリーは充電されています</string>
+    <string name="pocket_lock_message_long_press">電源ボタンを長押しでロックを解除</string>
+    <string name="pocket_view_title">ポケットモードは ON です</string>
+    <string name="pocket_view_title_cancel">電話を使うには:</string>
+    <string name="pocket_view_top_tag_cancel">青い部分を覆っていないか確認して、汚れやほこりを落として下さい。</string>
+    <string name="pocket_view_top_tag_cancel2">電源ボタンを長押しするとポケットモードを強制終了します。</string>
 </resources>
