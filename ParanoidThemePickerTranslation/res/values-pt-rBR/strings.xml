@@ -17,4 +17,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="icon_pack_title">Ícones do sistema</string>
     <string name="font_title">Fonte do sistema</string>
+
+    <string name="icon_shape_title">Forma dos ícones</string>
 </resources>

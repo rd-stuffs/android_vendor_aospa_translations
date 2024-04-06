@@ -16,7 +16,7 @@
 * limitations under the License.
 */
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="title_show_google_feed">Deslizar para acessar o Google app</string>
     <string name="msg_minus_one_on_left">Na tela inicial, deslize para a esquerda para abrir o feed do Google</string>
     <string name="msg_minus_one_on_right">Na tela inicial, deslize para a direita para abrir o feed do Google</string>
@@ -39,8 +39,15 @@
     <string name="dock_search_title">Barra de pesquisa do Google</string>
     <string name="dock_search_summary">Mostrar a barra de pesquisa na parte inferior da tela inicial</string>
     <string name="recents_screenshot_title">Captura de tela</string>
-    <string name="recents_clear_all_title">Remover tudo</string>
     <string name="recents_lens_title">Lens</string>
     <string name="smartspace_pref_title">Resumo</string>
     <string name="smartspace_pref_summary">Mostrar o resumo no topo da tela inicial</string>
+
+    <string name="recents_clear_all_title">Limpar tudo</string>
+    <string name="widget_category_weather">Clima</string>
+    <string name="hide_top_shadow_title">Ocultar sombra superior</string>
+    <string name="hide_top_shadow_summary">Remover a sombra abaixo da barra de status</string>
+    <string name="icon_size_title">Tamanho do ícone</string>
+    <string name="font_size_title">Tamanho da fonte</string>
+    <string name="floating_window">Flutuante</string>
 </resources>
