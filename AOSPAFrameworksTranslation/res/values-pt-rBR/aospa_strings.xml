@@ -14,7 +14,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="volume_dialog_ringer_guidance_normal">Chamadas e notificações farão o dispositivo tocar</string>
     <string name="charging_control_notification_channel">Carregamento inteligente</string>
     <string name="charging_control_notification_title">Carregamento inteligente</string>
@@ -23,4 +23,16 @@
     <string name="charging_control_notification_content_limit_reached">Bateria carregada até %1$d%%</string>
     <string name="charging_control_notification_content_target">A bateria estará totalmente carregada às %1$s</string>
     <string name="charging_control_notification_content_target_reached">Bateria carregada</string>
+
+    <string name="pocket_mode_title">Modo de bolso ativo</string>
+    <string name="pocket_mode_illustration_description">Ilustração do telefone no bolso</string>
+    <string name="pocket_mode_instructions_header">Para usar seu telefone:</string>
+    <string name="pocket_mode_instruction_step1">1. Certifique-se de que a área verde (sensor de proximidade) mostrada acima esteja desobstruída e livre de sujeira ou poeira.</string>
+    <string name="pocket_mode_instruction_step2">2. Pressione e segure o botão de energia para sair do modo de bolso.</string>
+    <string name="reboot_to_recovery_message">Reiniciando para o recovery\u2026</string>
+    <string name="reboot_to_bootloader_message">Reiniciando para o bootloader\u2026</string>
+    <string name="reboot_title">Reiniciar</string>
+    <string name="reboot_message">Reiniciando o sistema</string>
+    <string name="gesture_locked_warning">Deslize novamente para desbloquear os gestos</string>
+    <string name="unlock_application">Desbloquear <xliff:g id="label" example="Telegram">%1$s</xliff:g></string>
 </resources>
