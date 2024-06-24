@@ -17,6 +17,6 @@
 */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="recent_task_option_kill_app">Chiusura forzata</string>
-    <string name="recents_app_killed">App chiusa</string>
+    <string name="recent_task_option_kill_app">Закрити примусово</string>
+    <string name="recents_app_killed">Додаток закрито</string>
 </resources>

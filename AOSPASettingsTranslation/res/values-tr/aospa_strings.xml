@@ -142,4 +142,23 @@
     <string name="refresh_rate_vrr_summary">Güç tasarrufu yapmak için, ekran boştayken yenileme hızını otomatik olarak düşür. Bazı ekranlarda titremeye veya renk kaymasına sebep olabilir</string>
     <string name="refresh_rate_footer">Yüksek yenileme hızı ekranı daha hızlı yapar, ancak güç tüketimini artırır</string>
     <string name="keywords_refresh_rate">yenileme, hızı, yumuşak, zirve, 60hz, 90hz, 120hz, 144hz, 165hz</string>
+    <string name="battery_technology">Teknoloji</string>
+    <string name="battery_health">Sağlık</string>
+    <string name="battery_health_good">İyi</string>
+    <string name="battery_health_overheat">Aşırı ısınma</string>
+    <string name="battery_health_dead">Ölü</string>
+    <string name="battery_health_over_voltage">Aşırı voltaj</string>
+    <string name="battery_health_unspecified_failure">Belirtilmeyen hata</string>
+    <string name="battery_health_cold">Soğuk</string>
+    <string name="battery_health_unknown">Bilinmiyor</string>
+    <string name="battery_temperature">Sıcaklık</string>
+    <string name="battery_voltage">Voltaj</string>
+    <string name="battery_design_capacity">Tasarım kapasitesi</string>
+    <string name="battery_maximum_capacity">En yüksek kapasite</string>
+    <string name="heads_up_title">Bildirim penceresi</string>
+    <string name="heads_up_summary">Seçilen bildirimleri ekranın üst kısmında banner olarak göster</string>
+    <string name="heads_up_off">Bildirim penceresi her şey için kapalı</string>
+    <string name="notification_vibration_pattern_title">Bildirim titreşim modeli</string>
+    <string name="ring_vibration_pattern_title">Zil sesi titreşim modeli</string>
+    <string name="pattern_default">Cihaz varsayılanı</string>
 </resources>

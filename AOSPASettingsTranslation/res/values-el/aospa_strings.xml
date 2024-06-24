@@ -34,4 +34,20 @@
     <string name="lock_screen_auto_pin_confirm_summary_custom">Ξεκλείδωμα αυτόματα εάν εισάγετε ένα σωστό PIN. Αυτό είναι ελαφρώς λιγότερο ασφαλές από το πάτημα Enter για επιβεβαίωση.</string>
     <string name="quick_settings_quick_pull_down_title">Γρήγορο τράβηγμα κάτω του πίνακα γρήγορων ρυθμίσεων</string>
     <string name="quick_settings_quick_pull_down_summary">Τραβήξτε προς τα κάτω τη γραμμή κατάστασης από τη δεξιά πλευρά για να αναπτύξετε τις γρήγορες ρυθμίσεις</string>
+    <string name="refresh_rate_title">Ρυθμός ανανέωσης</string>
+    <string name="refresh_rate_summary_vrr_on">%d Hz (Προσαρμοστικό)</string>
+    <string name="refresh_rate_vrr_title">Προσαρμοστικός ρυθμός ανανέωσης</string>
+    <string name="refresh_rate_vrr_summary">Αυτόματη μείωση του ρυθμού ανανέωσης όταν η οθόνη είναι αδρανής, για εξοικονόμηση ενέργειας. Μπορεί να προκαλέσει τρεμοπαίξιμο ή αλλαγή χρώματος σε ορισμένες οθόνες</string>
+    <string name="refresh_rate_footer">Ένας υψηλότερος ρυθμός ανανέωσης κάνει την οθόνη πιο ομαλή, αλλά αυξάνει την κατανάλωση ενέργειας</string>
+    <string name="battery_health">Υγεία</string>
+    <string name="battery_health_good">Καλή</string>
+    <string name="battery_health_overheat">Υπερθέρμανση</string>
+    <string name="battery_health_dead">Εξαντλημένη</string>
+    <string name="battery_health_over_voltage">Υπερβολική τάση</string>
+    <string name="battery_health_unspecified_failure">Απροσδιόριστη αποτυχία</string>
+    <string name="battery_health_cold">Κρύα</string>
+    <string name="battery_health_unknown">Άγνωστη</string>
+    <string name="battery_temperature">Θερμοκρασία</string>
+    <string name="battery_voltage">Τάση</string>
+    <string name="heads_up_off">Οι αναδυόμενες ειδοποιήσεις είναι απενεργοποιημένες γενικά</string>
 </resources>

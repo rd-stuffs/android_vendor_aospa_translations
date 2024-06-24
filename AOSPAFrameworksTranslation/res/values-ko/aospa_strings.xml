@@ -23,4 +23,5 @@
     <string name="charging_control_notification_content_limit_reached">배터리는 %1$d%% 까지 충전되었습니다</string>
     <string name="charging_control_notification_content_target">배터리는 %1$s에 완전히 충전될 것입니다</string>
     <string name="charging_control_notification_content_target_reached">배터리가 충전됩니다</string>
+    <string name="pocket_lock_message_long_press">전원 버튼을 길게 눌러 잠금 해제</string>
 </resources>

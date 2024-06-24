@@ -98,4 +98,7 @@
     <string name="display_cutout_force_fullscreen_summary">Tvinga appar att ignorera notch-utrymme</string>
     <string name="display_cutout_force_fullscreen_search">Sök</string>
     <string name="display_cutout_force_fullscreen_search_apps">Sök efter appar</string>
+    <string name="notification_vibration_pattern_title">Vibrationsmönster för aviseringar</string>
+    <string name="ring_vibration_pattern_title">Vibrationsmönster för ringsignal</string>
+    <string name="pattern_default">Standard för enheten</string>
 </resources>

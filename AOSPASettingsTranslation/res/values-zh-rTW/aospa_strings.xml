@@ -142,4 +142,7 @@
     <string name="refresh_rate_vrr_summary">當螢幕空閒時自動降低更新率以節省電量，可能會導致某些裝置的螢幕閃爍或色偏。</string>
     <string name="refresh_rate_footer">更高的刷新率使顯示更流暢，但會增加功耗</string>
     <string name="keywords_refresh_rate">螢幕更新率、流暢度、60 Hz、90 Hz、120 Hz、144 Hz、165 Hz</string>
+    <string name="notification_vibration_pattern_title">通知震動樣式</string>
+    <string name="ring_vibration_pattern_title">響鈴震動樣式</string>
+    <string name="pattern_default">裝置預設設定</string>
 </resources>

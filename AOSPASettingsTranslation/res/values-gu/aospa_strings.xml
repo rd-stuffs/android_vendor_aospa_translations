@@ -96,4 +96,7 @@
     <string name="display_cutout_force_fullscreen_summary">એપ્લિકેશન્સને નોચ સ્પેસ અવગણવા દબાણ કરો</string>
     <string name="display_cutout_force_fullscreen_search">શોધો</string>
     <string name="display_cutout_force_fullscreen_search_apps">ઍપ્લિકેશનો શોધો</string>
+    <string name="notification_vibration_pattern_title">સૂચના ની વાઇબ્રેશન પેટર્ન</string>
+    <string name="ring_vibration_pattern_title">રીંગ ની વાઇબ્રેશન પેટર્ન</string>
+    <string name="pattern_default">ડિવાઇસ ડિફૉલ્ટ</string>
 </resources>

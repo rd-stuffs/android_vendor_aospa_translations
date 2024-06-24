@@ -112,4 +112,7 @@
     <string name="display_cutout_force_fullscreen_summary">Forceer apps om notch ruimte te negeren</string>
     <string name="display_cutout_force_fullscreen_search">Zoeken</string>
     <string name="display_cutout_force_fullscreen_search_apps">Apps zoeken</string>
+    <string name="notification_vibration_pattern_title">Trilpatroon voor meldingen</string>
+    <string name="ring_vibration_pattern_title">Beltoon trillingspatroon</string>
+    <string name="pattern_default">Apparaatstandaard</string>
 </resources>

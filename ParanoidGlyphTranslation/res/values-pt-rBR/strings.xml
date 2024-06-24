@@ -41,7 +41,7 @@
     <string name="glyph_settings_notifs_sub_toggle_title">Habilitar animação de notificação</string>
     <string name="glyph_settings_notifs_sub_animations_title">Padrões</string>
     <string name="glyph_settings_notifs_sub_essential_title">Notificações essenciais</string>
-    <string name="glyph_settings_notifs_sub_essential_summary">Glyph essencial será exibido até que as notificações essenciais sejam lidas ou dispensadas</string>
+    <string name="glyph_settings_notifs_sub_essential_summary">Glyph essencial será exibido até que as notificações essenciais sejam lidas ou descartadas</string>
     <string name="glyph_settings_volume_title">Volume</string>
     <string name="glyph_settings_volume_level_toggle_title">Indicador de volume</string>
     <string name="glyph_settings_volume_level_toggle_summary">Mostrar nível do volume ao ajustar</string>

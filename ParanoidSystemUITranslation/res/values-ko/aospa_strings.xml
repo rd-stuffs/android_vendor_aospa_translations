@@ -39,4 +39,9 @@
     <string name="turn_on_bluetooth">블루투스</string>
     <string name="bluetooth_is_off">블루투스가 꺼짐</string>
     <string name="tap_a_device_to_connect">장치를 탭해 연결/연결 해제</string>
+    <string name="quick_settings_usb_tether_label">USB 테더링</string>
+    <string name="quick_settings_sound_label">소리</string>
+    <string name="quick_settings_sound_ring">벨소리</string>
+    <string name="quick_settings_sound_vibrate">진동</string>
+    <string name="quick_settings_sound_silent">무음</string>
 </resources>

@@ -129,6 +129,8 @@
     <string name="display_cutout_force_fullscreen_search">Suchen</string>
     <string name="display_cutout_force_fullscreen_search_apps">Apps suchen</string>
     <string name="keywords_pulse_ambient_light_display">Benachrichtigungen, Benachrichtigungen, Kante, Licht, Farbe, Farbe</string>
+    <string name="pulse_ambient_light_text">Die Randbeleuchtung lässt den Bildschirm aufleuchten, wenn Sie eine Benachrichtigung erhalten. So können Sie leichter feststellen, ob Sie Benachrichtigungen erhalten, wenn der Bildschirm ausgeschaltet ist.</string>
+    <string name="pulse_ambient_light_title">Randbeleuchtung</string>
     <string name="pulse_ambient_light_summary">Bei Benachrichtigungen die Seiten des Bildschirms pulsierend leuchten lassen</string>
     <string name="ambient_notification_light_accent_title">Akzentfarbe</string>
     <string name="ambient_notification_light_color_automatic_title">Benachrichtigungsfarbe</string>
@@ -140,4 +142,26 @@
     <string name="refresh_rate_vrr_summary">Automatisch die Aktualisierungsrate senken, wenn das Display nicht aktiv ist, um Energie zu sparen. Kann auf bestimmten Bildschirmen flimmern oder Farbverschiebungen verursachen</string>
     <string name="refresh_rate_footer">Eine höhere Aktualisierungsrate macht das Display flüssiger, erhöht aber den Stromverbrauch</string>
     <string name="keywords_refresh_rate">aktualisieren, Rate, flüssig, Gipfel, 60 Hz, 90 Hz, 120 Hz, 144 Hz, 165 Hz</string>
+    <string name="battery_technology">Technologie</string>
+    <string name="battery_health">Gesundheit</string>
+    <string name="battery_health_good">Gut</string>
+    <string name="battery_health_overheat">Überhitzt</string>
+    <string name="battery_health_dead">Tot</string>
+    <string name="battery_health_over_voltage">Überspannung</string>
+    <string name="battery_health_unspecified_failure">Unspezifizierter Fehler</string>
+    <string name="battery_health_cold">Kalt</string>
+    <string name="battery_health_unknown">Unbekannt</string>
+    <string name="battery_temperature">Temperatur</string>
+    <string name="battery_voltage">Spannung</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">Ursprüngliche Akkukapazität</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">Maximale Kapazität</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="heads_up_title">Pop-up Benachrichtigungen</string>
+    <string name="heads_up_summary">Ausgewählte Benachrichtigungen als Banner am oberen Bildschirmrand anzeigen</string>
+    <string name="heads_up_off">Pop-up-Benachrichtigungen sind deaktiviert</string>
+    <string name="notification_vibration_pattern_title">Benachrichtigungs-Vibrationsmuster</string>
+    <string name="ring_vibration_pattern_title">Rufton-Vibrationsmuster</string>
+    <string name="pattern_default">Gerätestandard</string>
 </resources>

@@ -142,4 +142,17 @@
     <string name="refresh_rate_vrr_summary">当屏幕空闲时自动降低刷新率以节省电量，可能会导致某些设备的屏幕闪烁或色偏。</string>
     <string name="refresh_rate_footer">更高的刷新率使显示的内容变化时变得更加流畅，但会增加电量消耗。</string>
     <string name="keywords_refresh_rate">屏幕刷新率、流畅度、60 Hz、90 Hz、120 Hz、144 Hz、165 Hz</string>
+    <string name="battery_technology">技术</string>
+    <string name="battery_health_unknown">未知</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">设计容量</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">最大容量</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="heads_up_title">浮动通知</string>
+    <string name="heads_up_summary">在屏幕顶部以横幅形式显示通知</string>
+    <string name="heads_up_off">浮动通知已在全局禁用</string>
+    <string name="notification_vibration_pattern_title">通知振动模式</string>
+    <string name="ring_vibration_pattern_title">铃声振动模式</string>
+    <string name="pattern_default">设备默认设置</string>
 </resources>

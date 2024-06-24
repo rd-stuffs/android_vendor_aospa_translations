@@ -142,4 +142,26 @@
     <string name="refresh_rate_vrr_summary">ディスプレイがアイドル状態の時は、リフレッシュレートを自動的に下げて消費電力を抑えます。 特定の画面で、ちらつきや色ずれが発生する場合があります</string>
     <string name="refresh_rate_footer">リフレッシュレートが高いと表示が滑らかになりますが、消費電力が増加します</string>
     <string name="keywords_refresh_rate">リフレッシュ, レート, 滑らかさ, ピーク, 60Hz, 90Hz, 120Hz, 144Hz, 165Hz</string>
+    <string name="battery_technology">テクノロジー</string>
+    <string name="battery_health">健康度</string>
+    <string name="battery_health_good">良い</string>
+    <string name="battery_health_overheat">発熱</string>
+    <string name="battery_health_dead">損耗</string>
+    <string name="battery_health_over_voltage">過電圧</string>
+    <string name="battery_health_unspecified_failure">不特定の問題</string>
+    <string name="battery_health_cold">冷却</string>
+    <string name="battery_health_unknown">不明</string>
+    <string name="battery_temperature">温度</string>
+    <string name="battery_voltage">電圧</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">最大容量</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">最大容量</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="heads_up_title">ヘッドアップ通知</string>
+    <string name="heads_up_summary">選択した通知を画面上部にバナーとして表示します</string>
+    <string name="heads_up_off">ヘッドアップ通知はグローバルで無効化されています</string>
+    <string name="notification_vibration_pattern_title">通知のバイブレーションパターン</string>
+    <string name="ring_vibration_pattern_title">着信音のバイブレーションパターン</string>
+    <string name="pattern_default">デバイスのデフォルト</string>
 </resources>

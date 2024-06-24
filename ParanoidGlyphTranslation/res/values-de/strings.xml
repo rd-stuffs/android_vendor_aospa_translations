@@ -40,6 +40,8 @@
     <string name="glyph_settings_notifs_sub_title">Zugelassene Apps</string>
     <string name="glyph_settings_notifs_sub_toggle_title">Benachrichtigungsanimation aktivieren</string>
     <string name="glyph_settings_notifs_sub_animations_title">Muster</string>
+    <string name="glyph_settings_notifs_sub_essential_title">Essenzielle Benachrichtigungen</string>
+    <string name="glyph_settings_notifs_sub_essential_summary">Essenzieller Glyph wir angezeigt, bis die essenzielle Nachricht gelesen oder verworfen wurde</string>
     <string name="glyph_settings_volume_title">Lautstärke</string>
     <string name="glyph_settings_volume_level_toggle_title">Lautstärkeanzeige</string>
     <string name="glyph_settings_volume_level_toggle_summary">Lautstärkepegel beim Einstellen anzeigen</string>

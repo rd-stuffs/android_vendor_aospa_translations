@@ -142,4 +142,26 @@
     <string name="refresh_rate_vrr_summary">Automatycznie obniżaj częstotliwość odświeżania, gdy wyświetlacz jest bezczynny, aby zaoszczędzić energię. Może to powodować migotanie lub zmianę kolorów na niektórych wyświetlaczach</string>
     <string name="refresh_rate_footer">Wyższa częstotliwość odświeżania sprawia, że wyświetlacz jest bardziej płynny, ale zwiększa to zużycie energii</string>
     <string name="keywords_refresh_rate">odświeżanie, współczynnik, płynność, 60hz, 90hz, 120hz, 144hz, 165hz</string>
+    <string name="battery_technology">Technologia</string>
+    <string name="battery_health">Zdrowie</string>
+    <string name="battery_health_good">Dobra</string>
+    <string name="battery_health_overheat">Przegrzana</string>
+    <string name="battery_health_dead">Niesprawna</string>
+    <string name="battery_health_over_voltage">Zbyt wysokie napięcie</string>
+    <string name="battery_health_unspecified_failure">Nieokreślony błąd</string>
+    <string name="battery_health_cold">Zimna</string>
+    <string name="battery_health_unknown">Nieznana</string>
+    <string name="battery_temperature">Temperatura</string>
+    <string name="battery_voltage">Napięcie</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">Fabryczna pojemność baterii</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">Maksymalna pojemność</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="heads_up_title">Wyskakujące powiadomienia</string>
+    <string name="heads_up_summary">Wyświetlaj wybrane powiadomienia jako baner w górnej części ekranu</string>
+    <string name="heads_up_off">Wyskakujące powiadomienia są wyłączone globalnie</string>
+    <string name="notification_vibration_pattern_title">Wzór wibracji powiadomień</string>
+    <string name="ring_vibration_pattern_title">Wzór wibracji dzwonka</string>
+    <string name="pattern_default">Domyślnie dla urządzenia</string>
 </resources>

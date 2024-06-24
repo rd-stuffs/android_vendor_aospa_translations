@@ -28,5 +28,13 @@
     <string name="settings_edit_widgets_error">Неможливо додати віджети на головний екран</string>
     <string name="desktop_show_labels">Відображати назви додатків на робочому столі</string>
     <string name="drawer_show_labels">Відображати назви додатків в меню програм</string>
+    <string name="category_google">Google</string>
     <string name="category_icon">Іконки</string>
+    <string name="label_search">Пошук</string>
+    <string name="label_lens">Google Об’єктив</string>
+    <string name="label_voice_search">Голосовий пошук</string>
+    <string name="dock_search_title">Панель пошуку Google</string>
+    <string name="recents_lens_title">Об\'єктив</string>
+    <string name="smartspace_pref_title">Віджет At a Glance</string>
+    <string name="smartspace_pref_summary">Показувати смарт-простір у верхній частині головного екрану</string>
 </resources>

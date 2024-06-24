@@ -98,4 +98,7 @@
     <string name="display_cutout_force_fullscreen_summary">Vynutit, aby aplikace ignorovaly výřez v displeji</string>
     <string name="display_cutout_force_fullscreen_search">Vyhledat</string>
     <string name="display_cutout_force_fullscreen_search_apps">Hledat v aplikacích</string>
+    <string name="notification_vibration_pattern_title">Vzor vibrací oznámení</string>
+    <string name="ring_vibration_pattern_title">Vzor vibrací vyzvánění</string>
+    <string name="pattern_default">Výchozí nastavení zařízení</string>
 </resources>

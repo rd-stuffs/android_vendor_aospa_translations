@@ -96,4 +96,7 @@
     <string name="display_cutout_force_fullscreen_summary">एपहरूलाई नोच स्पेस बेवास्ता गर्न बाध्य पार्नुहोस्</string>
     <string name="display_cutout_force_fullscreen_search">खोज्नुहोस्</string>
     <string name="display_cutout_force_fullscreen_search_apps">एप्स खोज्नुहोस्</string>
+    <string name="notification_vibration_pattern_title">सूचना कम्पन ढाँचा</string>
+    <string name="ring_vibration_pattern_title">घण्टी कम्पन ढाँचा</string>
+    <string name="pattern_default">डिभाइस डिफल्ट</string>
 </resources>

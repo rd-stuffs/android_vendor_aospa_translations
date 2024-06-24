@@ -18,6 +18,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="device_settings_app_name">Pengaturan lanjutan</string>
     <string name="screen_gestures_panel_title">Gestur</string>
+    <string name="touchscreen_gesture_extras">Tambahan</string>
     <string name="touchscreen_gesture_haptic_feedback">Respon sentuh</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">Bergetar ketika gerakan menyentuh layar terdeteksi</string>
     <string name="touchscreen_gesture_settings_title">Gerakan layar sentuh</string>
@@ -34,6 +35,19 @@
     <string name="touchscreen_v_gesture_title">Telepon</string>
     <string name="touchscreen_v_gesture_summary">Gambar \"V\" untuk membuka aplikasi telepon</string>
     <string name="touchscreen_w_gesture_title">Browser</string>
+    <string name="touchscreen_w_gesture_summary">Gambar \"W\" untuk membuka aplikasi browser</string>
+    <string name="touchscreen_z_gesture_title">Senter</string>
+    <string name="touchscreen_z_gesture_summary">Gambar \'Z\' untuk menyalakan lampu senter</string>
+    <string name="touchscreen_flashlight_gesture_title">Senter</string>
+    <string name="touchscreen_flashlight_gesture_summary">Gambar sebuah lingkaran untuk menyalakan lampu senter</string>
+    <string name="touchscreen_music_gesture_title">Musik</string>
+    <string name="touchscreen_swipe_up_title">Usap ke atas</string>
+    <string name="touchscreen_swipe_right_title">Usap ke kanan</string>
+    <string name="touchscreen_swipe_down_title">Usap ke bawah</string>
+    <string name="touchscreen_swipe_left_title">Usap ke kiri</string>
+    <string name="ambient_display_always_on_title">Selalu menyala</string>
+    <string name="pocket_gesture_title">Saku</string>
+    <string name="music_headset_scenario_music">Musik</string>
     <string name="thermal_browser">Browser</string>
     <string name="thermal_camera">Kamera</string>
     <string name="thermal_dialer">Telepon</string>

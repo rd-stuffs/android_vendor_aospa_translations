@@ -142,4 +142,26 @@
     <string name="refresh_rate_vrr_summary">Автоматически снижать частоту обновления при бездействии дисплея, чтобы сэкономить энергию. Может вызвать мерцание или цветовое искажение на определенных дисплеях</string>
     <string name="refresh_rate_footer">Более высокая скорость обновления делает отображение плавным, но увеличивает потребление энергии</string>
     <string name="keywords_refresh_rate">обновление, частота, плавность, пик, 60гц, 90гц, 120гц, 144гц, 165гц</string>
+    <string name="battery_technology">Технология</string>
+    <string name="battery_health">Состояние</string>
+    <string name="battery_health_good">Хорошее</string>
+    <string name="battery_health_overheat">Перегрев</string>
+    <string name="battery_health_dead">Неисправна</string>
+    <string name="battery_health_over_voltage">Превышено напряжение</string>
+    <string name="battery_health_unspecified_failure">Неопределенная ошибка</string>
+    <string name="battery_health_cold">Холодная</string>
+    <string name="battery_health_unknown">Неизвестно</string>
+    <string name="battery_temperature">Температура</string>
+    <string name="battery_voltage">Напряжение</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">Проектная ёмкость</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">Максимальная ёмкость</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="heads_up_title">Уведомления \"поверх\"</string>
+    <string name="heads_up_summary">Показать выбранные уведомления как баннер в верхней части экрана</string>
+    <string name="heads_up_off">Всплывающие уведомления отключены глобально</string>
+    <string name="notification_vibration_pattern_title">Тип вибрации уведомлений</string>
+    <string name="ring_vibration_pattern_title">Тип вибрации при звонке</string>
+    <string name="pattern_default">По умолчанию</string>
 </resources>

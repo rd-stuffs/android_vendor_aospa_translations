@@ -142,4 +142,26 @@
     <string name="refresh_rate_vrr_summary">Az energiatakarékosság érdekében automatikusan csökkenti a frissítési gyakoriságot, amikor a kijelző tétlen. Egyes kijelzőkön villogást vagy színeltérést okozhat</string>
     <string name="refresh_rate_footer">A nagyobb frissítési gyakoriság simábbá teszi a kijelző képét, de növeli az energiafogyasztást</string>
     <string name="keywords_refresh_rate">frissítés, gyakoriság, sima, csúcs, 60Hz, 90Hz, 120Hz, 144Hz, 165Hz</string>
+    <string name="battery_technology">Technológia</string>
+    <string name="battery_health">Épség</string>
+    <string name="battery_health_good">Jó</string>
+    <string name="battery_health_overheat">Túlmelegedett</string>
+    <string name="battery_health_dead">Rossz</string>
+    <string name="battery_health_over_voltage">Túlfeszültség</string>
+    <string name="battery_health_unspecified_failure">Nem meghatározható hiba</string>
+    <string name="battery_health_cold">Hideg</string>
+    <string name="battery_health_unknown">Ismeretlen</string>
+    <string name="battery_temperature">Hőmérséklet</string>
+    <string name="battery_voltage">Feszültség</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">Tervezési kapacitás</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">Maximum kapacitás</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="heads_up_title">Lebegő értesítések</string>
+    <string name="heads_up_summary">Bizonyos értesítések bannerként megjelnítése a képernyő felső részén</string>
+    <string name="heads_up_off">Az összes feluró letiltása mindenhol</string>
+    <string name="notification_vibration_pattern_title">Vibrációs minta az értesítéshez</string>
+    <string name="ring_vibration_pattern_title">Rezgő csengési minták</string>
+    <string name="pattern_default">Eszköz alapértelmezett</string>
 </resources>

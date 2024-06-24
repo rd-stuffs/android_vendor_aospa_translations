@@ -102,4 +102,7 @@
     <string name="display_cutout_force_fullscreen_summary">Forza le applicazioni a ignorare lo spazio del notch</string>
     <string name="display_cutout_force_fullscreen_search">Cerca</string>
     <string name="display_cutout_force_fullscreen_search_apps">Cerca app</string>
+    <string name="notification_vibration_pattern_title">Pattern vibrazione notifiche</string>
+    <string name="ring_vibration_pattern_title">Pattern vibrazione suoneria</string>
+    <string name="pattern_default">Predefinito del dispositivo</string>
 </resources>

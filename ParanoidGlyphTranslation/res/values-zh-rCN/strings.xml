@@ -40,6 +40,8 @@
     <string name="glyph_settings_notifs_sub_title">允许的应用程序</string>
     <string name="glyph_settings_notifs_sub_toggle_title">启用通知动画</string>
     <string name="glyph_settings_notifs_sub_animations_title">样式</string>
+    <string name="glyph_settings_notifs_sub_essential_title">基本通知</string>
+    <string name="glyph_settings_notifs_sub_essential_summary">粒子效果图像将会显示直到基本通知被读取或取消为止。</string>
     <string name="glyph_settings_volume_title">音量</string>
     <string name="glyph_settings_volume_level_toggle_title">音量指示器</string>
     <string name="glyph_settings_volume_level_toggle_summary">调节音量时显示音量大小</string>

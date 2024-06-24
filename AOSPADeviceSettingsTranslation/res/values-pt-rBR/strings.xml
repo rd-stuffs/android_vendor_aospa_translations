@@ -201,7 +201,7 @@
     <string name="popup_camera_front_failed">Não foi possível abrir a câmera frontal. Tente novamente.</string>
     <string name="popup_camera_proximity_obstructed">Retire a mão do sensor de proximidade para abrir a câmera frontal...</string>
     <string name="clear_speaker_title">Limpar alto-falante</string>
-    <string name="clear_speaker_summary">Tocar um som de 30 segundos para limpar o alto-falante</string>
+    <string name="clear_speaker_summary">Reproduza um som de 30 segundos para limpar o alto-falante</string>
     <string name="clear_speaker_description">Execute esse recurso uma ou duas vezes se o alto-falante estiver bloqueado por sujeira ou água. Coloque o volume de mídia no máximo.\n\nSe o alto-falante estiver muito bloqueado, execute esse recurso de 2 a 5 vezes enquanto agita o dispositivo com o alto-falante voltado para baixo.</string>
     <string name="thermal_title">Perfis de otimização</string>
     <string name="thermal_summary">Ajustar perfis por app para obter um melhor desempenho</string>
@@ -214,7 +214,7 @@
     <string name="thermal_streaming">Apps de streaming</string>
     <string name="stylus_title">Caneta Stylus</string>
     <string name="lcd_features_title">Recursos adicionais de tela</string>
-    <string name="lcd_features_summary">Modo de alto brilho (HBM) e controle de luz de fundo adaptável de conteúdo (CABC)</string>
+    <string name="lcd_features_summary">Modo de alto brilho (HBM) e Controle de luz de fundo adaptável de conteúdo (CABC)</string>
     <string name="lcd_features_info">O Modo de alto brilho (HBM) aumenta o brilho máximo da tela para melhorar a visibilidade sob a luz solar. Aumenta o consumo de energia.\n\nO Controle de luz de fundo adaptável de conteúdo (CABC) ajusta o brilho da tela e da luz de fundo com base no conteúdo exibido no momento para reduzir o consumo de energia sem degradação.</string>
     <string name="kernel_not_supported">O kernel não suporta esse recurso</string>
     <string name="lcd_hbm_title">Modo de alto brilho</string>
