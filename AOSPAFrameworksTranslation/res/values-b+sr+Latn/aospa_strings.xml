@@ -20,7 +20,4 @@
     <string name="charging_control_notification_cancel_once">Otkaži</string>
     <string name="charging_control_notification_content_limit">baterija ce biti napunjena do</string>
     <string name="charging_control_notification_content_target_reached">baterija je napunjena</string>
-    <string name="pocket_lock_message_long_press">pritisni i zadrzi power taster da bi ste otljucali</string>
-    <string name="pocket_view_title">dzepni rezim je ukljucen</string>
-    <string name="pocket_view_title_cancel">da bi ste koristili vas telefon </string>
 </resources>
